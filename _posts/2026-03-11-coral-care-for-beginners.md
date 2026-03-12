@@ -6,7 +6,13 @@ description: "The best corals for beginners, what they need to survive, and how 
 tags: [coral care, beginners, soft coral, LPS, reef tank]
 ---
 
+
 ## Why Coral Selection Matters More Than Technique
+
+<div class="safety-note">
+**Safety Note:** Always dip new corals before adding them to your display tank to reduce the risk of introducing pests like flatworms or Acropora-eating flatworms (AEFW). Wear gloves when handling corals - some species (especially Palythoas and Zoanthids) contain palytoxin, which is hazardous to skin and eyes.
+</div>
+
 
 The most common reason beginner corals die is a mismatch between what the coral needs and what the tank provides. A beginner reef tank in its first year has fluctuating parameters, inconsistent lighting, and a developing biology. The goal is to choose corals that are naturally tolerant of that variability  -  not corals that need a pristine, dialed-in system.
 
@@ -58,6 +64,9 @@ Soft corals and mushrooms derive most nutrition from light and absorb dissolved 
 
 LPS corals benefit from target feeding two to three times per week. Mysis shrimp, reef roids, and similar fine particulate foods applied directly to open polyps at night (when tentacles are extended) give corals a significant nutritional boost. A [coral feeding syringe](https://amzn.to/placeholder) makes this easy.
 
+
+The [Coral Research Foundation](https://coralresearchfoundation.org/) publishes helpful resources on coral biology that put the care requirements in practical context.
+
 ## FAQ
 
 **What is the easiest coral for an absolute beginner?**
@@ -76,6 +85,14 @@ Leave at least four to six inches between LPS corals and any neighbor. Soft cora
 Standard aquarium LED strips do not provide sufficient PAR or spectrum for coral. You need a purpose-built reef LED or T5 system.
 
 ---
+---
+
+## Related Reading
+
+- [Aquarium Lighting for Reef Tanks](/2026/03/11/aquarium-lighting-for-reef-tanks.html)
+- [Reef Tank Water Chemistry](/2026/03/11/reef-tank-water-chemistry.html)
+
+Before adding corals, make sure your lighting is appropriate. Our [Aquarium Lighting guide](/2026/03/11/aquarium-lighting-for-reef-tanks.html) breaks down PAR requirements by coral type.
 
 ## Recommended Products
 
@@ -86,3 +103,8 @@ Here are a few products to help with what we covered in this guide:
 - **[Reef Phytoplankton Food](https://www.amazon.com/s?k=reef+phytoplankton+coral+food)**
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
+
+<div class="author-bio">
+<p><strong>About the Author</strong></p>
+<p>The ReefCraft Guide team writes about saltwater aquarium keeping from hands-on tank experience. From water chemistry to coral placement, our guides reflect what actually works in a home reef setup - not just what the textbook says.</p>
+</div>
