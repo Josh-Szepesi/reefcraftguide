@@ -8,7 +8,7 @@ tags: [live rock, reef tank, aquascaping, biological filtration]
 
 ## What Live Rock Actually Does
 
-Live rock is not just decoration. It is the biological filtration engine of your reef tank. The porous surface area inside and outside the rock hosts the bacteria colonies that run your nitrogen cycle — converting ammonia to nitrite and nitrite to nitrate. Deeper inside the rock, in low-oxygen zones, different bacteria reduce nitrate to harmless nitrogen gas through a process called denitrification.
+Live rock is not just decoration. It is the biological filtration engine of your reef tank. The porous surface area inside and outside the rock hosts the bacteria colonies that run your nitrogen cycle  -  converting ammonia to nitrite and nitrite to nitrate. Deeper inside the rock, in low-oxygen zones, different bacteria reduce nitrate to harmless nitrogen gas through a process called denitrification.
 
 A well-built live rock structure does in a reef tank what a large canister filter does in a freshwater setup, except it works passively, looks natural, and provides shelter for your livestock.
 
@@ -16,7 +16,7 @@ A well-built live rock structure does in a reef tank what a large canister filte
 
 **Live rock** is harvested from the ocean or aquacultured and arrives teeming with bacteria, coralline algae, and sometimes bonus hitchhikers like small feather dusters, sponges, or tiny crabs. It seeds your tank quickly but can also introduce pests like aiptasia anemones, mantis shrimp, or flatworms.
 
-**Dry rock** is dead — no bacteria, no pests. It takes longer to cycle but is a clean slate. You can seed it with a bottle of live bacteria or add a small amount of cured live rock to kickstart colonization.
+**Dry rock** is dead  -  no bacteria, no pests. It takes longer to cycle but is a clean slate. You can seed it with a bottle of live bacteria or add a small amount of cured live rock to kickstart colonization.
 
 For beginners, a hybrid approach works well: mostly dry rock for the structure, with a small piece or two of live rock from a trusted source to seed the bacteria.
 
@@ -28,13 +28,13 @@ A better target: enough rock to fill roughly 15 to 20 percent of your display ta
 
 ## Popular Rock Types
 
-**Fiji and Tonga live rock** — classic ocean-collected rock, irregular shapes, fast seeding. Risk of pests.
+**Fiji and Tonga live rock**  -  classic ocean-collected rock, irregular shapes, fast seeding. Risk of pests.
 
-**Aquacultured live rock** — grown on frames in the ocean or in tanks. Lower pest risk than wild-collected, still biologically active. Brands like [Walt Smith Aquacultured Rock](https://amzn.to/placeholder) are popular in the hobby.
+**Aquacultured live rock**  -  grown on frames in the ocean or in tanks. Lower pest risk than wild-collected, still biologically active. Brands like [Walt Smith Aquacultured Rock](https://amzn.to/placeholder) are popular in the hobby.
 
-**Reef Saver dry rock** — lightweight, extremely porous, pale white. No pests, no bacteria. Takes patience to cycle but aquascapes beautifully. Available from [BRS (Bulk Reef Supply)](https://amzn.to/placeholder).
+**Reef Saver dry rock**  -  lightweight, extremely porous, pale white. No pests, no bacteria. Takes patience to cycle but aquascapes beautifully. Available from [BRS (Bulk Reef Supply)](https://amzn.to/placeholder).
 
-**CaribSea Life Rock** — dry rock with a natural purple tint from added aragonite. Designed to look like established reef rock out of the box.
+**CaribSea Life Rock**  -  dry rock with a natural purple tint from added aragonite. Designed to look like established reef rock out of the box.
 
 ## Aquascaping Principles
 
@@ -76,3 +76,15 @@ With a bottled bacteria product and a proper cycle, dry rock can be biologically
 
 **Should I rinse live rock before adding it to my tank?**
 Give it a quick rinse in saltwater (not fresh water, which will kill the bacteria), but do not scrub it. You want to preserve the biological life on the surface.
+
+---
+
+## Recommended Products
+
+Here are a few products to help with what we covered in this guide:
+
+- **[Live Rock Reef Aquarium](https://www.amazon.com/s?k=live+rock+reef+aquarium)**
+- **[Cured Base Rock](https://www.amazon.com/s?k=base+rock+reef+aquarium+cured)**
+- **[Reef Coralline Accelerator](https://www.amazon.com/s?k=reef+coralline+accelerator+purple+up)**
+
+*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
