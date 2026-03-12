@@ -6,7 +6,13 @@ description: "A complete reef tank maintenance schedule covering what to check d
 tags: [reef tank maintenance, schedule, water changes, reef tank]
 ---
 
+
 ## Why a Maintenance Schedule Matters
+
+<div class="safety-note">
+**Safety Note:** When mixing saltwater, use RO/DI water and mix in a dedicated container - never mix salt directly in the display tank. Wear gloves when handling salt mix to avoid skin irritation. Keep chemical additives (calcium, alkalinity, magnesium) stored away from children and pets.
+</div>
+
 
 A reef tank rewards consistency more than any other type of aquarium. The chemical and biological balance of a reef system is stable when small stresses are addressed regularly and before they compound. A tank that receives consistent, routine maintenance will outperform a tank that receives occasional intensive care every time.
 
@@ -24,7 +30,9 @@ This schedule is built around a 40 to 75 gallon mixed reef with soft corals and 
 
 ## Weekly Tasks (30 to 60 minutes)
 
-**Water change.** A 10 to 15 percent water change is the single most effective maintenance task for a reef tank. Mix your salt water in advance to allow it to reach display temperature and fully oxygenate before adding it to the tank. Use RODI water and a quality salt mix.
+**[Water change](/2026/03/11/reef-tank-water-chemistry.html).** A 10 to 15 percent water change is the single most effective maintenance task for a reef tank. Mix your salt water in advance to allow it to reach display temperature and fully oxygenate before adding it to the tank. Use RODI water and a quality salt mix.
+
+We've found that the hobbyists with the best tanks aren't doing heroic interventions - they're doing boring, consistent small tasks on a set schedule. A 10% weekly water change and a weekly glass scrape will outperform any fancy dosing system on a neglected tank.
 
 **Test water parameters.** At minimum: salinity, temperature, alkalinity, and nitrate. In a new or recently restocked tank, also test ammonia and nitrite. Log your results  -  a trend is more informative than a single data point.
 
@@ -68,6 +76,9 @@ This schedule is built around a 40 to 75 gallon mixed reef with soft corals and 
 
 A [complete reef maintenance kit](https://amzn.to/placeholder) covering glass cleaners, scrapers, and a flexible brush set makes the physical side of maintenance much faster. A dedicated bucket and mixing container for salt water, marked with volume lines, simplifies weekly water changes.
 
+
+The [Reef2Reef wiki on maintenance schedules](https://www.reef2reef.com/) aggregates community-tested routines for tanks of various sizes and complexity levels.
+
 ## FAQ
 
 **What is the single most important maintenance task for a reef tank?**
@@ -86,6 +97,14 @@ Overfeeding is the most common cause. Check your filter socks and skimmer for ex
 A deep sand bed (4 inches or more) is self-cleaning through biological activity. Shallow sand beds of 1 to 2 inches benefit from gentle vacuuming during water changes to remove accumulated detritus from the surface.
 
 ---
+---
+
+## Related Reading
+
+- [Reef Tank Water Chemistry](/2026/03/11/reef-tank-water-chemistry.html)
+- [Protein Skimmer Guide](/2026/03/11/protein-skimmer-guide.html)
+
+For the chemistry side of maintenance, our [Reef Tank Water Chemistry guide](/2026/03/11/reef-tank-water-chemistry.html) covers testing and dosing in detail.
 
 ## Recommended Products
 
@@ -96,3 +115,8 @@ Here are a few products to help with what we covered in this guide:
 - **[Water Change Kit](https://www.amazon.com/s?k=aquarium+water+change+bucket+tubing)**
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
+
+<div class="author-bio">
+<p><strong>About the Author</strong></p>
+<p>The ReefCraft Guide team writes about saltwater aquarium keeping from hands-on tank experience. From water chemistry to coral placement, our guides reflect what actually works in a home reef setup - not just what the textbook says.</p>
+</div>
