@@ -6,9 +6,15 @@ description: "A complete guide to refugium setup for reef tanks  -  what a refug
 tags: [refugium, reef tank, macroalgae, nitrate, sump]
 ---
 
+
 ## What a Refugium Does for a Reef Tank
 
-A refugium is a separate compartment  -  usually housed in your sump  -  that runs in parallel with your main display tank. It serves several functions that directly improve your reef tank's health.
+<div class="safety-note">
+**Safety Note:** When adding macroalgae to a refugium, quarantine it first if sourced from another tank - it can carry pests. Ensure your refugium is plumbed securely; an overflow or pump failure can flood your stand. All electrical connections must be GFCI-protected.
+</div>
+
+
+A refugium is a separate compartment  -  usually housed in your [sump](/2026/03/11/aquarium-sump-setup-guide.html)  -  that runs in parallel with your main display tank. It serves several functions that directly improve your reef tank's health.
 
 **Nutrient export** is the primary purpose. Fast-growing macroalgae like chaeto (Chaetomorpha) and gracilaria absorb nitrate and phosphate as they grow. When you harvest the algae and discard it, those nutrients leave the system permanently. This is one of the most effective and natural methods of nutrient control available to reef keepers.
 
@@ -60,6 +66,9 @@ A small refugium powerhead or a dedicated branch from your return pump provides 
 
 Harvest chaeto when it fills roughly 75 percent of the refugium volume. Pull out half to two-thirds of the mass and discard it. Do not harvest everything  -  leaving a healthy mass maintains the copepod population and keeps the nutrient export going without interruption.
 
+
+Dr. Walter Adey's pioneering work on algae turf scrubbers and refugium biology is summarized in accessible form at [Advanced Aquarist](https://www.advancedaquarist.com/).
+
 ## FAQ
 
 **Do I need a refugium on a reef tank?**
@@ -78,6 +87,14 @@ No. Chaeto does not reproduce sexually in the same way that caulerpa does. It is
 When it fills about three-quarters of the refugium space, harvest half. This typically means every two to four weeks depending on how fast your particular system grows it.
 
 ---
+---
+
+## Related Reading
+
+- [Aquarium Sump Setup Guide](/2026/03/11/aquarium-sump-setup-guide.html)
+- [Reef Tank Maintenance Schedule](/2026/03/11/reef-tank-maintenance-schedule.html)
+
+A refugium needs a proper sump to sit in. If you haven't set yours up yet, start with our [Sump Setup Guide](/2026/03/11/aquarium-sump-setup-guide.html).
 
 ## Recommended Products
 
@@ -88,3 +105,8 @@ Here are a few products to help with what we covered in this guide:
 - **[Activated Carbon Reef](https://www.amazon.com/s?k=activated+carbon+reef+aquarium+bag)**
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
+
+<div class="author-bio">
+<p><strong>About the Author</strong></p>
+<p>The ReefCraft Guide team writes about saltwater aquarium keeping from hands-on tank experience. From water chemistry to coral placement, our guides reflect what actually works in a home reef setup - not just what the textbook says.</p>
+</div>
