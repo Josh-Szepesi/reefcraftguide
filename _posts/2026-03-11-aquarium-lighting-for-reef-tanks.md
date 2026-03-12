@@ -2,13 +2,13 @@
 layout: post
 title: "Reef Tank Lighting: PAR, Spectrum, and What Actually Matters"
 date: 2026-03-11
-description: "A clear-eyed guide to reef tank lighting — PAR, spectrum, photoperiod, LED vs T5, and practical recommendations for beginner and intermediate reef keepers."
+description: "A clear-eyed guide to reef tank lighting  -  PAR, spectrum, photoperiod, LED vs T5, and practical recommendations for beginner and intermediate reef keepers."
 tags: [reef lighting, PAR, LED, coral, reef tank]
 ---
 
 ## Why Lighting Is the Most Critical Variable in a Reef Tank
 
-Corals are photosynthetic animals. They host symbiotic algae (zooxanthellae) inside their tissue that convert light into energy, providing up to 90 percent of the coral's nutritional needs. Get the lighting wrong — too dim, wrong spectrum, wrong photoperiod — and coral bleaches, starves, or simply fails to thrive no matter how perfect your water chemistry is.
+Corals are photosynthetic animals. They host symbiotic algae (zooxanthellae) inside their tissue that convert light into energy, providing up to 90 percent of the coral's nutritional needs. Get the lighting wrong  -  too dim, wrong spectrum, wrong photoperiod  -  and coral bleaches, starves, or simply fails to thrive no matter how perfect your water chemistry is.
 
 For fish-only tanks, lighting is mostly aesthetic. For any tank with coral, it is the limiting factor.
 
@@ -24,15 +24,15 @@ A PAR meter is worth renting or borrowing before you buy lighting. Many local fi
 
 ## Spectrum: What Color Light Do Corals Need
 
-Coral zooxanthellae absorb blue and red wavelengths most efficiently. In deep ocean water, red light is absorbed quickly, so natural reef environments are dominated by blue. This is why reef lights look so intensely blue to human eyes — they are replicating the spectral quality of blue water at depth.
+Coral zooxanthellae absorb blue and red wavelengths most efficiently. In deep ocean water, red light is absorbed quickly, so natural reef environments are dominated by blue. This is why reef lights look so intensely blue to human eyes  -  they are replicating the spectral quality of blue water at depth.
 
 A ratio of 70 percent blue to 30 percent white is a common starting point for mixed reefs. Heavier blue promotes coral fluorescence and growth. More white creates a more visually natural look and supports macroalgae in refugiums.
 
-UV and violet wavelengths (380–420 nm) drive coral fluorescent protein expression — the vibrant pinks, greens, and oranges you see in photographs. Good reef LEDs include dedicated UV and violet channels.
+UV and violet wavelengths (380–420 nm) drive coral fluorescent protein expression  -  the vibrant pinks, greens, and oranges you see in photographs. Good reef LEDs include dedicated UV and violet channels.
 
 ## LED vs T5 Fluorescent
 
-**LED** is the dominant technology today. Modern reef LEDs from AI, Kessil, Radion, and others are programmable, energy efficient, and capable of delivering more than enough PAR for any coral. The main criticism of early LEDs was uneven spread — hot spots and dim zones — but good modern fixtures have addressed this substantially.
+**LED** is the dominant technology today. Modern reef LEDs from AI, Kessil, Radion, and others are programmable, energy efficient, and capable of delivering more than enough PAR for any coral. The main criticism of early LEDs was uneven spread  -  hot spots and dim zones  -  but good modern fixtures have addressed this substantially.
 
 **T5 fluorescent** tubes produce extremely even, diffuse light and have a proven track record for coral growth. The drawback is bulb replacement cost (every 12 months), higher energy use, and the lack of programmability. Hybrid T5/LED setups are popular with serious reefers who want the best of both.
 
@@ -67,4 +67,16 @@ Brown coloration usually means either not enough light (zooxanthellae density in
 Quality reef LEDs do not have replaceable bulbs in the traditional sense. LED intensity degrades slowly over years of use. A good fixture will maintain usable output for five to eight years before needing replacement.
 
 **Is more light always better for coral?**
-No. Too much light causes photobleaching and tissue damage. Every coral species has a PAR range — above that range is just as harmful as below it.
+No. Too much light causes photobleaching and tissue damage. Every coral species has a PAR range  -  above that range is just as harmful as below it.
+
+---
+
+## Recommended Products
+
+Here are a few products to help with what we covered in this guide:
+
+- **[Reef Aquarium LED Light](https://www.amazon.com/s?k=reef+aquarium+led+light+full+spectrum)**
+- **[PAR Meter Reef](https://www.amazon.com/s?k=par+meter+apogee+reef+aquarium)**
+- **[Aquarium Light Timer](https://www.amazon.com/s?k=aquarium+light+timer+programmable)**
+
+*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
