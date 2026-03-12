@@ -8,7 +8,7 @@ tags: [reef tank, beginners, setup, saltwater]
 
 ## Why a Reef Tank Is Worth the Effort
 
-A reef tank is not the easiest aquarium to keep, but it is one of the most rewarding. You are recreating a slice of the ocean inside a glass box — complete with living coral, diverse fish, and invertebrates that interact in ways freshwater tanks simply cannot match. If you are willing to learn the fundamentals and resist the urge to rush, a reef tank can be stable, beautiful, and genuinely low-maintenance once it matures.
+A reef tank is not the easiest aquarium to keep, but it is one of the most rewarding. You are recreating a slice of the ocean inside a glass box  -  complete with living coral, diverse fish, and invertebrates that interact in ways freshwater tanks simply cannot match. If you are willing to learn the fundamentals and resist the urge to rush, a reef tank can be stable, beautiful, and genuinely low-maintenance once it matures.
 
 This guide covers everything you need to get started: choosing the right tank size, understanding the nitrogen cycle, stocking sensibly, and avoiding the mistakes that end most beginner reef tanks in the first six months.
 
@@ -34,7 +34,7 @@ For beginners, an all-in-one (AIO) tank that has a built-in back compartment is 
 
 **Protein skimmer** pulls dissolved organic compounds out of the water before they break down into nitrates. Even a mid-range skimmer like the [Reef Octopus Classic 100](https://amzn.to/placeholder) makes a noticeable difference in water clarity and stability.
 
-**Heater** should be quality and sized for your tank. Two smaller heaters running in parallel is safer than one large heater — if one fails open (stuck on), it cannot cook your tank alone.
+**Heater** should be quality and sized for your tank. Two smaller heaters running in parallel is safer than one large heater  -  if one fails open (stuck on), it cannot cook your tank alone.
 
 ## The Nitrogen Cycle: Do Not Skip This
 
@@ -80,3 +80,15 @@ Buy used equipment from local reef clubs or Facebook groups. A used AIO tank, a 
 
 **How often do I need to do water changes?**
 A 10 to 15 percent weekly water change is a solid standard for a new reef. Some mature tanks can go biweekly, but consistency matters more than volume.
+
+---
+
+## Recommended Products
+
+Here are a few products to help with what we covered in this guide:
+
+- **[Reef Aquarium Starter Kit](https://www.amazon.com/s?k=reef+aquarium+starter+kit)**
+- **[API Reef Master Test Kit](https://www.amazon.com/s?k=api+master+reef+test+kit)**
+- **[Reef LED Light Budget](https://www.amazon.com/s?k=reef+led+light+budget+full+spectrum)**
+
+*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
