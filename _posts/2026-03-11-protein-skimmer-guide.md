@@ -6,7 +6,13 @@ description: "A practical guide to protein skimmers for reef tanks  -  how they 
 tags: [protein skimmer, reef tank, equipment, filtration]
 ---
 
+
 ## What a Protein Skimmer Does
+
+<div class="safety-note">
+**Safety Note:** Keep your protein skimmer's collection cup clean - a neglected cup can overflow into your sump or cause a flood. Always unplug electrical equipment before adjusting or cleaning it. GFCI protection on all aquarium outlets is essential.
+</div>
+
 
 A protein skimmer removes dissolved organic compounds (DOC) from your reef tank water before bacteria break them down into ammonia and eventually nitrate. It works by injecting thousands of tiny air bubbles into a reaction chamber. Organic molecules  -  proteins, amino acids, fatty acids  -  are attracted to the air-water interface of those bubbles. They collect on the bubble surface, rise to the top of the chamber as thick foam, and overflow into a collection cup that you empty every few days.
 
@@ -58,6 +64,9 @@ New skimmers do not perform immediately. Expect an erratic break-in period of on
 
 Empty and rinse the collection cup every two to three days. A dirty cup with dried skimmate around the neck restricts foam from entering the cup and dramatically reduces skimmer efficiency. Every few weeks, remove the pump and clean the impeller and volute with a small brush.
 
+
+Randy Holmes-Farley's chemistry articles on [Reef Central](https://www.reefcentral.com/forums/showthread.php?t=8432) cover nutrient export in detail and help contextualize what skimmers actually remove.
+
 ## FAQ
 
 **Do I need a skimmer for a fish-only tank?**
@@ -76,6 +85,14 @@ An oversized skimmer will pull out organics very efficiently  -  that is not a p
 Some hobbyists turn it off for an hour after feeding to avoid pulling out fresh food before fish and coral can consume it. This is optional and matters more with broadcast-fed coral foods than with pellets or frozen food.
 
 ---
+---
+
+## Related Reading
+
+- [Aquarium Sump Setup Guide](/2026/03/11/aquarium-sump-setup-guide.html)
+- [Refugium Setup Guide](/2026/03/11/refugium-setup-guide.html)
+
+A skimmer works best paired with a sump. If you haven't built yours yet, check our [Sump Setup Guide](/2026/03/11/aquarium-sump-setup-guide.html).
 
 ## Recommended Products
 
@@ -86,3 +103,8 @@ Here are a few products to help with what we covered in this guide:
 - **[Activated Carbon Reef](https://www.amazon.com/s?k=activated+carbon+reef+aquarium+bag)**
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
+
+<div class="author-bio">
+<p><strong>About the Author</strong></p>
+<p>The ReefCraft Guide team writes about saltwater aquarium keeping from hands-on tank experience. From water chemistry to coral placement, our guides reflect what actually works in a home reef setup - not just what the textbook says.</p>
+</div>
