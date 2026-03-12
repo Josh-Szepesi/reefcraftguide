@@ -6,13 +6,19 @@ description: "A practical guide to reef tank water chemistry  -  which parameter
 tags: [water chemistry, reef tank, alkalinity, calcium, parameters]
 ---
 
+
 ## The Core Parameters of a Reef Tank
+
+<div class="safety-note">
+**Safety Note:** Two-part calcium and alkalinity supplements should never be dosed at the same time in the same location - they will precipitate and crash your pH. Dose at different locations or at different times. When using kalkwasser, add it slowly and only to the sump - adding it to the display tank too quickly will spike pH and stress livestock.
+</div>
+
 
 Reef tank water chemistry feels intimidating because there are many parameters to track, but in practice only a handful require regular attention. Understanding what each parameter does  -  and why it matters  -  makes the whole system much less overwhelming.
 
 ### Salinity
 
-Salinity is the measure of dissolved salts in your water. For a reef tank, target 1.025 to 1.026 specific gravity (35 ppt). Below this range, invertebrates and coral become stressed. Above it, you are wasting salt mix on water changes.
+Salinity is the measure of dissolved salts in your water. For a reef tank, target 1.025 to 1.026 specific gravity (35 ppt). Below this range, invertebrates and [coral](/2026/03/11/coral-care-for-beginners.html) become stressed. Above it, you are wasting salt mix on water changes.
 
 Measure with a refractometer or a quality digital meter like the [Milwaukee MW102](https://amzn.to/placeholder). Swing-arm hydrometers are notoriously inaccurate and not worth using in a system with coral.
 
@@ -60,6 +66,9 @@ In tanks with heavy stony coral loads, water changes alone cannot replace the al
 
 For beginner tanks with soft corals and light LPS, a 10 to 15 percent weekly water change with quality salt mix is sufficient. Do not start dosing until you have tested and confirmed an actual deficiency.
 
+
+Randy Holmes-Farley's [chemistry FAQ on Reef Central](https://www.reefcentral.com/forums/showthread.php?t=8432) remains the most thorough publicly available resource on reef water chemistry fundamentals.
+
 ## FAQ
 
 **How often should I test my reef tank water?**
@@ -78,6 +87,14 @@ Standard Instant Ocean is adequate for fish-only and soft coral tanks. For LPS a
 A rapid alkalinity drop  -  more than 2 dKH in a day  -  can cause coral to bleach or RTN (rapid tissue necrosis), where tissue recedes visibly over hours. Correct alkalinity deficiencies slowly and never raise dKH more than 1 to 2 units per day.
 
 ---
+---
+
+## Related Reading
+
+- [Reef Tank Maintenance Schedule](/2026/03/11/reef-tank-maintenance-schedule.html)
+- [Coral Care for Beginners](/2026/03/11/coral-care-for-beginners.html)
+
+Solid parameters need consistent testing. For a full maintenance routine, see our [Reef Tank Maintenance Schedule](/2026/03/11/reef-tank-maintenance-schedule.html).
 
 ## Recommended Products
 
@@ -88,3 +105,8 @@ Here are a few products to help with what we covered in this guide:
 - **[Milwaukee pH Meter](https://www.amazon.com/s?k=milwaukee+ph+meter+saltwater)**
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
+
+<div class="author-bio">
+<p><strong>About the Author</strong></p>
+<p>The ReefCraft Guide team writes about saltwater aquarium keeping from hands-on tank experience. From water chemistry to coral placement, our guides reflect what actually works in a home reef setup - not just what the textbook says.</p>
+</div>
