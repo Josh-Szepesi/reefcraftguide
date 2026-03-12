@@ -26,13 +26,13 @@ This schedule is built around a 40 to 75 gallon mixed reef with soft corals and 
 
 **Water change.** A 10 to 15 percent water change is the single most effective maintenance task for a reef tank. Mix your salt water in advance to allow it to reach display temperature and fully oxygenate before adding it to the tank. Use RODI water and a quality salt mix.
 
-**Test water parameters.** At minimum: salinity, temperature, alkalinity, and nitrate. In a new or recently restocked tank, also test ammonia and nitrite. Log your results — a trend is more informative than a single data point.
+**Test water parameters.** At minimum: salinity, temperature, alkalinity, and nitrate. In a new or recently restocked tank, also test ammonia and nitrite. Log your results  -  a trend is more informative than a single data point.
 
 **Clean the skimmer collection cup.** Remove, rinse, and dry the cup. Dried skimmate coating the inside reduces efficiency significantly.
 
 **Clean the glass.** Use a magnetic scraper for the front viewing panel. A thin film of coralline or diatom algae accumulates weekly and is easy to remove early, hard to remove once established.
 
-**Top off fresh water if ATO is not installed.** Evaporation concentrates salt — manual top-off with fresh RODI water keeps salinity stable.
+**Top off fresh water if ATO is not installed.** Evaporation concentrates salt  -  manual top-off with fresh RODI water keeps salinity stable.
 
 **Blow off the rocks.** Use a turkey baster or powerhead to blow detritus off live rock surfaces and sand bed. Allow your circulation to carry it into the sump or to the filter sock, where it can be removed.
 
@@ -79,8 +79,20 @@ Occasionally, yes. Missing one water change in an established tank with a mature
 **How do I know if my maintenance is working?**
 Stable or improving water parameters, growing coral, healthy and active fish, and clear water are the signs that your maintenance routine is sufficient.
 
-**My nitrate keeps climbing despite water changes — what am I missing?**
+**My nitrate keeps climbing despite water changes  -  what am I missing?**
 Overfeeding is the most common cause. Check your filter socks and skimmer for excessive waste. Consider adding a refugium with chaeto for passive export. Reduce feeding and increase water change volume temporarily.
 
 **Do I need to clean the sand bed?**
 A deep sand bed (4 inches or more) is self-cleaning through biological activity. Shallow sand beds of 1 to 2 inches benefit from gentle vacuuming during water changes to remove accumulated detritus from the surface.
+
+---
+
+## Recommended Products
+
+Here are a few products to help with what we covered in this guide:
+
+- **[Aquarium Algae Scraper Magnetic](https://www.amazon.com/s?k=aquarium+magnetic+algae+scraper)**
+- **[Gravel Vacuum Siphon](https://www.amazon.com/s?k=aquarium+gravel+vacuum+siphon)**
+- **[Water Change Kit](https://www.amazon.com/s?k=aquarium+water+change+bucket+tubing)**
+
+*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
