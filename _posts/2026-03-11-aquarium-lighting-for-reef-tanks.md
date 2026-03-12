@@ -6,9 +6,15 @@ description: "A clear-eyed guide to reef tank lighting  -  PAR, spectrum, photop
 tags: [reef lighting, PAR, LED, coral, reef tank]
 ---
 
+
 ## Why Lighting Is the Most Critical Variable in a Reef Tank
 
-Corals are photosynthetic animals. They host symbiotic algae (zooxanthellae) inside their tissue that convert light into energy, providing up to 90 percent of the coral's nutritional needs. Get the lighting wrong  -  too dim, wrong spectrum, wrong photoperiod  -  and coral bleaches, starves, or simply fails to thrive no matter how perfect your water chemistry is.
+<div class="safety-note">
+**Safety Note:** Never handle aquarium lighting with wet hands. Always unplug fixtures before cleaning or adjusting. Keep electrical connections away from splash zones and use drip loops on all cords to prevent water from tracking to the outlet.
+</div>
+
+
+[Coral](/2026/03/11/coral-care-for-beginners.html)s are photosynthetic animals. They host symbiotic algae (zooxanthellae) inside their tissue that convert light into energy, providing up to 90 percent of the coral's nutritional needs. Get the lighting wrong  -  too dim, wrong spectrum, wrong photoperiod  -  and coral bleaches, starves, or simply fails to thrive no matter how perfect your water chemistry is.
 
 For fish-only tanks, lighting is mostly aesthetic. For any tank with coral, it is the limiting factor.
 
@@ -52,6 +58,9 @@ Most reef tanks run an 8 to 10 hour photoperiod. A ramp-up and ramp-down period 
 
 New coral frags should be placed in lower light initially, even if they are high-light species. Acclimate over two to four weeks by gradually raising intensity or moving frags up the rock structure.
 
+
+Dana Riddle's coral lighting research, summarized on [Advanced Aquarist](https://www.advancedaquarist.com/), is some of the most rigorous publicly available photobiology work for reef keepers.
+
 ## FAQ
 
 **Can I use a regular aquarium light for a reef tank?**
@@ -70,6 +79,14 @@ Quality reef LEDs do not have replaceable bulbs in the traditional sense. LED in
 No. Too much light causes photobleaching and tissue damage. Every coral species has a PAR range  -  above that range is just as harmful as below it.
 
 ---
+---
+
+## Related Reading
+
+- [Reef Tank Water Chemistry](/2026/03/11/reef-tank-water-chemistry.html)
+- [Coral Care for Beginners](/2026/03/11/coral-care-for-beginners.html)
+
+Great lighting won't help if your water parameters are off. See our [Water Chemistry guide](/2026/03/11/reef-tank-water-chemistry.html) to keep your parameters dialed in.
 
 ## Recommended Products
 
@@ -80,3 +97,8 @@ Here are a few products to help with what we covered in this guide:
 - **[Aquarium Light Timer](https://www.amazon.com/s?k=aquarium+light+timer+programmable)**
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
+
+<div class="author-bio">
+<p><strong>About the Author</strong></p>
+<p>The ReefCraft Guide team writes about saltwater aquarium keeping from hands-on tank experience. From water chemistry to coral placement, our guides reflect what actually works in a home reef setup - not just what the textbook says.</p>
+</div>
