@@ -107,3 +107,15 @@ Keep the return chamber at least one-third full at all times to prevent the pump
 
 **Do I need a check valve on the return line?**
 Recommended but not essential if your sump is sized for full drain-back. A check valve reduces the drain-back volume and gives you more margin for error. Use a spring-loaded check valve rather than a flap style, which can stick open.
+
+---
+
+## Recommended Products
+
+Here are a few products to help with what we covered in this guide:
+
+- **[Protein Skimmer Reef](https://www.amazon.com/s?k=protein+skimmer+reef+aquarium)**
+- **[Filter Sock Aquarium Sump](https://www.amazon.com/s?k=filter+sock+aquarium+sump)**
+- **[Activated Carbon Reef](https://www.amazon.com/s?k=activated+carbon+reef+aquarium+bag)**
+
+*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
