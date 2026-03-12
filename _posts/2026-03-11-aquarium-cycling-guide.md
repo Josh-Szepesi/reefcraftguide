@@ -6,7 +6,13 @@ description: "A step-by-step guide to cycling a reef tank using the ammonia meth
 tags: [nitrogen cycle, cycling, aquarium, reef tank, beneficial bacteria]
 ---
 
-## Why the Nitrogen Cycle Matters
+
+## Why the [Nitrogen Cycle](/2026/03/12/saltwater-tank-cycling-with-fish.html) Matters
+
+<div class="safety-note">
+**Safety Note:** When cycling with ammonia, use pure ammonia with no surfactants or fragrances - always check the label. When handling live rock from the ocean or a display tank, wear gloves; some organisms can sting or irritate skin.
+</div>
+
 
 Every molecule of waste produced in your reef tank  -  fish excretion, uneaten food, dying organisms  -  begins its life as ammonia. Ammonia is extremely toxic to marine life. Even 0.25 ppm of ammonia will stress fish and can kill sensitive invertebrates within days.
 
@@ -62,6 +68,9 @@ During cycling: test ammonia and nitrite daily, nitrate weekly.
 
 Once cycled, add your cleanup crew first  -  a handful of hermit crabs and snails. Wait two weeks, observe ammonia and nitrite (they should stay at zero), then add your first fish. Add livestock slowly and test after each addition.
 
+
+The Bulk Reef Supply [beginner series on cycling](https://www.bulkreefsupply.com/content/post/how-to-cycle-a-reef-tank) is a reliable reference with step-by-step testing protocols.
+
 ## FAQ
 
 **Can I cycle a tank with fish in it?**
@@ -80,6 +89,14 @@ If the live rock comes from a fully established, healthy tank and is transferred
 Do a large water change (50 percent) before adding livestock. Nitrate accumulated during cycling is normal and expected. The goal is to start stocking with a clean baseline.
 
 ---
+---
+
+## Related Reading
+
+- [Reef Tank Water Chemistry](/2026/03/11/reef-tank-water-chemistry.html)
+- [Reef Tank Setup for Beginners](/2026/03/11/reef-tank-setup-for-beginners.html)
+
+Once your tank is cycled, it's time to tackle water chemistry. Read our [Reef Tank Water Chemistry guide](/2026/03/11/reef-tank-water-chemistry.html) next.
 
 ## Recommended Products
 
@@ -90,3 +107,8 @@ Here are a few products to help with what we covered in this guide:
 - **[Seachem Prime Conditioner](https://www.amazon.com/s?k=seachem+prime+water+conditioner)**
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
+
+<div class="author-bio">
+<p><strong>About the Author</strong></p>
+<p>The ReefCraft Guide team writes about saltwater aquarium keeping from hands-on tank experience. From water chemistry to coral placement, our guides reflect what actually works in a home reef setup - not just what the textbook says.</p>
+</div>
