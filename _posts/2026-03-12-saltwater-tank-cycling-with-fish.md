@@ -111,3 +111,15 @@ Remove the body immediately to prevent an extra ammonia spike. Add a few ppm of 
 
 **Should I run a protein skimmer during cycling?**
 You can, but turning it down slightly during the first week lets ammonia build up enough to seed bacteria efficiently. After week one, running the skimmer normally helps export organics and keeps water quality more manageable for the fish.
+
+---
+
+## Recommended Products
+
+Here are a few products to help with what we covered in this guide:
+
+- **[API Master Reef Test Kit](https://www.amazon.com/s?k=api+master+reef+test+kit)**
+- **[Digital Refractometer Salinity](https://www.amazon.com/s?k=digital+refractometer+salinity+reef)**
+- **[Milwaukee pH Meter](https://www.amazon.com/s?k=milwaukee+ph+meter+saltwater)**
+
+*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
