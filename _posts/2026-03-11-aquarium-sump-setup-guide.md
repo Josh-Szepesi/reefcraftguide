@@ -6,13 +6,19 @@ description: "Learn how to plan, build, and plumb an aquarium sump for your reef
 tags: [sump, reef tank, plumbing, filtration, setup]
 ---
 
+
 ## Why a Sump Makes Your Reef Tank Better
+
+<div class="safety-note">
+**Safety Note:** Always use GFCI-protected outlets for all aquarium electrical equipment. When drilling a tank for a sump overflow, use proper diamond-tipped hole saws and have someone guide the process - a cracked tank is a flooded floor.
+</div>
+
 
 A sump is a secondary tank, usually placed in the cabinet below your display tank, that houses equipment and adds total water volume to your system. It is not strictly required, but it transforms a reef tank in several meaningful ways.
 
 More water volume means slower, more stable parameter swings. A heater failure, a missed water change, or a spike in feeding all have less impact when your system holds 80 gallons instead of 50. Stability is the single most valuable quality a reef tank can have, and a sump is one of the most effective ways to buy it.
 
-A sump also moves equipment out of your display. Heaters, protein skimmers, return pumps, and refugium sections all live in the sump, leaving your display tank clean and uncluttered. Maintenance becomes faster because everything is accessible in one place underneath the tank rather than scattered inside a visible aquarium.
+A sump also moves equipment out of your display. Heaters, [protein skimmer](/2026/03/11/protein-skimmer-guide.html)s, return pumps, and refugium sections all live in the sump, leaving your display tank clean and uncluttered. Maintenance becomes faster because everything is accessible in one place underneath the tank rather than scattered inside a visible aquarium.
 
 ## Sizing Your Sump
 
@@ -91,6 +97,9 @@ Mount your skimmer in its own chamber away from return pump turbulence. Turbulen
 
 If you run a refugium section, light it on a reverse schedule from your display tank. Lights on at night in the refugium stabilize your system pH by consuming CO2 during the hours when your display lights are off and photosynthesis has stopped.
 
+
+The Reef2Reef community maintains an extensive [sump design thread](https://www.reef2reef.com/) with real-world builds and plumbing diagrams from experienced hobbyists.
+
 ## FAQ
 
 **Does my reef tank need a sump?**
@@ -109,6 +118,14 @@ Keep the return chamber at least one-third full at all times to prevent the pump
 Recommended but not essential if your sump is sized for full drain-back. A check valve reduces the drain-back volume and gives you more margin for error. Use a spring-loaded check valve rather than a flap style, which can stick open.
 
 ---
+---
+
+## Related Reading
+
+- [Refugium Setup Guide](/2026/03/11/refugium-setup-guide.html)
+- [Protein Skimmer Guide](/2026/03/11/protein-skimmer-guide.html)
+
+A sump pairs naturally with a refugium. Read our [Refugium Setup Guide](/2026/03/11/refugium-setup-guide.html) to add a chaeto chamber to your system.
 
 ## Recommended Products
 
@@ -119,3 +136,8 @@ Here are a few products to help with what we covered in this guide:
 - **[Activated Carbon Reef](https://www.amazon.com/s?k=activated+carbon+reef+aquarium+bag)**
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
+
+<div class="author-bio">
+<p><strong>About the Author</strong></p>
+<p>The ReefCraft Guide team writes about saltwater aquarium keeping from hands-on tank experience. From water chemistry to coral placement, our guides reflect what actually works in a home reef setup - not just what the textbook says.</p>
+</div>
