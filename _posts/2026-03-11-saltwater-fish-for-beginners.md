@@ -2,7 +2,7 @@
 layout: post
 title: "Best Saltwater Fish for Beginners: Hardy, Peaceful, and Reef-Safe Options"
 date: 2026-03-11
-description: "A practical guide to the best saltwater fish for beginner reef tanks — hardy species that tolerate new-tank conditions, stay peaceful, and are safe with coral."
+description: "A practical guide to the best saltwater fish for beginner reef tanks  -  hardy species that tolerate new-tank conditions, stay peaceful, and are safe with coral."
 tags: [saltwater fish, beginners, reef-safe, stocking]
 ---
 
@@ -10,13 +10,13 @@ tags: [saltwater fish, beginners, reef-safe, stocking]
 
 Not all saltwater fish are equal in terms of care difficulty. A good beginner fish tolerates some parameter fluctuation, eats prepared food readily, does not require a species-specific diet, stays peaceful in a community tank, and does not harm coral or invertebrates.
 
-Many of the most popular reef fish — like the mandarin dragonet, which requires live copepods — are actually poor choices until you have a mature, established system. Starting with forgiving species while your tank matures gives you the best odds of success.
+Many of the most popular reef fish  -  like the mandarin dragonet, which requires live copepods  -  are actually poor choices until you have a mature, established system. Starting with forgiving species while your tank matures gives you the best odds of success.
 
 ## Ocellaris Clownfish
 
 The ocellaris clownfish is the classic beginner saltwater fish for good reason. It is hardy, tolerates a wide range of salinity and temperature, eats pellets and frozen food eagerly, and stays small (three inches maximum). A pair will claim a corner of the tank as territory and rarely cause problems with other peaceful species.
 
-Ocellaris clownfish do not require an anemone, though they will host in many soft corals (hammer corals, torch corals, and even large mushrooms are common substitutes). Do not start with an anemone in a new tank — they need a mature, stable system to survive.
+Ocellaris clownfish do not require an anemone, though they will host in many soft corals (hammer corals, torch corals, and even large mushrooms are common substitutes). Do not start with an anemone in a new tank  -  they need a mature, stable system to survive.
 
 ## Royal Gramma
 
@@ -38,7 +38,7 @@ Firefish are jumpers. A tightly covered tank is important with this species.
 
 ## Yellow Tang
 
-The yellow tang is the most popular tang in the hobby and one of the hardiest. It actively grazes algae from rock surfaces, contributes meaningfully to tank maintenance, and tolerates a range of water conditions well. It does require more swimming space than the species above — a 75-gallon minimum is appropriate.
+The yellow tang is the most popular tang in the hobby and one of the hardiest. It actively grazes algae from rock surfaces, contributes meaningfully to tank maintenance, and tolerates a range of water conditions well. It does require more swimming space than the species above  -  a 75-gallon minimum is appropriate.
 
 Tangs are prone to ich (Cryptocaryon irritans), which is the most common saltwater fish disease. Quarantining new fish before adding them to your display tank is important, especially with tangs.
 
@@ -48,9 +48,9 @@ Lionfish, triggers, and larger groupers are predatory and incompatible with inve
 
 ## Stocking Order and Density
 
-Add fish in order of aggressiveness — most peaceful first, slightly more assertive species later. Clownfish and firefish first, tangs later. This gives timid fish time to establish territory before more assertive tank mates arrive.
+Add fish in order of aggressiveness  -  most peaceful first, slightly more assertive species later. Clownfish and firefish first, tangs later. This gives timid fish time to establish territory before more assertive tank mates arrive.
 
-A rough guide for stocking density: one inch of fish per five gallons of water for moderately sized fish. This is not a hard rule — a single 6-inch tang in a 90-gallon tank is very different from six 1-inch fish — but it gives a starting framework.
+A rough guide for stocking density: one inch of fish per five gallons of water for moderately sized fish. This is not a hard rule  -  a single 6-inch tang in a 90-gallon tank is very different from six 1-inch fish  -  but it gives a starting framework.
 
 ## Recommended Hardware
 
@@ -72,3 +72,15 @@ The damselfish family (blue devil damsel, domino damsel, three-stripe damsel) ar
 
 **How long should I wait between adding new fish?**
 Wait at least two to four weeks between additions. This lets your biological filtration adjust to the new bioload and lets you observe each new fish for signs of disease before adding more.
+
+---
+
+## Recommended Products
+
+Here are a few products to help with what we covered in this guide:
+
+- **[API Master Reef Test Kit](https://www.amazon.com/s?k=api+master+reef+test+kit)**
+- **[Digital Refractometer Salinity](https://www.amazon.com/s?k=digital+refractometer+salinity+reef)**
+- **[Milwaukee pH Meter](https://www.amazon.com/s?k=milwaukee+ph+meter+saltwater)**
+
+*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
