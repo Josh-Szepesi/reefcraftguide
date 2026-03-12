@@ -2,13 +2,13 @@
 layout: post
 title: "Reef Tank Water Chemistry: The Parameters That Actually Matter"
 date: 2026-03-11
-description: "A practical guide to reef tank water chemistry — which parameters to test, what ranges to target, and how to correct common imbalances without crashing your tank."
+description: "A practical guide to reef tank water chemistry  -  which parameters to test, what ranges to target, and how to correct common imbalances without crashing your tank."
 tags: [water chemistry, reef tank, alkalinity, calcium, parameters]
 ---
 
 ## The Core Parameters of a Reef Tank
 
-Reef tank water chemistry feels intimidating because there are many parameters to track, but in practice only a handful require regular attention. Understanding what each parameter does — and why it matters — makes the whole system much less overwhelming.
+Reef tank water chemistry feels intimidating because there are many parameters to track, but in practice only a handful require regular attention. Understanding what each parameter does  -  and why it matters  -  makes the whole system much less overwhelming.
 
 ### Salinity
 
@@ -26,19 +26,19 @@ Consistent temperature matters more than the exact value within the acceptable r
 
 ### pH
 
-pH in a reef tank should stay between 8.1 and 8.3. It naturally fluctuates through the day — rising during the photoperiod as photosynthesis consumes CO2, falling at night as respiration adds CO2 back.
+pH in a reef tank should stay between 8.1 and 8.3. It naturally fluctuates through the day  -  rising during the photoperiod as photosynthesis consumes CO2, falling at night as respiration adds CO2 back.
 
-A persistent low pH (below 8.0 around the clock) usually indicates poor gas exchange — a house that is well-sealed in winter, a skimmer drawing indoor air, or insufficient surface agitation. Opening a window near your skimmer air intake often raises pH measurably.
+A persistent low pH (below 8.0 around the clock) usually indicates poor gas exchange  -  a house that is well-sealed in winter, a skimmer drawing indoor air, or insufficient surface agitation. Opening a window near your skimmer air intake often raises pH measurably.
 
 ### Alkalinity (dKH)
 
 Alkalinity is the parameter reef keepers obsess over most, and for good reason. It is the buffering capacity of your water and the primary building block of coral skeletons. Stony corals consume large amounts of alkalinity as they grow.
 
-Target range: 8 to 10 dKH. Keep it stable — swings of more than 1 dKH per day cause stress to sensitive corals. Test alkalinity twice weekly in tanks with stony coral.
+Target range: 8 to 10 dKH. Keep it stable  -  swings of more than 1 dKH per day cause stress to sensitive corals. Test alkalinity twice weekly in tanks with stony coral.
 
 ### Calcium
 
-Coral uses calcium along with alkalinity and magnesium to build calcium carbonate skeleton. Target range: 380 to 450 ppm. Calcium and alkalinity are chemically linked — if one is chronically low, the other usually is too.
+Coral uses calcium along with alkalinity and magnesium to build calcium carbonate skeleton. Target range: 380 to 450 ppm. Calcium and alkalinity are chemically linked  -  if one is chronically low, the other usually is too.
 
 In a tank with only soft corals and modest LPS, regular water changes with a quality salt mix (like Red Sea Coral Pro or Tropic Marin Pro Reef) typically maintain calcium without supplementation.
 
@@ -69,10 +69,22 @@ Weekly testing of salinity, temperature, alkalinity, and nitrate is appropriate 
 Salifert, RedSea, and Hannah Instruments checkers are the most trusted brands in the hobby. API test kits are adequate for nitrate but less accurate for calcium and alkalinity.
 
 **Why does my alkalinity keep dropping?**
-Coral growth consumes alkalinity. If you have stony coral growing rapidly, you need to supplement. Also check for calcium carbonate precipitation in your sump or heater — this removes both calcium and alkalinity from the water.
+Coral growth consumes alkalinity. If you have stony coral growing rapidly, you need to supplement. Also check for calcium carbonate precipitation in your sump or heater  -  this removes both calcium and alkalinity from the water.
 
 **Can I use Instant Ocean salt mix for a reef with coral?**
 Standard Instant Ocean is adequate for fish-only and soft coral tanks. For LPS and especially SPS corals, a reef-formulated salt with elevated calcium, alkalinity, and trace elements (like Red Sea Coral Pro) is a better choice.
 
 **What happens if alkalinity drops too fast?**
-A rapid alkalinity drop — more than 2 dKH in a day — can cause coral to bleach or RTN (rapid tissue necrosis), where tissue recedes visibly over hours. Correct alkalinity deficiencies slowly and never raise dKH more than 1 to 2 units per day.
+A rapid alkalinity drop  -  more than 2 dKH in a day  -  can cause coral to bleach or RTN (rapid tissue necrosis), where tissue recedes visibly over hours. Correct alkalinity deficiencies slowly and never raise dKH more than 1 to 2 units per day.
+
+---
+
+## Recommended Products
+
+Here are a few products to help with what we covered in this guide:
+
+- **[API Master Reef Test Kit](https://www.amazon.com/s?k=api+master+reef+test+kit)**
+- **[Digital Refractometer Salinity](https://www.amazon.com/s?k=digital+refractometer+salinity+reef)**
+- **[Milwaukee pH Meter](https://www.amazon.com/s?k=milwaukee+ph+meter+saltwater)**
+
+*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
