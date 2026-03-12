@@ -6,7 +6,13 @@ description: "Learn how to cycle a saltwater tank with fish safely, including wh
 tags: [cycling, saltwater aquarium, nitrogen cycle, fish-in cycle, reef tank setup]
 ---
 
+
 Cycling a saltwater tank with fish is one of those topics that divides the hobby. Some hobbyists swear by it, others consider it irresponsible. The truth is somewhere in the middle: fish-in cycling is possible, but it demands close attention, the right fish, and a willingness to intervene the moment parameters start trending dangerous.
+
+<div class="safety-note">
+**Safety Note:** Cycling with fish is stressful and potentially fatal for the fish involved. If you choose this method, test [ammonia](/2026/03/11/aquarium-cycling-guide.html) and nitrite daily and do immediate 25-50% water changes if ammonia exceeds 0.5 ppm. Have a backup tank or bucket ready for emergency transfer. Fishless cycling is strongly preferred for any reef tank that will house corals.
+</div>
+
 
 This guide covers the full fish-in cycling process for saltwater tanks, when it makes sense to use it, and how to give your fish the best chance of making it through with minimal stress.
 
@@ -95,6 +101,9 @@ A cycled tank is sized to its current bio-load. Adding too many fish at once ove
 
 ---
 
+
+Bulk Reef Supply's comparison of [fishless vs fish-in cycling methods](https://www.bulkreefsupply.com/content/post/how-to-cycle-a-reef-tank) includes timelines and test result examples from real tanks.
+
 ## FAQ
 
 **Is fish-in cycling harmful to fish?**
@@ -113,6 +122,14 @@ Remove the body immediately to prevent an extra ammonia spike. Add a few ppm of 
 You can, but turning it down slightly during the first week lets ammonia build up enough to seed bacteria efficiently. After week one, running the skimmer normally helps export organics and keeps water quality more manageable for the fish.
 
 ---
+---
+
+## Related Reading
+
+- [Aquarium Cycling Guide](/2026/03/11/aquarium-cycling-guide.html)
+- [Saltwater Fish for Beginners](/2026/03/11/saltwater-fish-for-beginners.html)
+
+For a comparison of all cycling methods, see our [Aquarium Cycling Guide](/2026/03/11/aquarium-cycling-guide.html) which covers fishless, ammonia dosing, and live rock approaches.
 
 ## Recommended Products
 
@@ -123,3 +140,8 @@ Here are a few products to help with what we covered in this guide:
 - **[Milwaukee pH Meter](https://www.amazon.com/s?k=milwaukee+ph+meter+saltwater)**
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
+
+<div class="author-bio">
+<p><strong>About the Author</strong></p>
+<p>The ReefCraft Guide team writes about saltwater aquarium keeping from hands-on tank experience. From water chemistry to coral placement, our guides reflect what actually works in a home reef setup - not just what the textbook says.</p>
+</div>
