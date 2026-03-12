@@ -6,7 +6,13 @@ description: "A complete beginner's guide to setting up a reef tank, covering eq
 tags: [reef tank, beginners, setup, saltwater]
 ---
 
+
 ## Why a Reef Tank Is Worth the Effort
+
+<div class="safety-note">
+**Safety Note:** All aquarium electrical equipment should be plugged into GFCI-protected outlets. Create a drip loop on every cord before it reaches the outlet. Keep a battery-operated air pump on hand for power outages lasting more than a few hours - livestock can deplete oxygen quickly in a still tank.
+</div>
+
 
 A reef tank is not the easiest aquarium to keep, but it is one of the most rewarding. You are recreating a slice of the ocean inside a glass box  -  complete with living coral, diverse fish, and invertebrates that interact in ways freshwater tanks simply cannot match. If you are willing to learn the fundamentals and resist the urge to rush, a reef tank can be stable, beautiful, and genuinely low-maintenance once it matures.
 
@@ -44,7 +50,7 @@ The nitrogen cycle converts toxic ammonia (from fish waste and decaying matter) 
 
 The simplest method for reef tanks:
 
-Add live rock or dry rock seeded with bottled bacteria. Dose ammonia to 2 ppm daily for two weeks. Test every two days. When ammonia and nitrite both read zero within 24 hours of dosing ammonia, your cycle is complete.
+Add [live rock](/2026/03/11/live-rock-guide.html) or dry rock seeded with bottled bacteria. Dose ammonia to 2 ppm daily for two weeks. Test every two days. When ammonia and nitrite both read zero within 24 hours of dosing ammonia, your cycle is complete.
 
 Do not add fish or coral until the cycle finishes. This is the single most common mistake new hobbyists make.
 
@@ -64,6 +70,9 @@ For fish, hardy beginner choices include the ocellaris clownfish, the royal gram
 
 For coral, start with soft corals: mushrooms, zoanthids, and leather corals tolerate a wide range of parameters, grow quickly, and forgive beginner-level fluctuations that would kill an SPS frag.
 
+
+Bulk Reef Supply's [beginner reef tank guide series](https://www.bulkreefsupply.com/content/post/reef-tank-setup) is one of the most complete free educational resources in the hobby.
+
 ## FAQ
 
 **How long does it take to set up a reef tank?**
@@ -82,6 +91,14 @@ Buy used equipment from local reef clubs or Facebook groups. A used AIO tank, a 
 A 10 to 15 percent weekly water change is a solid standard for a new reef. Some mature tanks can go biweekly, but consistency matters more than volume.
 
 ---
+---
+
+## Related Reading
+
+- [Aquarium Cycling Guide](/2026/03/11/aquarium-cycling-guide.html)
+- [Live Rock Guide](/2026/03/11/live-rock-guide.html)
+
+Once your tank is set up, your next step is the nitrogen cycle. Read our [Aquarium Cycling Guide](/2026/03/11/aquarium-cycling-guide.html) before adding any livestock.
 
 ## Recommended Products
 
@@ -92,3 +109,8 @@ Here are a few products to help with what we covered in this guide:
 - **[Reef LED Light Budget](https://www.amazon.com/s?k=reef+led+light+budget+full+spectrum)**
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
+
+<div class="author-bio">
+<p><strong>About the Author</strong></p>
+<p>The ReefCraft Guide team writes about saltwater aquarium keeping from hands-on tank experience. From water chemistry to coral placement, our guides reflect what actually works in a home reef setup - not just what the textbook says.</p>
+</div>
