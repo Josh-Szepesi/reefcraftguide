@@ -6,7 +6,13 @@ description: "Learn why live rock is the biological heart of a reef tank, how mu
 tags: [live rock, reef tank, aquascaping, biological filtration]
 ---
 
+
 ## What Live Rock Actually Does
+
+<div class="safety-note">
+**Safety Note:** Freshly collected or recently shipped live rock can harbor hitchhikers including mantis shrimp, bristle worms, and Aiptasia. Always inspect rock carefully under a flashlight before placing it in your display tank. Bristle worm spines can cause a painful rash - always use gloves when handling live rock.
+</div>
+
 
 Live rock is not just decoration. It is the biological filtration engine of your reef tank. The porous surface area inside and outside the rock hosts the bacteria colonies that run your nitrogen cycle  -  converting ammonia to nitrite and nitrite to nitrate. Deeper inside the rock, in low-oxygen zones, different bacteria reduce nitrate to harmless nitrogen gas through a process called denitrification.
 
@@ -60,6 +66,9 @@ If you buy raw live rock from an online vendor, it needs to be cured before goin
 
 To cure: place rock in a separate container with saltwater and a powerhead, do daily water changes, and scrub off any obviously dead material. After one to two weeks with stable, low ammonia readings, it is ready.
 
+
+NOAA's guidelines on [sustainable live rock collection](https://www.fisheries.noaa.gov/) are worth reading to understand why aquacultured and maricultured rock is increasingly preferred by conscientious hobbyists.
+
 ## FAQ
 
 **Can I use beach rocks or river rocks in a reef tank?**
@@ -78,6 +87,14 @@ With a bottled bacteria product and a proper cycle, dry rock can be biologically
 Give it a quick rinse in saltwater (not fresh water, which will kill the bacteria), but do not scrub it. You want to preserve the biological life on the surface.
 
 ---
+---
+
+## Related Reading
+
+- [Aquarium Cycling Guide](/2026/03/11/aquarium-cycling-guide.html)
+- [Reef Tank Setup for Beginners](/2026/03/11/reef-tank-setup-for-beginners.html)
+
+Once your rock is placed and cured, start your cycle. See our [Aquarium Cycling Guide](/2026/03/11/aquarium-cycling-guide.html) for the full process.
 
 ## Recommended Products
 
@@ -88,3 +105,8 @@ Here are a few products to help with what we covered in this guide:
 - **[Reef Coralline Accelerator](https://www.amazon.com/s?k=reef+coralline+accelerator+purple+up)**
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
+
+<div class="author-bio">
+<p><strong>About the Author</strong></p>
+<p>The ReefCraft Guide team writes about saltwater aquarium keeping from hands-on tank experience. From water chemistry to coral placement, our guides reflect what actually works in a home reef setup - not just what the textbook says.</p>
+</div>
