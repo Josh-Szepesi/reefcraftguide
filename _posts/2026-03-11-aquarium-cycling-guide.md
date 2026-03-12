@@ -2,17 +2,17 @@
 layout: post
 title: "How to Cycle a Reef Tank: The Complete Nitrogen Cycle Guide"
 date: 2026-03-11
-description: "A step-by-step guide to cycling a reef tank using the ammonia method, live rock, or bottled bacteria — with test schedules and troubleshooting tips."
+description: "A step-by-step guide to cycling a reef tank using the ammonia method, live rock, or bottled bacteria  -  with test schedules and troubleshooting tips."
 tags: [nitrogen cycle, cycling, aquarium, reef tank, beneficial bacteria]
 ---
 
 ## Why the Nitrogen Cycle Matters
 
-Every molecule of waste produced in your reef tank — fish excretion, uneaten food, dying organisms — begins its life as ammonia. Ammonia is extremely toxic to marine life. Even 0.25 ppm of ammonia will stress fish and can kill sensitive invertebrates within days.
+Every molecule of waste produced in your reef tank  -  fish excretion, uneaten food, dying organisms  -  begins its life as ammonia. Ammonia is extremely toxic to marine life. Even 0.25 ppm of ammonia will stress fish and can kill sensitive invertebrates within days.
 
 The nitrogen cycle is the biological process that makes reef tanks survivable. Beneficial bacteria colonize your live rock, sand, and equipment surfaces, converting ammonia to nitrite (also toxic, slightly less so) and then nitrite to nitrate (much less toxic in small amounts). Without an established bacterial colony, every tank is a death trap for livestock.
 
-Cycling your tank before adding livestock is not optional — it is the foundation of every successful reef tank.
+Cycling your tank before adding livestock is not optional  -  it is the foundation of every successful reef tank.
 
 ## The Three Main Cycling Methods
 
@@ -20,7 +20,7 @@ Cycling your tank before adding livestock is not optional — it is the foundati
 
 This is the cleanest and most controllable method for new tanks.
 
-Add your rock, sand, salt water, and run your equipment. Dose ammonia (pure ammonium chloride solution — Dr. Tim's Ammonium Chloride is the most commonly used product) to 2 ppm. Test daily or every other day. Dose ammonia back to 2 ppm whenever it drops below 0.5 ppm. Continue until ammonia drops from 2 ppm to zero within 24 hours and nitrite simultaneously reads zero. At this point your cycle is complete.
+Add your rock, sand, salt water, and run your equipment. Dose ammonia (pure ammonium chloride solution  -  Dr. Tim's Ammonium Chloride is the most commonly used product) to 2 ppm. Test daily or every other day. Dose ammonia back to 2 ppm whenever it drops below 0.5 ppm. Continue until ammonia drops from 2 ppm to zero within 24 hours and nitrite simultaneously reads zero. At this point your cycle is complete.
 
 Timeline: typically 3 to 6 weeks from scratch with no bacterial supplement, 2 to 3 weeks with a bottled bacteria product.
 
@@ -38,7 +38,7 @@ Adding cured live rock from an established reef tank seeds your cycle with an ex
 
 Week 1: Fill tank, add rock and sand, run all equipment. Add bacterial supplement if using one. Dose ammonia to 2 ppm. Begin daily testing.
 
-Weeks 2 to 3: Ammonia should begin dropping as bacteria establish. Nitrite will spike — this is normal and expected. Continue dosing ammonia as needed to keep it from going completely to zero (you want to keep feeding the bacteria).
+Weeks 2 to 3: Ammonia should begin dropping as bacteria establish. Nitrite will spike  -  this is normal and expected. Continue dosing ammonia as needed to keep it from going completely to zero (you want to keep feeding the bacteria).
 
 Weeks 3 to 5: Nitrite begins dropping as nitrite-oxidizing bacteria establish. Nitrate will start climbing. Ammonia should be consistently dropping to zero within 24 hours of dosing.
 
@@ -52,15 +52,15 @@ During cycling: test ammonia and nitrite daily, nitrate weekly.
 
 ## Troubleshooting a Stalled Cycle
 
-**Ammonia not dropping after 3 weeks:** Check your pH (should be 7.8 or above — low pH inhibits bacteria). Confirm your test kit is accurate (old reagents give false readings). Add fresh bottled bacteria.
+**Ammonia not dropping after 3 weeks:** Check your pH (should be 7.8 or above  -  low pH inhibits bacteria). Confirm your test kit is accurate (old reagents give false readings). Add fresh bottled bacteria.
 
-**Nitrite spiked but not dropping:** The nitrite-oxidizing bacteria (Nitrospira) are slower to establish than ammonia-oxidizing bacteria. Give it another week. Do not do water changes during an active cycle unless ammonia is above 4 ppm — changing water dilutes the ammonia that feeds the bacteria.
+**Nitrite spiked but not dropping:** The nitrite-oxidizing bacteria (Nitrospira) are slower to establish than ammonia-oxidizing bacteria. Give it another week. Do not do water changes during an active cycle unless ammonia is above 4 ppm  -  changing water dilutes the ammonia that feeds the bacteria.
 
 **Cycle took way longer than expected:** Very warm water (above 82°F) or very cold water (below 68°F) slows bacterial growth. Chlorine or chloramine in the water supply kills bacteria (always use RODI water). Copper residue from pipes can also inhibit colonization.
 
 ## After the Cycle
 
-Once cycled, add your cleanup crew first — a handful of hermit crabs and snails. Wait two weeks, observe ammonia and nitrite (they should stay at zero), then add your first fish. Add livestock slowly and test after each addition.
+Once cycled, add your cleanup crew first  -  a handful of hermit crabs and snails. Wait two weeks, observe ammonia and nitrite (they should stay at zero), then add your first fish. Add livestock slowly and test after each addition.
 
 ## FAQ
 
@@ -74,7 +74,19 @@ Sand adds beneficial surface area and looks natural, but is not required for cyc
 A large water change during an active cycle dilutes both the ammonia source and the developing bacteria population. This is why water changes are avoided during cycling except to prevent ammonia from exceeding 4 ppm.
 
 **Can live rock from a fish store cycle a tank instantly?**
-If the live rock comes from a fully established, healthy tank and is transferred quickly, it can dramatically shorten your cycle — sometimes to just a few days. But "instant cycle" claims should always be verified with testing before adding livestock.
+If the live rock comes from a fully established, healthy tank and is transferred quickly, it can dramatically shorten your cycle  -  sometimes to just a few days. But "instant cycle" claims should always be verified with testing before adding livestock.
 
 **What do I do if my cycle is complete but nitrate is very high?**
 Do a large water change (50 percent) before adding livestock. Nitrate accumulated during cycling is normal and expected. The goal is to start stocking with a clean baseline.
+
+---
+
+## Recommended Products
+
+Here are a few products to help with what we covered in this guide:
+
+- **[Beneficial Bacteria Reef](https://www.amazon.com/s?k=beneficial+bacteria+reef+cycling)**
+- **[CaribSea Live Sand](https://www.amazon.com/s?k=live+sand+caribsea+arag+alive)**
+- **[Seachem Prime Conditioner](https://www.amazon.com/s?k=seachem+prime+water+conditioner)**
+
+*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
