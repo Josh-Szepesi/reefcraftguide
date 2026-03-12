@@ -2,19 +2,19 @@
 layout: post
 title: "How to Set Up a Refugium for Your Reef Tank"
 date: 2026-03-11
-description: "A complete guide to refugium setup for reef tanks — what a refugium does, how to build one, what to grow in it, and how to light and plumb it."
+description: "A complete guide to refugium setup for reef tanks  -  what a refugium does, how to build one, what to grow in it, and how to light and plumb it."
 tags: [refugium, reef tank, macroalgae, nitrate, sump]
 ---
 
 ## What a Refugium Does for a Reef Tank
 
-A refugium is a separate compartment — usually housed in your sump — that runs in parallel with your main display tank. It serves several functions that directly improve your reef tank's health.
+A refugium is a separate compartment  -  usually housed in your sump  -  that runs in parallel with your main display tank. It serves several functions that directly improve your reef tank's health.
 
 **Nutrient export** is the primary purpose. Fast-growing macroalgae like chaeto (Chaetomorpha) and gracilaria absorb nitrate and phosphate as they grow. When you harvest the algae and discard it, those nutrients leave the system permanently. This is one of the most effective and natural methods of nutrient control available to reef keepers.
 
-**Copepod production** — the refugium becomes a protected breeding ground for copepods, amphipods, and other microfauna. These tiny crustaceans are the natural food of mandarin dragonets and many other fish. They also serve as a constant source of live food that stimulates hunting behavior in finicky eaters.
+**Copepod production**  -  the refugium becomes a protected breeding ground for copepods, amphipods, and other microfauna. These tiny crustaceans are the natural food of mandarin dragonets and many other fish. They also serve as a constant source of live food that stimulates hunting behavior in finicky eaters.
 
-**pH stabilization** — running your refugium on a reverse light schedule (lights on at night, when display tank lights are off) allows photosynthesis in the refugium to consume CO2 while the display tank is respiring and adding it. This buffers the natural pH swing that occurs in reef tanks through the day-night cycle.
+**pH stabilization**  -  running your refugium on a reverse light schedule (lights on at night, when display tank lights are off) allows photosynthesis in the refugium to consume CO2 while the display tank is respiring and adding it. This buffers the natural pH swing that occurs in reef tanks through the day-night cycle.
 
 ## Refugium Location Options
 
@@ -48,17 +48,17 @@ Dedicated refugium lights like the [Kessil H380](https://amzn.to/placeholder) or
 
 Budget option: a basic LED grow light with decent blue/red spectrum from any hydroponic supply store works adequately for chaeto cultivation at a fraction of the cost.
 
-Run your refugium light on a timer set to the opposite schedule of your display tank — on at night, off during the day.
+Run your refugium light on a timer set to the opposite schedule of your display tank  -  on at night, off during the day.
 
 ## Flow Rate
 
-Chaeto prefers enough flow to keep it gently tumbling — approximately 5 to 10 times refugium volume per hour. Too much flow blasts it against screens and inhibits growth. Too little and it compacts and the interior dies off.
+Chaeto prefers enough flow to keep it gently tumbling  -  approximately 5 to 10 times refugium volume per hour. Too much flow blasts it against screens and inhibits growth. Too little and it compacts and the interior dies off.
 
 A small refugium powerhead or a dedicated branch from your return pump provides appropriate flow.
 
 ## Harvesting
 
-Harvest chaeto when it fills roughly 75 percent of the refugium volume. Pull out half to two-thirds of the mass and discard it. Do not harvest everything — leaving a healthy mass maintains the copepod population and keeps the nutrient export going without interruption.
+Harvest chaeto when it fills roughly 75 percent of the refugium volume. Pull out half to two-thirds of the mass and discard it. Do not harvest everything  -  leaving a healthy mass maintains the copepod population and keeps the nutrient export going without interruption.
 
 ## FAQ
 
@@ -76,3 +76,15 @@ No. Chaeto does not reproduce sexually in the same way that caulerpa does. It is
 
 **How often should I harvest chaeto?**
 When it fills about three-quarters of the refugium space, harvest half. This typically means every two to four weeks depending on how fast your particular system grows it.
+
+---
+
+## Recommended Products
+
+Here are a few products to help with what we covered in this guide:
+
+- **[Protein Skimmer Reef](https://www.amazon.com/s?k=protein+skimmer+reef+aquarium)**
+- **[Filter Sock Aquarium Sump](https://www.amazon.com/s?k=filter+sock+aquarium+sump)**
+- **[Activated Carbon Reef](https://www.amazon.com/s?k=activated+carbon+reef+aquarium+bag)**
+
+*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
