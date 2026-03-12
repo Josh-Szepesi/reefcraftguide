@@ -6,7 +6,13 @@ description: "A practical guide to the best saltwater fish for beginner reef tan
 tags: [saltwater fish, beginners, reef-safe, stocking]
 ---
 
+
 ## What Makes a Good Beginner Saltwater Fish
+
+<div class="safety-note">
+**Safety Note:** Always quarantine new fish for at least 4 weeks before adding them to your display tank - skipping this step is the most common way ich gets introduced. Keep a quarantine tank running or ready to set up quickly. Handle fish as little as possible; many species can inflict painful wounds.
+</div>
+
 
 Not all saltwater fish are equal in terms of care difficulty. A good beginner fish tolerates some parameter fluctuation, eats prepared food readily, does not require a species-specific diet, stays peaceful in a community tank, and does not harm coral or invertebrates.
 
@@ -56,6 +62,9 @@ A rough guide for stocking density: one inch of fish per five gallons of water f
 
 A quality quarantine tank for new fish prevents most disease outbreaks. Even a [simple 10-gallon QT tank](https://amzn.to/placeholder) with a bare bottom, a sponge filter, and a heater will save a lot of heartache.
 
+
+The [Reef Central species profiles](https://www.reefcentral.com/) are a useful reference for compatibility, max size, and minimum tank requirements before you commit to a fish.
+
 ## FAQ
 
 **How many fish can I keep in a reef tank?**
@@ -74,6 +83,14 @@ The damselfish family (blue devil damsel, domino damsel, three-stripe damsel) ar
 Wait at least two to four weeks between additions. This lets your biological filtration adjust to the new bioload and lets you observe each new fish for signs of disease before adding more.
 
 ---
+---
+
+## Related Reading
+
+- [Aquarium Cycling Guide](/2026/03/11/aquarium-cycling-guide.html)
+- [Reef Tank Setup for Beginners](/2026/03/11/reef-tank-setup-for-beginners.html)
+
+Before adding fish, make sure your tank is properly cycled. Our [Aquarium Cycling Guide](/2026/03/11/aquarium-cycling-guide.html) walks through the full process.
 
 ## Recommended Products
 
@@ -84,3 +101,8 @@ Here are a few products to help with what we covered in this guide:
 - **[Milwaukee pH Meter](https://www.amazon.com/s?k=milwaukee+ph+meter+saltwater)**
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
+
+<div class="author-bio">
+<p><strong>About the Author</strong></p>
+<p>The ReefCraft Guide team writes about saltwater aquarium keeping from hands-on tank experience. From water chemistry to coral placement, our guides reflect what actually works in a home reef setup - not just what the textbook says.</p>
+</div>
