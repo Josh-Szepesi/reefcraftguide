@@ -4,10 +4,9 @@ title: "How to Cycle a Reef Tank: The Complete Nitrogen Cycle Guide"
 date: 2026-03-11
 description: "A step-by-step guide to cycling a reef tank using the ammonia method, live rock, or bottled bacteria  -  with test schedules and troubleshooting tips."
 tags: [nitrogen cycle, cycling, aquarium, reef tank, beneficial bacteria]
-image: /assets/images/2026-03-11-aquarium-cycling-guide.jpg
 ---
 
-
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 ## Why the [Nitrogen Cycle](/2026/03/12/saltwater-tank-cycling-with-fish.html) Matters
 
@@ -21,11 +20,6 @@ Every molecule of waste produced in your reef tank  -  fish excretion, uneaten f
 The nitrogen cycle is the biological process that makes reef tanks survivable. Beneficial bacteria colonize your live rock, sand, and equipment surfaces, converting ammonia to nitrite (also toxic, slightly less so) and then nitrite to nitrate (much less toxic in small amounts). Without an established bacterial colony, every tank is a death trap for livestock.
 
 Cycling your tank before adding livestock is not optional  -  it is the foundation of every successful reef tank.
-
-
-![How to Cycle a Reef Tank: The Complete Nitrogen Cycle Guide](/assets/images/2026-03-11-aquarium-cycling-guide.jpg)
-
-<p class="image-credit">Photo by <a href="https://unsplash.com/@faintsam?utm_source=artlines_blog&utm_medium=referral">F aint</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## The Three Main Cycling Methods
 
@@ -109,11 +103,10 @@ Once your tank is cycled, it's time to tackle water chemistry. Read our [Reef Ta
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Beneficial Bacteria Reef](https://www.amazon.com/s?k=beneficial+bacteria+reef+cycling)**
-- **[CaribSea Live Sand](https://www.amazon.com/s?k=live+sand+caribsea+arag+alive)**
-- **[Seachem Prime Conditioner](https://www.amazon.com/s?k=seachem+prime+water+conditioner)**
+- **[Beneficial Bacteria Reef](https://www.amazon.com/s?k=beneficial+bacteria+reef+cycling&tag=mbbeekeeping-20)**
+- **[CaribSea Live Sand](https://www.amazon.com/s?k=live+sand+caribsea+arag+alive&tag=mbbeekeeping-20)**
+- **[Seachem Prime Conditioner](https://www.amazon.com/s?k=seachem+prime+water+conditioner&tag=mbbeekeeping-20)**
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 <div class="author-bio">
 <p><strong>About the Author</strong></p>
