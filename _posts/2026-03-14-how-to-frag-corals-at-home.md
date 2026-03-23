@@ -3,13 +3,20 @@ layout: post
 title: "How to Frag Corals at Home: A Step-by-Step Guide"
 date: 2026-03-14
 description: "Learn how to frag corals at home with the right tools and technique. Step-by-step guide covering soft corals, LPS, and SPS fragging methods."
+image: /assets/images/2026-03-14-how-to-frag-corals-at-home.jpg
 ---
+
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 Fragging corals is one of the most satisfying skills in the reef hobby. When I first tried to frag corals in my own tank, I was nervous about harming livestock I had spent months growing out - but with the right tools and a bit of preparation, the process is straightforward and the rewards are real. You can expand your reef, trade frags with fellow hobbyists, or sell extras to offset the cost of the hobby. This guide covers every step: tools, technique, recovery, and what to do when things go sideways.
 
 **Safety Note:** Fragging involves sharp tools, electrical equipment, and stressed livestock. Always unplug your return pump and powerheads before removing coral from the tank to avoid cutting your hands on live rock or injuring yourself on rotating equipment. Wear nitrile gloves when handling corals - this protects both you and the coral from skin oils and potential toxins. Some soft corals, especially palythoas and zoanthids, contain palytoxin, which is seriously dangerous if it enters your eyes, nose, or mouth. Work in a well-ventilated area when fragging any zoanthid or palythoa species, and wear eye protection.
+
+
+![How to Frag Corals at Home: A Step-by-Step Guide](/assets/images/2026-03-14-how-to-frag-corals-at-home.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@roum?utm_source=artlines_blog&utm_medium=referral">Elena Rouame</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## Why Fragging Makes Sense
 
@@ -135,4 +142,3 @@ If you are just starting with coral keeping, read our [guide to beginner corals]
   <p><strong>About the Author</strong></p>
   <p>The ReefCraft Guide team writes about saltwater aquarium keeping from hands-on tank experience. From water chemistry to coral placement, our guides reflect what actually works in a home reef setup - not just what the textbook says.</p>
 </div>
-
