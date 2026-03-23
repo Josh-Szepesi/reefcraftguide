@@ -4,9 +4,16 @@ title: "Live Rock in a Reef Tank: What It Does and How to Choose It"
 date: 2026-03-11
 description: "Learn why live rock is the biological heart of a reef tank, how much you need, the difference between live and dry rock, and how to aquascape for flow and aesthetics."
 tags: [live rock, reef tank, aquascaping, biological filtration]
+image: /assets/images/2026-03-11-live-rock-guide.jpg
 ---
 
+
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
+
+
+![Live Rock in a Reef Tank: What It Does and How to Choose It](/assets/images/2026-03-11-live-rock-guide.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@raimondklavins?utm_source=artlines_blog&utm_medium=referral">Raimond Klavins</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## What Live Rock Actually Does
 
