@@ -4,9 +4,16 @@ title: "Beginner Coral Care: The Best Starter Corals and How to Keep Them Alive"
 date: 2026-03-11
 description: "The best corals for beginners, what they need to survive, and how to acclimate, place, and feed them in your first reef tank."
 tags: [coral care, beginners, soft coral, LPS, reef tank]
+image: /assets/images/2026-03-11-coral-care-for-beginners.jpg
 ---
 
+
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
+
+
+![Beginner Coral Care: The Best Starter Corals and How to Keep Them Alive](/assets/images/2026-03-11-coral-care-for-beginners.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@calmwarm?utm_source=artlines_blog&utm_medium=referral">Mario Dominguez</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## Why Coral Selection Matters More Than Technique
 
