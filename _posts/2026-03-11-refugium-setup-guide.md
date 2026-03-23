@@ -4,9 +4,16 @@ title: "How to Set Up a Refugium for Your Reef Tank"
 date: 2026-03-11
 description: "A complete guide to refugium setup for reef tanks  -  what a refugium does, how to build one, what to grow in it, and how to light and plumb it."
 tags: [refugium, reef tank, macroalgae, nitrate, sump]
+image: /assets/images/2026-03-11-refugium-setup-guide.jpg
 ---
 
+
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
+
+
+![How to Set Up a Refugium for Your Reef Tank](/assets/images/2026-03-11-refugium-setup-guide.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@icedcocoa?utm_source=artlines_blog&utm_medium=referral">Hoyoun Lee</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## What a Refugium Does for a Reef Tank
 
