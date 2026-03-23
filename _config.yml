@@ -3,5 +3,7 @@ description: Practical guides for planted and reef aquarium hobbyists.
 url: "https://reefcraftguide.com"
 baseurl: ""
 theme: minima
+permalink: /:year/:month/:day/:title
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
