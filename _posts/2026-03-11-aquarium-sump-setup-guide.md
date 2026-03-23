@@ -4,9 +4,16 @@ title: "How to Set Up an Aquarium Sump: A Complete Beginner Guide"
 date: 2026-03-11
 description: "Learn how to plan, build, and plumb an aquarium sump for your reef tank, including sump sizing, chamber layout, plumbing options, and equipment placement."
 tags: [sump, reef tank, plumbing, filtration, setup]
+image: /assets/images/2026-03-11-aquarium-sump-setup-guide.jpg
 ---
 
+
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
+
+
+![How to Set Up an Aquarium Sump: A Complete Beginner Guide](/assets/images/2026-03-11-aquarium-sump-setup-guide.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@derekleej?utm_source=artlines_blog&utm_medium=referral">Derek Lee</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## Why a Sump Makes Your Reef Tank Better
 
