@@ -4,7 +4,9 @@ title: "Saltwater Tank Cycling With Fish: What You Need to Know Before You Try I
 date: 2026-03-12
 description: "Learn how to cycle a saltwater tank with fish safely, including which species survive the process and how to keep ammonia spikes from becoming deadly."
 tags: [cycling, saltwater aquarium, nitrogen cycle, fish-in cycle, reef tank setup]
+image: /assets/images/2026-03-12-saltwater-tank-cycling-with-fish.jpg
 ---
+
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
@@ -16,6 +18,11 @@ Cycling a saltwater tank with fish is one of those topics that divides the hobby
 
 
 This guide covers the full fish-in cycling process for saltwater tanks, when it makes sense to use it, and how to give your fish the best chance of making it through with minimal stress.
+
+
+![Saltwater Tank Cycling With Fish: What You Need to Know Before You Try It](/assets/images/2026-03-12-saltwater-tank-cycling-with-fish.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@tetrakiss?utm_source=artlines_blog&utm_medium=referral">Arseny Togulev</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## What Is Fish-In Cycling?
 
