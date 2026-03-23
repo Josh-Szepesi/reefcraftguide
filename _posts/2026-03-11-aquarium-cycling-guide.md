@@ -11,7 +11,7 @@ Impact-Site-Verification: ad5f682e-6d7f-4310-9c5a-9ddeff880785
 ## Why the [Nitrogen Cycle](/2026/03/12/saltwater-tank-cycling-with-fish.html) Matters
 
 <div class="safety-note">
-**Safety Note:** When cycling with ammonia, use pure ammonia with no surfactants or fragrances - always check the label. When handling live rock from the ocean or a display tank, wear gloves; some organisms can sting or irritate skin.
+Safety Note: When cycling with ammonia, use pure ammonia with no surfactants or fragrances - always check the label. When handling live rock from the ocean or a display tank, wear gloves; some organisms can sting or irritate skin.
 </div>
 
 
