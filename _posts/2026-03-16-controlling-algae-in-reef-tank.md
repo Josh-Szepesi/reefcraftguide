@@ -5,6 +5,8 @@ date: 2026-03-16
 description: "Struggling with algae in your reef tank? Learn how to identify, prevent, and eliminate the most common reef algae problems with proven methods."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
+
 Algae is the thing that humbles every reef keeper at some point. I have battled green hair algae that buried frags, cyano blooms that carpeted my sandbed overnight, and diatom explosions that turned my glass brown within 24 hours of a water change. None of it is fun - but all of it is manageable once you understand what is actually driving it.
 
 **Safety Note:** When using chemical treatments like hydrogen peroxide or lanthanum chloride to target algae, keep them well away from corals and livestock. Spot treatment requires a syringe and a steady hand - these compounds can bleach coral tissue on contact. Always switch off flow pumps during application and wait at least 10-15 minutes before restoring flow.
@@ -23,7 +25,7 @@ Not all reef tank algae is the same, and the approach changes depending on what 
 
 ### Green Hair Algae (GHA)
 
-Long, filamentous strands that attach to rock and substrate. GHA is almost always a nutrient problem. I have seen tanks with immaculate equipment grow GHA simply because the owner was overfeeding. Cut nutrients, add a phosphate reactor or GFO, and let a good herbivore crew do the rest. A [lawnmower blenny](https://www.amazon.com/s?k=lawnmower+blenny+reef) or a rabbit fish will graze GHA aggressively if you can keep one in your system.
+Long, filamentous strands that attach to rock and substrate. GHA is almost always a nutrient problem. I have seen tanks with immaculate equipment grow GHA simply because the owner was overfeeding. Cut nutrients, add a phosphate reactor or GFO, and let a good herbivore crew do the rest. A [lawnmower blenny](https://www.amazon.com/s?k=lawnmower+blenny+reef&tag=mbbeekeeping-20) or a rabbit fish will graze GHA aggressively if you can keep one in your system.
 
 ### Diatoms
 
@@ -55,7 +57,7 @@ Running a refugium with a healthy chaeto (Chaetomorpha) ball is one of the most 
 
 ### GFO and Phosphate Reactors
 
-Granular ferric oxide (GFO) binds phosphate chemically and is highly effective for tanks that test above 0.05 ppm. Run it in a [two-little-fishies phosban reactor](https://www.amazon.com/s?k=phosban+reactor+phosphate+reef) or similar tumbling media reactor - not in a mesh bag in the sump where flow is inconsistent. Change GFO every 4-6 weeks or when you stop seeing phosphate reductions.
+Granular ferric oxide (GFO) binds phosphate chemically and is highly effective for tanks that test above 0.05 ppm. Run it in a [two-little-fishies phosban reactor](https://www.amazon.com/s?k=phosban+reactor+phosphate+reef&tag=mbbeekeeping-20) or similar tumbling media reactor - not in a mesh bag in the sump where flow is inconsistent. Change GFO every 4-6 weeks or when you stop seeing phosphate reductions.
 
 ### Water Changes
 
@@ -104,7 +106,7 @@ A 3-day complete blackout (tank covered with dark material) can crash some cyano
 
 Once you have algae under control, the goal shifts to keeping it that way. In my experience, the tanks that stay clean consistently share a few traits: they are never overfed, they run a refugium, their skimmer pulls dark skimmate regularly, and the keeper is testing for phosphate with a reliable meter rather than guessing.
 
-I test nitrate and phosphate weekly using a [Hanna Instruments colorimeter](https://www.amazon.com/s?k=hanna+instruments+reef+phosphate+checker) rather than API test kits. The sensitivity difference matters when you are trying to maintain 0.05 ppm phosphate - API kits simply cannot read that low accurately.
+I test nitrate and phosphate weekly using a [Hanna Instruments colorimeter](https://www.amazon.com/s?k=hanna+instruments+reef+phosphate+checker&tag=mbbeekeeping-20) rather than API test kits. The sensitivity difference matters when you are trying to maintain 0.05 ppm phosphate - API kits simply cannot read that low accurately.
 
 Keep your return pump and powerheads clean. Detritus accumulating in pump intakes and sump corners becomes a slow nutrient leak that defeats everything else you are doing.
 
@@ -140,7 +142,6 @@ For your overall maintenance routine, including when to test and what to do with
 
 Struggling with algae usually means something in your water chemistry or export chain needs attention - the maintenance schedule is where most of those problems get caught early.
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 <div class="author-bio">
   <p><strong>About the Author</strong></p>
