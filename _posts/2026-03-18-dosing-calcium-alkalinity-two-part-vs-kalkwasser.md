@@ -3,13 +3,20 @@ layout: post
 title: "Dosing Calcium and Alkalinity: Two-Part vs Kalkwasser for Reef Tanks"
 date: 2026-03-18
 description: "Learn which calcium and alkalinity dosing method is right for your reef tank - two-part vs kalkwasser, with real cost comparisons and setup guidance."
+image: /assets/images/2026-03-18-dosing-calcium-alkalinity-two-part-vs-kalkwasser.jpg
 ---
+
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 Calcium and alkalinity are the two parameters I watch most closely in my reef tank - everything from SPS coral growth to the simple stability of your water chemistry depends on keeping both in range. Once your corals start consuming more than water changes can replenish, you need a dosing strategy. The two most common options for hobbyists are two-part dosing and kalkwasser (calcium hydroxide), and I have used both at different stages of my reef keeping journey.
 
 **Safety Note:** Kalkwasser is calcium hydroxide with a pH above 12 - it will cause chemical burns on skin and serious damage to eyes. Always wear nitrile gloves and safety glasses when mixing or handling kalk powder. Never add kalkwasser directly to your display tank or dump it in all at once; it must be dripped slowly or dosed at a controlled rate. Two-part solutions are less caustic but still irritating - rinse skin contact immediately and keep both chemicals away from children and pets.
+
+
+![Dosing Calcium and Alkalinity: Two-Part vs Kalkwasser for Reef Tanks](/assets/images/2026-03-18-dosing-calcium-alkalinity-two-part-vs-kalkwasser.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@makabera?utm_source=artlines_blog&utm_medium=referral">Markus Kammermann</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## Why You Need to Dose Calcium and Alkalinity
 
