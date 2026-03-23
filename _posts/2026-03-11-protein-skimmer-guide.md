@@ -6,6 +6,7 @@ description: "A practical guide to protein skimmers for reef tanks  -  how they 
 tags: [protein skimmer, reef tank, equipment, filtration]
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 ## What a Protein Skimmer Does
 
@@ -98,11 +99,10 @@ A skimmer works best paired with a sump. If you haven't built yours yet, check o
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Protein Skimmer Reef](https://www.amazon.com/s?k=protein+skimmer+reef+aquarium)**
-- **[Filter Sock Aquarium Sump](https://www.amazon.com/s?k=filter+sock+aquarium+sump)**
-- **[Activated Carbon Reef](https://www.amazon.com/s?k=activated+carbon+reef+aquarium+bag)**
+- **[Protein Skimmer Reef](https://www.amazon.com/s?k=protein+skimmer+reef+aquarium&tag=mbbeekeeping-20)**
+- **[Filter Sock Aquarium Sump](https://www.amazon.com/s?k=filter+sock+aquarium+sump&tag=mbbeekeeping-20)**
+- **[Activated Carbon Reef](https://www.amazon.com/s?k=activated+carbon+reef+aquarium+bag&tag=mbbeekeeping-20)**
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 <div class="author-bio">
 <p><strong>About the Author</strong></p>
