@@ -6,6 +6,7 @@ description: "A complete reef tank maintenance schedule covering what to check d
 tags: [reef tank maintenance, schedule, water changes, reef tank]
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 ## Why a Maintenance Schedule Matters
 
@@ -110,11 +111,10 @@ For the chemistry side of maintenance, our [Reef Tank Water Chemistry guide](/20
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Aquarium Algae Scraper Magnetic](https://www.amazon.com/s?k=aquarium+magnetic+algae+scraper)**
-- **[Gravel Vacuum Siphon](https://www.amazon.com/s?k=aquarium+gravel+vacuum+siphon)**
-- **[Water Change Kit](https://www.amazon.com/s?k=aquarium+water+change+bucket+tubing)**
+- **[Aquarium Algae Scraper Magnetic](https://www.amazon.com/s?k=aquarium+magnetic+algae+scraper&tag=mbbeekeeping-20)**
+- **[Gravel Vacuum Siphon](https://www.amazon.com/s?k=aquarium+gravel+vacuum+siphon&tag=mbbeekeeping-20)**
+- **[Water Change Kit](https://www.amazon.com/s?k=aquarium+water+change+bucket+tubing&tag=mbbeekeeping-20)**
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 <div class="author-bio">
 <p><strong>About the Author</strong></p>
