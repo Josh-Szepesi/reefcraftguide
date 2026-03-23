@@ -6,6 +6,7 @@ description: "A practical guide to reef tank water chemistry  -  which parameter
 tags: [water chemistry, reef tank, alkalinity, calcium, parameters]
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 ## The Core Parameters of a Reef Tank
 
@@ -100,11 +101,10 @@ Solid parameters need consistent testing. For a full maintenance routine, see ou
 
 Here are a few products to help with what we covered in this guide:
 
-- **[API Master Reef Test Kit](https://www.amazon.com/s?k=api+master+reef+test+kit)**
-- **[Digital Refractometer Salinity](https://www.amazon.com/s?k=digital+refractometer+salinity+reef)**
-- **[Milwaukee pH Meter](https://www.amazon.com/s?k=milwaukee+ph+meter+saltwater)**
+- **[API Master Reef Test Kit](https://www.amazon.com/s?k=api+master+reef+test+kit&tag=mbbeekeeping-20)**
+- **[Digital Refractometer Salinity](https://www.amazon.com/s?k=digital+refractometer+salinity+reef&tag=mbbeekeeping-20)**
+- **[Milwaukee pH Meter](https://www.amazon.com/s?k=milwaukee+ph+meter+saltwater&tag=mbbeekeeping-20)**
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 <div class="author-bio">
 <p><strong>About the Author</strong></p>
