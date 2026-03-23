@@ -4,9 +4,16 @@ title: "Reef Tank Maintenance Schedule: Daily, Weekly, and Monthly Tasks"
 date: 2026-03-11
 description: "A complete reef tank maintenance schedule covering what to check daily, what to do weekly, and what to address monthly to keep your reef healthy long-term."
 tags: [reef tank maintenance, schedule, water changes, reef tank]
+image: /assets/images/2026-03-11-reef-tank-maintenance-schedule.jpg
 ---
 
+
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
+
+
+![Reef Tank Maintenance Schedule: Daily, Weekly, and Monthly Tasks](/assets/images/2026-03-11-reef-tank-maintenance-schedule.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@lukeyyq?utm_source=artlines_blog&utm_medium=referral">Luke Yang</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## Why a Maintenance Schedule Matters
 
