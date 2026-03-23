@@ -4,9 +4,16 @@ title: "Reef Tank Water Chemistry: The Parameters That Actually Matter"
 date: 2026-03-11
 description: "A practical guide to reef tank water chemistry  -  which parameters to test, what ranges to target, and how to correct common imbalances without crashing your tank."
 tags: [water chemistry, reef tank, alkalinity, calcium, parameters]
+image: /assets/images/2026-03-11-reef-tank-water-chemistry.jpg
 ---
 
+
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
+
+
+![Reef Tank Water Chemistry: The Parameters That Actually Matter](/assets/images/2026-03-11-reef-tank-water-chemistry.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@wolfalexs?utm_source=artlines_blog&utm_medium=referral">Oleksandr Sushko</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## The Core Parameters of a Reef Tank
 
