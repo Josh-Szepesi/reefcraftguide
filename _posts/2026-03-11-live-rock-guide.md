@@ -6,6 +6,7 @@ description: "Learn why live rock is the biological heart of a reef tank, how mu
 tags: [live rock, reef tank, aquascaping, biological filtration]
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 ## What Live Rock Actually Does
 
@@ -100,11 +101,10 @@ Once your rock is placed and cured, start your cycle. See our [Aquarium Cycling 
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Live Rock Reef Aquarium](https://www.amazon.com/s?k=live+rock+reef+aquarium)**
-- **[Cured Base Rock](https://www.amazon.com/s?k=base+rock+reef+aquarium+cured)**
-- **[Reef Coralline Accelerator](https://www.amazon.com/s?k=reef+coralline+accelerator+purple+up)**
+- **[Live Rock Reef Aquarium](https://www.amazon.com/s?k=live+rock+reef+aquarium&tag=mbbeekeeping-20)**
+- **[Cured Base Rock](https://www.amazon.com/s?k=base+rock+reef+aquarium+cured&tag=mbbeekeeping-20)**
+- **[Reef Coralline Accelerator](https://www.amazon.com/s?k=reef+coralline+accelerator+purple+up&tag=mbbeekeeping-20)**
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 <div class="author-bio">
 <p><strong>About the Author</strong></p>
