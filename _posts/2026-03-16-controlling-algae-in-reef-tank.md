@@ -3,13 +3,20 @@ layout: post
 title: "Controlling Algae in a Reef Tank: What Actually Works"
 date: 2026-03-16
 description: "Struggling with algae in your reef tank? Learn how to identify, prevent, and eliminate the most common reef algae problems with proven methods."
+image: /assets/images/2026-03-16-controlling-algae-in-reef-tank.jpg
 ---
+
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 Algae is the thing that humbles every reef keeper at some point. I have battled green hair algae that buried frags, cyano blooms that carpeted my sandbed overnight, and diatom explosions that turned my glass brown within 24 hours of a water change. None of it is fun - but all of it is manageable once you understand what is actually driving it.
 
 **Safety Note:** When using chemical treatments like hydrogen peroxide or lanthanum chloride to target algae, keep them well away from corals and livestock. Spot treatment requires a syringe and a steady hand - these compounds can bleach coral tissue on contact. Always switch off flow pumps during application and wait at least 10-15 minutes before restoring flow.
+
+
+![Controlling Algae in a Reef Tank: What Actually Works](/assets/images/2026-03-16-controlling-algae-in-reef-tank.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@loganvoss?utm_source=artlines_blog&utm_medium=referral">Logan Voss</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## Why Algae Grows in a Reef Tank
 
