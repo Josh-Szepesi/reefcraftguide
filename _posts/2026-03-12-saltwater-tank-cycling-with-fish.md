@@ -6,6 +6,7 @@ description: "Learn how to cycle a saltwater tank with fish safely, including wh
 tags: [cycling, saltwater aquarium, nitrogen cycle, fish-in cycle, reef tank setup]
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 Cycling a saltwater tank with fish is one of those topics that divides the hobby. Some hobbyists swear by it, others consider it irresponsible. The truth is somewhere in the middle: fish-in cycling is possible, but it demands close attention, the right fish, and a willingness to intervene the moment parameters start trending dangerous.
 
@@ -135,11 +136,10 @@ For a comparison of all cycling methods, see our [Aquarium Cycling Guide](/2026/
 
 Here are a few products to help with what we covered in this guide:
 
-- **[API Master Reef Test Kit](https://www.amazon.com/s?k=api+master+reef+test+kit)**
-- **[Digital Refractometer Salinity](https://www.amazon.com/s?k=digital+refractometer+salinity+reef)**
-- **[Milwaukee pH Meter](https://www.amazon.com/s?k=milwaukee+ph+meter+saltwater)**
+- **[API Master Reef Test Kit](https://www.amazon.com/s?k=api+master+reef+test+kit&tag=mbbeekeeping-20)**
+- **[Digital Refractometer Salinity](https://www.amazon.com/s?k=digital+refractometer+salinity+reef&tag=mbbeekeeping-20)**
+- **[Milwaukee pH Meter](https://www.amazon.com/s?k=milwaukee+ph+meter+saltwater&tag=mbbeekeeping-20)**
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 <div class="author-bio">
 <p><strong>About the Author</strong></p>
