@@ -4,9 +4,16 @@ title: "Reef Tank Lighting: PAR, Spectrum, and What Actually Matters"
 date: 2026-03-11
 description: "A clear-eyed guide to reef tank lighting  -  PAR, spectrum, photoperiod, LED vs T5, and practical recommendations for beginner and intermediate reef keepers."
 tags: [reef lighting, PAR, LED, coral, reef tank]
+image: /assets/images/2026-03-11-aquarium-lighting-for-reef-tanks.jpg
 ---
 
+
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
+
+
+![Reef Tank Lighting: PAR, Spectrum, and What Actually Matters](/assets/images/2026-03-11-aquarium-lighting-for-reef-tanks.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@davidclode?utm_source=artlines_blog&utm_medium=referral">David Clode</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## Why Lighting Is the Most Critical Variable in a Reef Tank
 
