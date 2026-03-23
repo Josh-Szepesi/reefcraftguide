@@ -6,6 +6,7 @@ description: "A clear-eyed guide to reef tank lighting  -  PAR, spectrum, photop
 tags: [reef lighting, PAR, LED, coral, reef tank]
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 ## Why Lighting Is the Most Critical Variable in a Reef Tank
 
@@ -92,11 +93,10 @@ Great lighting won't help if your water parameters are off. See our [Water Chemi
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Reef Aquarium LED Light](https://www.amazon.com/s?k=reef+aquarium+led+light+full+spectrum)**
-- **[PAR Meter Reef](https://www.amazon.com/s?k=par+meter+apogee+reef+aquarium)**
-- **[Aquarium Light Timer](https://www.amazon.com/s?k=aquarium+light+timer+programmable)**
+- **[Reef Aquarium LED Light](https://www.amazon.com/s?k=reef+aquarium+led+light+full+spectrum&tag=mbbeekeeping-20)**
+- **[PAR Meter Reef](https://www.amazon.com/s?k=par+meter+apogee+reef+aquarium&tag=mbbeekeeping-20)**
+- **[Aquarium Light Timer](https://www.amazon.com/s?k=aquarium+light+timer+programmable&tag=mbbeekeeping-20)**
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 <div class="author-bio">
 <p><strong>About the Author</strong></p>
