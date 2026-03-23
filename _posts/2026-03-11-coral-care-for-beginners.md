@@ -6,6 +6,7 @@ description: "The best corals for beginners, what they need to survive, and how 
 tags: [coral care, beginners, soft coral, LPS, reef tank]
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 ## Why Coral Selection Matters More Than Technique
 
@@ -98,11 +99,10 @@ Before adding corals, make sure your lighting is appropriate. Our [Aquarium Ligh
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Reef LED Light Full Spectrum](https://www.amazon.com/s?k=reef+led+light+full+spectrum+coral)**
-- **[Coral Dip Treatment](https://www.amazon.com/s?k=coral+dip+treatment+revive)**
-- **[Reef Phytoplankton Food](https://www.amazon.com/s?k=reef+phytoplankton+coral+food)**
+- **[Reef LED Light Full Spectrum](https://www.amazon.com/s?k=reef+led+light+full+spectrum+coral&tag=mbbeekeeping-20)**
+- **[Coral Dip Treatment](https://www.amazon.com/s?k=coral+dip+treatment+revive&tag=mbbeekeeping-20)**
+- **[Reef Phytoplankton Food](https://www.amazon.com/s?k=reef+phytoplankton+coral+food&tag=mbbeekeeping-20)**
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 <div class="author-bio">
 <p><strong>About the Author</strong></p>
