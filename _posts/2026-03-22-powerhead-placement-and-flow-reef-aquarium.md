@@ -7,6 +7,8 @@ image: /assets/images/2026-03-22-powerhead-placement-and-flow-reef-aquarium.jpg
 tags: [reef, saltwater, aquarium, equipment]
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
+
 Water movement is one of the most underrated variables in a reef aquarium. New hobbyists spend hours dialing in salinity and alkalinity but mount a single powerhead in the corner and call it done. In our experience, poor flow causes more slow-burn problems in reef tanks than almost any other equipment decision - dead spots accumulate detritus, corals starve from lack of nutrient delivery, and algae takes hold in areas the main circulation never reaches.
 
 ![Reef aquarium with colorful corals and active water movement](/assets/images/2026-03-22-powerhead-placement-and-flow-reef-aquarium.jpg)
@@ -53,7 +55,7 @@ Modern reef powerheads fall into two categories based on motor type.
 
 **DC wavemaker powerheads** use a direct current motor with a built-in controller. You can adjust speed, set pulse modes, and program wave patterns from a simple dial or app. DC motors also run cooler and consume less power for equivalent flow. For most reef keepers today, DC wavemakers are the standard choice because variable flow patterns more closely mimic natural reef conditions.
 
-The [Hydor Koralia Nano 240 Circulation Pump](https://www.amazon.com/s?k=hydor+koralia+nano+circulation+pump&tag=[rcg-tag]) is a solid AC option for nano tanks and as a supplemental circulation pump - straightforward, quiet, and easy to position with the magnetic mount. For a mid-size reef running 30-75 gallons, the [Jebao OW Sine Wave Powerhead](https://www.amazon.com/s?k=jebao+OW+sine+wave+powerhead+reef&tag=[rcg-tag]) gives you DC control and multiple wave modes at a reasonable price point. For larger SPS-dominated systems where flow volume and precision matter most, the [EcoTech Marine VorTech MP10](https://www.amazon.com/s?k=ecotech+marine+vortech+MP10+powerhead&tag=[rcg-tag]) is the benchmark - the wet and dry motor halves mount on either side of the glass, eliminating all hardware from the water column and allowing for fine-grained reef crest simulation modes.
+The [Hydor Koralia Nano 240 Circulation Pump](https://www.amazon.com/s?k=hydor+koralia+nano+circulation+pump&tag=mbbeekeeping-20) is a solid AC option for nano tanks and as a supplemental circulation pump - straightforward, quiet, and easy to position with the magnetic mount. For a mid-size reef running 30-75 gallons, the [Jebao OW Sine Wave Powerhead](https://www.amazon.com/s?k=jebao+OW+sine+wave+powerhead+reef&tag=mbbeekeeping-20) gives you DC control and multiple wave modes at a reasonable price point. For larger SPS-dominated systems where flow volume and precision matter most, the [EcoTech Marine VorTech MP10](https://www.amazon.com/s?k=ecotech+marine+vortech+MP10+powerhead&tag=mbbeekeeping-20) is the benchmark - the wet and dry motor halves mount on either side of the glass, eliminating all hardware from the water column and allowing for fine-grained reef crest simulation modes.
 
 ## Where to Place Powerheads in Your Tank
 
@@ -97,9 +99,9 @@ These are the placement errors we see most often in reef tanks that are struggli
 
 ## Recommended Products
 
-- [Hydor Koralia Nano 240 Circulation Pump](https://www.amazon.com/s?k=hydor+koralia+nano+circulation+pump&tag=[rcg-tag]) - reliable AC powerhead for nano tanks and supplemental flow
-- [Jebao OW Sine Wave Powerhead](https://www.amazon.com/s?k=jebao+OW+sine+wave+powerhead+reef&tag=[rcg-tag]) - DC wavemaker with multiple modes, solid value for mid-size reef tanks
-- [EcoTech Marine VorTech MP10 Powerhead](https://www.amazon.com/s?k=ecotech+marine+vortech+MP10+powerhead&tag=[rcg-tag]) - premium through-glass mount powerhead with advanced wave control for SPS-focused systems
+- [Hydor Koralia Nano 240 Circulation Pump](https://www.amazon.com/s?k=hydor+koralia+nano+circulation+pump&tag=mbbeekeeping-20) - reliable AC powerhead for nano tanks and supplemental flow
+- [Jebao OW Sine Wave Powerhead](https://www.amazon.com/s?k=jebao+OW+sine+wave+powerhead+reef&tag=mbbeekeeping-20) - DC wavemaker with multiple modes, solid value for mid-size reef tanks
+- [EcoTech Marine VorTech MP10 Powerhead](https://www.amazon.com/s?k=ecotech+marine+vortech+MP10+powerhead&tag=mbbeekeeping-20) - premium through-glass mount powerhead with advanced wave control for SPS-focused systems
 
 ## Related Reading
 
@@ -112,7 +114,6 @@ If you are setting up flow for the first time, the [reef tank setup for beginner
 
 Bookmark this guide and check out the [protein skimmer guide](https://reefcraftguide.com/2026/03/11/protein-skimmer-guide) next - skimmer performance is directly tied to how well your flow is distributing surface waste to the overflow.
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 <div class="author-bio">
   <p><strong>About the Author</strong></p>
