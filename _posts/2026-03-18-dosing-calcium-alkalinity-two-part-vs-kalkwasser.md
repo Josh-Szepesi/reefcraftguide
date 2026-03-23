@@ -5,6 +5,8 @@ date: 2026-03-18
 description: "Learn which calcium and alkalinity dosing method is right for your reef tank - two-part vs kalkwasser, with real cost comparisons and setup guidance."
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
+
 Calcium and alkalinity are the two parameters I watch most closely in my reef tank - everything from SPS coral growth to the simple stability of your water chemistry depends on keeping both in range. Once your corals start consuming more than water changes can replenish, you need a dosing strategy. The two most common options for hobbyists are two-part dosing and kalkwasser (calcium hydroxide), and I have used both at different stages of my reef keeping journey.
 
 **Safety Note:** Kalkwasser is calcium hydroxide with a pH above 12 - it will cause chemical burns on skin and serious damage to eyes. Always wear nitrile gloves and safety glasses when mixing or handling kalk powder. Never add kalkwasser directly to your display tank or dump it in all at once; it must be dripped slowly or dosed at a controlled rate. Two-part solutions are less caustic but still irritating - rinse skin contact immediately and keep both chemicals away from children and pets.
@@ -21,7 +23,7 @@ Two-part dosing uses two separate liquid solutions - one to raise calcium and on
 
 The reason it is called "two-part" is that you cannot mix the calcium and alkalinity solutions together before dosing - they would react and precipitate out of solution. Each part is dosed separately, usually through a dosing pump set to run a small amount multiple times per day. Consistent dosing frequency matters more than total daily volume; spreading doses across 4-6 increments per day keeps parameters more stable than one large daily dose.
 
-I use a dosing pump set to dose 10 ml of each part four times a day in my 90-gallon mixed reef. That works out to roughly 40 ml per day of each solution - which cost me about $0.30 per day using bulk BRS chemicals. [BRS two-part dosing chemicals](https://www.amazon.com/s?k=BRS+two+part+dosing+reef+tank) are widely available and the most common starting point for hobbyists.
+I use a dosing pump set to dose 10 ml of each part four times a day in my 90-gallon mixed reef. That works out to roughly 40 ml per day of each solution - which cost me about $0.30 per day using bulk BRS chemicals. [BRS two-part dosing chemicals](https://www.amazon.com/s?k=BRS+two+part+dosing+reef+tank&tag=mbbeekeeping-20) are widely available and the most common starting point for hobbyists.
 
 ### Advantages of Two-Part Dosing
 
@@ -46,7 +48,7 @@ The most common way to use kalkwasser in a home reef is to mix kalk powder into 
 
 In my experience, kalkwasser works best as a base additive for small to medium mixed reefs, not as the sole solution for high-demand SPS tanks. A standard kalk solution adds roughly 20 ppm of calcium and around 1 meq/L of alkalinity per liter dosed - if your tank evaporates 2 liters per day, that is the ceiling for what kalk can deliver without overdosing.
 
-[Kalkwasser powder](https://www.amazon.com/s?k=kalkwasser+powder+reef+tank) is inexpensive compared to two-part solution. A 1 kg bag of calcium hydroxide costs $15-30 and can last several months in a 75-gallon mixed reef.
+[Kalkwasser powder](https://www.amazon.com/s?k=kalkwasser+powder+reef+tank&tag=mbbeekeeping-20) is inexpensive compared to two-part solution. A 1 kg bag of calcium hydroxide costs $15-30 and can last several months in a 75-gallon mixed reef.
 
 ### Advantages of Kalkwasser
 
@@ -92,7 +94,7 @@ Kalk wins on ongoing cost by a wide margin. The trade-off is that two-part is mo
 - You want to support pH on a tank running low pH due to indoor air quality
 - Cost is a priority
 
-For many reef keepers, the best long-term approach is using both together. I currently run kalkwasser through my ATO for the baseline daily top-off, and I have a two-part setup on standby to supplement when alkalinity drops faster than evaporation can cover. This combination reduces two-part consumption while keeping full control. An [automatic dosing pump](https://www.amazon.com/s?k=aquarium+dosing+pump+reef) for the two-part side runs about $60-100 and pays for itself quickly in reduced two-part usage.
+For many reef keepers, the best long-term approach is using both together. I currently run kalkwasser through my ATO for the baseline daily top-off, and I have a two-part setup on standby to supplement when alkalinity drops faster than evaporation can cover. This combination reduces two-part consumption while keeping full control. An [automatic dosing pump](https://www.amazon.com/s?k=aquarium+dosing+pump+reef&tag=mbbeekeeping-20) for the two-part side runs about $60-100 and pays for itself quickly in reduced two-part usage.
 
 ## Setting Up Two-Part Dosing: Quick Start
 
@@ -143,7 +145,6 @@ Two-part dosing is safe for fish and invertebrates when dosed correctly - the so
 
 If you are just getting started building out your reef chemistry routine, the [reef tank water chemistry guide](https://reefcraftguide.com/2026/03/11/reef-tank-water-chemistry) is the best next read - it covers all the major parameters and how they interact before you start dialing in a dosing regimen.
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 <div class="author-bio">
   <p><strong>About the Author</strong></p>
