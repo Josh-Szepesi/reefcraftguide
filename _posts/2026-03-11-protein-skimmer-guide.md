@@ -4,9 +4,16 @@ title: "Protein Skimmers for Reef Tanks: How They Work and What to Buy"
 date: 2026-03-11
 description: "A practical guide to protein skimmers for reef tanks  -  how they remove dissolved organics, what to look for when buying, and top picks at different price points."
 tags: [protein skimmer, reef tank, equipment, filtration]
+image: /assets/images/2026-03-11-protein-skimmer-guide.jpg
 ---
 
+
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
+
+
+![Protein Skimmers for Reef Tanks: How They Work and What to Buy](/assets/images/2026-03-11-protein-skimmer-guide.jpg)
+
+<p class="image-credit">Photo by <a href="https://unsplash.com/@puregeorgia?utm_source=artlines_blog&utm_medium=referral">Alfred Schrock</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## What a Protein Skimmer Does
 
