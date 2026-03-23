@@ -6,6 +6,7 @@ description: "Learn how to plan, build, and plumb an aquarium sump for your reef
 tags: [sump, reef tank, plumbing, filtration, setup]
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 ## Why a Sump Makes Your Reef Tank Better
 
@@ -131,11 +132,10 @@ A sump pairs naturally with a refugium. Read our [Refugium Setup Guide](/2026/03
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Protein Skimmer Reef](https://www.amazon.com/s?k=protein+skimmer+reef+aquarium)**
-- **[Filter Sock Aquarium Sump](https://www.amazon.com/s?k=filter+sock+aquarium+sump)**
-- **[Activated Carbon Reef](https://www.amazon.com/s?k=activated+carbon+reef+aquarium+bag)**
+- **[Protein Skimmer Reef](https://www.amazon.com/s?k=protein+skimmer+reef+aquarium&tag=mbbeekeeping-20)**
+- **[Filter Sock Aquarium Sump](https://www.amazon.com/s?k=filter+sock+aquarium+sump&tag=mbbeekeeping-20)**
+- **[Activated Carbon Reef](https://www.amazon.com/s?k=activated+carbon+reef+aquarium+bag&tag=mbbeekeeping-20)**
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 <div class="author-bio">
 <p><strong>About the Author</strong></p>
