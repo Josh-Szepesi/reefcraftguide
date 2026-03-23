@@ -6,6 +6,7 @@ description: "A complete beginner's guide to setting up a reef tank, covering eq
 tags: [reef tank, beginners, setup, saltwater]
 ---
 
+*This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
 
 ## Why a Reef Tank Is Worth the Effort
 
@@ -104,11 +105,10 @@ Once your tank is set up, your next step is the nitrogen cycle. Read our [Aquari
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Reef Aquarium Starter Kit](https://www.amazon.com/s?k=reef+aquarium+starter+kit)**
-- **[API Reef Master Test Kit](https://www.amazon.com/s?k=api+master+reef+test+kit)**
-- **[Reef LED Light Budget](https://www.amazon.com/s?k=reef+led+light+budget+full+spectrum)**
+- **[Reef Aquarium Starter Kit](https://www.amazon.com/s?k=reef+aquarium+starter+kit&tag=mbbeekeeping-20)**
+- **[API Reef Master Test Kit](https://www.amazon.com/s?k=api+master+reef+test+kit&tag=mbbeekeeping-20)**
+- **[Reef LED Light Budget](https://www.amazon.com/s?k=reef+led+light+budget+full+spectrum&tag=mbbeekeeping-20)**
 
-*As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
 <div class="author-bio">
 <p><strong>About the Author</strong></p>
