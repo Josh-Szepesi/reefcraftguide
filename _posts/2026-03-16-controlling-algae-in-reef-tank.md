@@ -2,7 +2,7 @@
 layout: post
 title: "Controlling Algae in a Reef Tank: What Actually Works"
 date: 2026-03-16
-description: "Struggling with algae in your reef tank Learn how to identify, prevent, and eliminate the most common reef algae problems with proven methods."
+description: "Struggling with algae in your reef tank? Learn how to identify, prevent, and eliminate the most common reef algae problems with proven methods."
 image: /assets/images/2026-03-16-controlling-algae-in-reef-tank.jpg
 ---
 
