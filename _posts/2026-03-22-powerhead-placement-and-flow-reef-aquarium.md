@@ -33,7 +33,7 @@ Flow serves four specific functions in a reef tank:
 
 For reef tanks specifically, flow also plays a role in coral placement decisions. As [NOAA's coral reef biology resource](https://oceanservice.noaa.gov/education/tutorial_corals/welcome.html) describes, corals have evolved to extract food and nutrients directly from water moving across their tissue - the same mechanism hobbyists need to replicate in a closed system.
 
-## How Much Flow Does Your Reef Need?
+## How Much Flow Does Your Reef Need
 
 The standard starting point is total tank volume turnover per hour (TPH). These are ranges, not hard rules - actual numbers depend on livestock, rockwork, and how flow is distributed.
 
