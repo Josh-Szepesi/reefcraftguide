@@ -100,9 +100,9 @@ Great lighting won't help if your water parameters are off. See our [Water Chemi
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Reef Aquarium LED Light](https://www.amazon.com/s?k=reef+aquarium+led+light+full+spectrum&tag=mbbeekeeping-20)**
-- **[PAR Meter Reef](https://www.amazon.com/s?k=par+meter+apogee+reef+aquarium&tag=mbbeekeeping-20)**
-- **[Aquarium Light Timer](https://www.amazon.com/s?k=aquarium+light+timer+programmable&tag=mbbeekeeping-20)**
+- **[Reef Aquarium LED Light](https://www.amazon.com/s?k=reef+aquarium+led+light+full+spectrum)**
+- **[PAR Meter Reef](https://www.amazon.com/s?k=par+meter+apogee+reef+aquarium)**
+- **[Aquarium Light Timer](https://www.amazon.com/s?k=aquarium+light+timer+programmable)**
 
 
 <div class="author-bio">
