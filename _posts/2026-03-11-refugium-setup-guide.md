@@ -108,9 +108,9 @@ A refugium needs a proper sump to sit in. If you haven't set yours up yet, start
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Protein Skimmer Reef](https://www.amazon.com/s?k=protein+skimmer+reef+aquarium&tag=mbbeekeeping-20)**
-- **[Filter Sock Aquarium Sump](https://www.amazon.com/s?k=filter+sock+aquarium+sump&tag=mbbeekeeping-20)**
-- **[Activated Carbon Reef](https://www.amazon.com/s?k=activated+carbon+reef+aquarium+bag&tag=mbbeekeeping-20)**
+- **[Protein Skimmer Reef](https://www.amazon.com/s?k=protein+skimmer+reef+aquarium)**
+- **[Filter Sock Aquarium Sump](https://www.amazon.com/s?k=filter+sock+aquarium+sump)**
+- **[Activated Carbon Reef](https://www.amazon.com/s?k=activated+carbon+reef+aquarium+bag)**
 
 
 <div class="author-bio">
