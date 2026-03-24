@@ -35,7 +35,7 @@ You do not need a lot of gear to start, but having the right tools makes a real 
 - **Coral epoxy or cyanoacrylate gel** - to attach frags to their new substrate
 - **Small container or fragging tray** - to hold tank water while you work
 
-I use a dedicated [coral fragging kit](https://www.amazon.com/s?k=coral+fragging+kit&tag=mbbeekeeping-20) that includes bone cutters, scissors, and a scalpel - all in one case that I keep near the tank. The blades are easy to replace, and I swap them out every few sessions. Dull tools tear tissue instead of cutting it cleanly, which dramatically increases healing time.
+I use a dedicated [coral fragging kit](https://www.amazon.com/s?k=coral+fragging+kit) that includes bone cutters, scissors, and a scalpel - all in one case that I keep near the tank. The blades are easy to replace, and I swap them out every few sessions. Dull tools tear tissue instead of cutting it cleanly, which dramatically increases healing time.
 
 Make sure your tools are clean before every session. Rinse them with fresh RODI water after use and sanitize with a dilute bleach solution (fully rinsed afterward) if you have been working with multiple coral species.
 
@@ -53,7 +53,7 @@ Soft corals are the most forgiving type to frag and a good starting point if you
 
 **Mushroom corals** are among the simplest. Use a razor blade or scalpel to cut the mushroom into two or more pieces, each containing a portion of the mouth. I aim for pieces no smaller than 1 cm across. Place the pieces in a container of tank water with a small rock chip or plug underneath, and within a few days the mushroom will attach itself and begin to expand normally.
 
-**Xenia and pulsing corals** frag easily with clean scissors. Snip a stalk with two or three polyps attached. To mount the frag, apply a small amount of [coral frag epoxy](https://www.amazon.com/s?k=coral+frag+epoxy&tag=mbbeekeeping-20) to the base and press it onto a plug. Xenia usually starts pulsing again within 48 hours in my experience.
+**Xenia and pulsing corals** frag easily with clean scissors. Snip a stalk with two or three polyps attached. To mount the frag, apply a small amount of [coral frag epoxy](https://www.amazon.com/s?k=coral+frag+epoxy) to the base and press it onto a plug. Xenia usually starts pulsing again within 48 hours in my experience.
 
 **Leather corals** are a bit trickier because they release slime and mild toxins when cut and often close up for several days afterward. Use a sharp, clean scalpel to cut. The frag base needs to be attached to something - a small rock fragment or a plug - and left in low flow. I have found that patience is the main ingredient with leathers. A piece that looks like a shriveled stub at day three can be fully extended and healthy by day seven or eight. Do not panic and assume it has died.
 
@@ -79,7 +79,7 @@ Here is the process I follow for SPS:
 2. Remove the SPS colony from the tank and lay it in the tray.
 3. Use a diamond blade to cut between branches, keeping each piece at least 2-3 cm long with a healthy base of skeleton for mounting.
 4. Dip each frag in a dilute iodine solution for 30 seconds to reduce the risk of bacterial infection at the cut site (1 drop of Lugol's iodine per 250 ml of tank water is a safe working concentration).
-5. Apply epoxy to the base and press the frag onto a [frag plug](https://www.amazon.com/s?k=coral+frag+plugs&tag=mbbeekeeping-20). I prefer 3/4-inch plugs for most SPS pieces.
+5. Apply epoxy to the base and press the frag onto a [frag plug](https://www.amazon.com/s?k=coral+frag+plugs). I prefer 3/4-inch plugs for most SPS pieces.
 6. Move frags to a low-flow, moderate-light zone in the tank or a frag tank.
 
 The first 48-72 hours after fragging SPS are the highest-risk window. Watch for tissue recession starting at the cut end. If you see it spreading, remove the frag and do an extended iodine dip. In my experience, catching recession early gives you a real chance of saving a frag - waiting until the tissue has pulled back halfway up the branch usually means it is too far gone.
