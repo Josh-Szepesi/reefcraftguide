@@ -24,7 +24,7 @@ Corals - especially stony corals like LPS and SPS - use calcium and alkalinity t
 
 The two methods covered in this guide - two-part and kalkwasser - are DIY-friendly, reliable, and do not require a calcium reactor. A calcium reactor is the third option and the best choice for heavily stocked SPS systems, but it is a bigger investment and covers a separate guide. If you are running a mixed reef or an LPS-dominant tank, two-part and kalkwasser are both worth considering.
 
-## What Is Two-Part Dosing?
+## What Is Two-Part Dosing
 
 Two-part dosing uses two separate liquid solutions - one to raise calcium and one to raise alkalinity - dosed in equal volumes. The most common commercial products are BRS Two-Part (calcium chloride and sodium bicarbonate) and similar offerings from other reef suppliers. You can also mix your own solutions at lower cost using bulk chemicals.
 
@@ -47,7 +47,7 @@ The downside is ongoing cost. Two-part solutions are more expensive per unit of 
 
 For managing your overall [reef tank water chemistry](https://reefcraftguide.com/2026/03/11/reef-tank-water-chemistry), the key is testing consistently rather than reacting to a single data point.
 
-## What Is Kalkwasser?
+## What Is Kalkwasser
 
 Kalkwasser is the German word for "lime water" - it is a saturated solution of calcium hydroxide in fresh top-off water. When you add kalkwasser to your tank, you deliver both calcium and hydroxide ions. The hydroxide raises pH and reacts with CO2 in the water, which indirectly raises alkalinity.
 
@@ -86,7 +86,7 @@ For a 75-gallon mixed reef with moderate coral coverage:
 
 Kalk wins on ongoing cost by a wide margin. The trade-off is that two-part is more flexible and scales to higher demand without risk of overdosing.
 
-## Which Method Is Right for Your Tank?
+## Which Method Is Right for Your Tank
 
 **Choose two-part dosing if:**
 - You are new to reef keeping and want a simple, controllable system
