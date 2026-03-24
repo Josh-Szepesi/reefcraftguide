@@ -30,7 +30,7 @@ Two-part dosing uses two separate liquid solutions - one to raise calcium and on
 
 The reason it is called "two-part" is that you cannot mix the calcium and alkalinity solutions together before dosing - they would react and precipitate out of solution. Each part is dosed separately, usually through a dosing pump set to run a small amount multiple times per day. Consistent dosing frequency matters more than total daily volume; spreading doses across 4-6 increments per day keeps parameters more stable than one large daily dose.
 
-I use a dosing pump set to dose 10 ml of each part four times a day in my 90-gallon mixed reef. That works out to roughly 40 ml per day of each solution - which cost me about $0.30 per day using bulk BRS chemicals. [BRS two-part dosing chemicals](https://www.amazon.com/s?k=BRS+two+part+dosing+reef+tank&tag=mbbeekeeping-20) are widely available and the most common starting point for hobbyists.
+I use a dosing pump set to dose 10 ml of each part four times a day in my 90-gallon mixed reef. That works out to roughly 40 ml per day of each solution - which cost me about $0.30 per day using bulk BRS chemicals. [BRS two-part dosing chemicals](https://www.amazon.com/s?k=BRS+two+part+dosing+reef+tank) are widely available and the most common starting point for hobbyists.
 
 ### Advantages of Two-Part Dosing
 
@@ -55,7 +55,7 @@ The most common way to use kalkwasser in a home reef is to mix kalk powder into 
 
 In my experience, kalkwasser works best as a base additive for small to medium mixed reefs, not as the sole solution for high-demand SPS tanks. A standard kalk solution adds roughly 20 ppm of calcium and around 1 meq/L of alkalinity per liter dosed - if your tank evaporates 2 liters per day, that is the ceiling for what kalk can deliver without overdosing.
 
-[Kalkwasser powder](https://www.amazon.com/s?k=kalkwasser+powder+reef+tank&tag=mbbeekeeping-20) is inexpensive compared to two-part solution. A 1 kg bag of calcium hydroxide costs $15-30 and can last several months in a 75-gallon mixed reef.
+[Kalkwasser powder](https://www.amazon.com/s?k=kalkwasser+powder+reef+tank) is inexpensive compared to two-part solution. A 1 kg bag of calcium hydroxide costs $15-30 and can last several months in a 75-gallon mixed reef.
 
 ### Advantages of Kalkwasser
 
@@ -101,7 +101,7 @@ Kalk wins on ongoing cost by a wide margin. The trade-off is that two-part is mo
 - You want to support pH on a tank running low pH due to indoor air quality
 - Cost is a priority
 
-For many reef keepers, the best long-term approach is using both together. I currently run kalkwasser through my ATO for the baseline daily top-off, and I have a two-part setup on standby to supplement when alkalinity drops faster than evaporation can cover. This combination reduces two-part consumption while keeping full control. An [automatic dosing pump](https://www.amazon.com/s?k=aquarium+dosing+pump+reef&tag=mbbeekeeping-20) for the two-part side runs about $60-100 and pays for itself quickly in reduced two-part usage.
+For many reef keepers, the best long-term approach is using both together. I currently run kalkwasser through my ATO for the baseline daily top-off, and I have a two-part setup on standby to supplement when alkalinity drops faster than evaporation can cover. This combination reduces two-part consumption while keeping full control. An [automatic dosing pump](https://www.amazon.com/s?k=aquarium+dosing+pump+reef) for the two-part side runs about $60-100 and pays for itself quickly in reduced two-part usage.
 
 ## Setting Up Two-Part Dosing: Quick Start
 
