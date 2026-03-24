@@ -24,7 +24,7 @@ This guide covers the full fish-in cycling process for saltwater tanks, when it 
 
 <p class="image-credit">Photo by <a href="https://unsplash.com/@tetrakiss?utm_source=artlines_blog&utm_medium=referral">Arseny Togulev</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
-## What Is Fish-In Cycling
+## What Is Fish-In Cycling?
 
 A new saltwater tank has no established beneficial bacteria. These bacteria, primarily *Nitrosomonas* and *Nitrospira* species, convert toxic ammonia into nitrite, then into the much less harmful nitrate. Without them, ammonia builds up rapidly and causes gill damage, immune suppression, and death.
 
