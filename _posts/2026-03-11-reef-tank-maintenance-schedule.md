@@ -70,7 +70,7 @@ We've found that the hobbyists with the best tanks aren't doing heroic intervent
 
 **Check all plumbing and connections.** Look for small leaks, loose fittings, or salt creep that indicates a slow seep. Address small issues before they become failures.
 
-**Review your stock list and water quality trend.** Are parameters trending in the right direction Is any coral or fish showing chronic stress Monthly review gives you a higher-level view of your tank's health trajectory.
+**Review your stock list and water quality trend.** Are parameters trending in the right direction? Is any coral or fish showing chronic stress? Monthly review gives you a higher-level view of your tank's health trajectory.
 
 ## Quarterly Tasks (every 3 to 4 months)
 
