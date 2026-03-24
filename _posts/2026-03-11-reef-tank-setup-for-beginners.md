@@ -112,9 +112,9 @@ Once your tank is set up, your next step is the nitrogen cycle. Read our [Aquari
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Reef Aquarium Starter Kit](https://www.amazon.com/s?k=reef+aquarium+starter+kit&tag=mbbeekeeping-20)**
-- **[API Reef Master Test Kit](https://www.amazon.com/s?k=api+master+reef+test+kit&tag=mbbeekeeping-20)**
-- **[Reef LED Light Budget](https://www.amazon.com/s?k=reef+led+light+budget+full+spectrum&tag=mbbeekeeping-20)**
+- **[Reef Aquarium Starter Kit](https://www.amazon.com/s?k=reef+aquarium+starter+kit)**
+- **[API Reef Master Test Kit](https://www.amazon.com/s?k=api+master+reef+test+kit)**
+- **[Reef LED Light Budget](https://www.amazon.com/s?k=reef+led+light+budget+full+spectrum)**
 
 
 <div class="author-bio">
