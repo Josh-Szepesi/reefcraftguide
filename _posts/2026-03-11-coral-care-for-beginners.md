@@ -106,9 +106,9 @@ Before adding corals, make sure your lighting is appropriate. Our [Aquarium Ligh
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Reef LED Light Full Spectrum](https://www.amazon.com/s?k=reef+led+light+full+spectrum+coral&tag=mbbeekeeping-20)**
-- **[Coral Dip Treatment](https://www.amazon.com/s?k=coral+dip+treatment+revive&tag=mbbeekeeping-20)**
-- **[Reef Phytoplankton Food](https://www.amazon.com/s?k=reef+phytoplankton+coral+food&tag=mbbeekeeping-20)**
+- **[Reef LED Light Full Spectrum](https://www.amazon.com/s?k=reef+led+light+full+spectrum+coral)**
+- **[Coral Dip Treatment](https://www.amazon.com/s?k=coral+dip+treatment+revive)**
+- **[Reef Phytoplankton Food](https://www.amazon.com/s?k=reef+phytoplankton+coral+food)**
 
 
 <div class="author-bio">
