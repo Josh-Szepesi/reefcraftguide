@@ -118,9 +118,9 @@ For the chemistry side of maintenance, our [Reef Tank Water Chemistry guide](/20
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Aquarium Algae Scraper Magnetic](https://www.amazon.com/s?k=aquarium+magnetic+algae+scraper&tag=mbbeekeeping-20)**
-- **[Gravel Vacuum Siphon](https://www.amazon.com/s?k=aquarium+gravel+vacuum+siphon&tag=mbbeekeeping-20)**
-- **[Water Change Kit](https://www.amazon.com/s?k=aquarium+water+change+bucket+tubing&tag=mbbeekeeping-20)**
+- **[Aquarium Algae Scraper Magnetic](https://www.amazon.com/s?k=aquarium+magnetic+algae+scraper)**
+- **[Gravel Vacuum Siphon](https://www.amazon.com/s?k=aquarium+gravel+vacuum+siphon)**
+- **[Water Change Kit](https://www.amazon.com/s?k=aquarium+water+change+bucket+tubing)**
 
 
 <div class="author-bio">
