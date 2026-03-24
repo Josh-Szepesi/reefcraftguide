@@ -143,9 +143,9 @@ For a comparison of all cycling methods, see our [Aquarium Cycling Guide](/2026/
 
 Here are a few products to help with what we covered in this guide:
 
-- **[API Master Reef Test Kit](https://www.amazon.com/s?k=api+master+reef+test+kit&tag=mbbeekeeping-20)**
-- **[Digital Refractometer Salinity](https://www.amazon.com/s?k=digital+refractometer+salinity+reef&tag=mbbeekeeping-20)**
-- **[Milwaukee pH Meter](https://www.amazon.com/s?k=milwaukee+ph+meter+saltwater&tag=mbbeekeeping-20)**
+- **[API Master Reef Test Kit](https://www.amazon.com/s?k=api+master+reef+test+kit)**
+- **[Digital Refractometer Salinity](https://www.amazon.com/s?k=digital+refractometer+salinity+reef)**
+- **[Milwaukee pH Meter](https://www.amazon.com/s?k=milwaukee+ph+meter+saltwater)**
 
 
 <div class="author-bio">
