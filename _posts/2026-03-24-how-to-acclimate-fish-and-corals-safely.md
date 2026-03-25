@@ -37,7 +37,7 @@ Here is the process we use:
 
 **Net, don't pour.** When acclimation is complete, net the fish and transfer it directly to the tank. Do not pour the bag water into your display tank. It may carry disease, parasites, or low-quality water from the shipping process.
 
-**Treat the acclimation water.** We add a small dose of [Seachem Prime](https://www.amazon.com/dp/B001AEFM8A?tag=mbbeekeeping-20) to the acclimation container water to neutralize any ammonia that may have built up during shipping. Prime is reef safe at normal doses and gives sensitive fish additional protection during the transfer.
+**Treat the acclimation water.** We add a small dose of [Seachem Prime](https://www.amazon.com/dp/B001AEFM8A) to the acclimation container water to neutralize any ammonia that may have built up during shipping. Prime is reef safe at normal doses and gives sensitive fish additional protection during the transfer.
 
 ## How to Acclimate Corals Safely
 
@@ -47,7 +47,7 @@ Corals tolerate the drip method as well, but the process is somewhat more forgiv
 
 **Dip every coral before it enters the tank.** This is non-negotiable in our experience. Every frag or colony that comes from an outside source can carry pests - flatworms, montipora-eating nudibranchs, red bugs, or aiptasia hitchhikers. A dip before placement gives you a chance to catch and remove pests before they enter your system.
 
-We use [Coral RX Pro](https://www.amazon.com/dp/B00CBY7EH0?tag=mbbeekeeping-20) as our standard dip solution. Mix according to label directions (typically 1 mL per liter of tank water), place the coral in the dip for 10-15 minutes, and gently agitate the water to dislodge anything that flees the coral. Inspect the bottom of the container afterward - pest flatworms will often drop and try to hide.
+We use [Coral RX Pro](https://www.amazon.com/dp/B00CBY7EH0) as our standard dip solution. Mix according to label directions (typically 1 mL per liter of tank water), place the coral in the dip for 10-15 minutes, and gently agitate the water to dislodge anything that flees the coral. Inspect the bottom of the container afterward - pest flatworms will often drop and try to hide.
 
 **Rinse and place.** After dipping, rinse the coral briefly in a small container of clean tank water before placing it in the display. Avoid putting new corals directly under peak lighting. Give them a few days in lower flow and reduced light intensity before moving them to their permanent spot. For more detail on where to place corals once they're settled, see our [beginner coral care guide](/2026/03/11/coral-care-for-beginners/).
 
@@ -55,7 +55,7 @@ We use [Coral RX Pro](https://www.amazon.com/dp/B00CBY7EH0?tag=mbbeekeeping-20) 
 
 If you're picking up fish or frags locally from another hobbyist or a fish store, the quality of the transport bag matters more than most people realize. Thin bags allow temperature to drop faster and offer less oxygen buffer during transport.
 
-[Kordon Breathing Bags](https://www.amazon.com/dp/B004LGH59A?tag=mbbeekeeping-20) are a worthwhile investment if you do frequent local pickups or attend frag swaps. They allow gas exchange through the bag wall, which reduces CO2 buildup and helps maintain pH during transport. For longer drives, over an hour, they make a noticeable difference in fish condition on arrival.
+[Kordon Breathing Bags](https://www.amazon.com/dp/B004LGH59A) are a worthwhile investment if you do frequent local pickups or attend frag swaps. They allow gas exchange through the bag wall, which reduces CO2 buildup and helps maintain pH during transport. For longer drives, over an hour, they make a noticeable difference in fish condition on arrival.
 
 If you're getting fish from a store, ask them to double-bag with air or use a pure oxygen fill for any fish that will travel more than 30 minutes.
 
@@ -83,9 +83,9 @@ If you see early signs of ich - white spots that look like grains of salt scatte
 
 ## Recommended Products
 
-- [Seachem Prime 500mL](https://www.amazon.com/dp/B001AEFM8A?tag=mbbeekeeping-20) - Reef-safe water conditioner and ammonia detoxifier for use in acclimation water
-- [Coral RX Pro Coral Dip](https://www.amazon.com/dp/B00CBY7EH0?tag=mbbeekeeping-20) - Broad-spectrum coral dip for pest removal before tank introduction
-- [Kordon Breathing Bags](https://www.amazon.com/dp/B004LGH59A?tag=mbbeekeeping-20) - Gas-permeable bags for local livestock transport that maintain oxygen levels during travel
+- [Seachem Prime 500mL](https://www.amazon.com/dp/B001AEFM8A) - Reef-safe water conditioner and ammonia detoxifier for use in acclimation water
+- [Coral RX Pro Coral Dip](https://www.amazon.com/dp/B00CBY7EH0) - Broad-spectrum coral dip for pest removal before tank introduction
+- [Kordon Breathing Bags](https://www.amazon.com/dp/B004LGH59A) - Gas-permeable bags for local livestock transport that maintain oxygen levels during travel
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
