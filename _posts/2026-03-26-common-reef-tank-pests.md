@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Common Reef Tank Pests and How to Remove Them"
+description: "Identify and eliminate common reef tank pests — from Aiptasia and bristle worms to flatworms and hair algae — with targeted removal methods for each type."
 date: 2026-03-26
 image: /assets/images/2026-03-26-common-reef-tank-pests.jpg
 ---
