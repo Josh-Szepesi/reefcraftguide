@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Reef Tank Water Changes: How Often and How Much"
+description: "Reef tank water changes don't follow a single schedule — learn how to find the right frequency and volume based on your tank's biology, load, and parameters."
 date: 2026-03-28
 image: /assets/images/2026-03-28-reef-tank-water-changes.jpg
 ---
