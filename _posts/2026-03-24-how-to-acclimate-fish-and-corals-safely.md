@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How to Acclimate Fish and Corals Safely to Your Reef Tank"
+description: "Acclimating fish and corals safely to your reef tank reduces shipping stress and parameter shock — covers drip acclimation, temperature matching, and timing."
 date: 2026-03-24
 image: /assets/images/2026-03-24-how-to-acclimate-fish-and-corals-safely.jpg
 ---
