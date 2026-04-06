@@ -48,7 +48,7 @@ Corals tolerate the drip method as well, but the process is somewhat more forgiv
 
 **Dip every coral before it enters the tank.** This is non-negotiable in our experience. Every frag or colony that comes from an outside source can carry pests - flatworms, montipora-eating nudibranchs, red bugs, or aiptasia hitchhikers. A dip before placement gives you a chance to catch and remove pests before they enter your system.
 
-We use [Coral RX Pro](https://www.amazon.com/dp/B00CBY7EH0?tag=reefcraft-20) as our standard dip solution. Mix according to label directions (typically 1 mL per liter of tank water), place the coral in the dip for 10-15 minutes, and gently agitate the water to dislodge anything that flees the coral. Inspect the bottom of the container afterward - pest flatworms will often drop and try to hide.
+We use [Coral RX Pro](https://www.amazon.com/dp/B00SGDE21G?tag=reefcraft-20) as our standard dip solution. Mix according to label directions (typically 1 mL per liter of tank water), place the coral in the dip for 10-15 minutes, and gently agitate the water to dislodge anything that flees the coral. Inspect the bottom of the container afterward - pest flatworms will often drop and try to hide.
 
 **Rinse and place.** After dipping, rinse the coral briefly in a small container of clean tank water before placing it in the display. Avoid putting new corals directly under peak lighting. Give them a few days in lower flow and reduced light intensity before moving them to their permanent spot. For more detail on where to place corals once they're settled, see our [beginner coral care guide](/2026/03/11/coral-care-for-beginners/).
 
@@ -85,7 +85,7 @@ If you see early signs of ich - white spots that look like grains of salt scatte
 ## Recommended Products
 
 - [Seachem Prime 500mL](https://www.amazon.com/dp/B00025694O?tag=reefcraft-20) - Reef-safe water conditioner and ammonia detoxifier for use in acclimation water
-- [Coral RX Pro Coral Dip](https://www.amazon.com/dp/B00CBY7EH0?tag=reefcraft-20) - Broad-spectrum coral dip for pest removal before tank introduction
+- [Coral RX Pro Coral Dip](https://www.amazon.com/dp/B00SGDE21G?tag=reefcraft-20) - Broad-spectrum coral dip for pest removal before tank introduction
 - [Kordon Breathing Bags](https://www.amazon.com/dp/B004LGH59A?tag=reefcraft-20) - Gas-permeable bags for local livestock transport that maintain oxygen levels during travel
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
