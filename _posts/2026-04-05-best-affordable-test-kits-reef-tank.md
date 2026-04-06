@@ -30,7 +30,7 @@ Understanding what you are testing is the first step. Choosing the right kit is 
 
 ### API Saltwater Master Test Kit
 
-The [API Saltwater Master Test Kit](https://www.amazon.com/dp/B001EUE808) is the lowest-cost entry point for new reef keepers. It covers ammonia, nitrite, nitrate, and pH with up to 550 tests combined across those four parameters. The liquid reagent format is meaningfully more accurate than dip strips, and the included color comparison cards are readable under neutral white light.
+The [API Saltwater Master Test Kit](https://www.amazon.com/dp/B001EUE808?tag=reefcraft-20) is the lowest-cost entry point for new reef keepers. It covers ammonia, nitrite, nitrate, and pH with up to 550 tests combined across those four parameters. The liquid reagent format is meaningfully more accurate than dip strips, and the included color comparison cards are readable under neutral white light.
 
 Where it falls short is coral-specific parameters. There is no alkalinity, calcium, or magnesium test in this kit. For a fish-only system converting to a reef, or a new tank working through its nitrogen cycle, it is a solid foundation. For an established reef with corals in the display, it must be supplemented with reef-specific tests.
 
@@ -38,7 +38,7 @@ Price point is typically under $25, which makes it the right starter buy. We hav
 
 ### Salifert Master Reef Testing Combo Kit
 
-The [Salifert Master Reef Testing Combo Kit](https://www.amazon.com/dp/B00RW64LMI) is where dedicated reef keepers tend to land. Salifert kits have been a community staple for over a decade and are known for strong accuracy relative to their price. The combo covers alkalinity, calcium, magnesium, nitrate, and phosphate, which means it handles everything a coral-focused keeper needs in a single purchase.
+The [Salifert Master Reef Testing Combo Kit](https://www.amazon.com/dp/B00RW64LMI?tag=reefcraft-20) is where dedicated reef keepers tend to land. Salifert kits have been a community staple for over a decade and are known for strong accuracy relative to their price. The combo covers alkalinity, calcium, magnesium, nitrate, and phosphate, which means it handles everything a coral-focused keeper needs in a single purchase.
 
 The color endpoints on Salifert kits are generally easier to read than multi-brand competitors, and the alkalinity titration method gives a precise endpoint rather than a vague gradient match. When we cross-referenced a batch of water against an ICP analysis from an independent lab, our Salifert alkalinity and calcium results came within 3-5% of the lab figures. That is well within practical accuracy for a home reef where you are making dosing adjustments, not publishing scientific data.
 
@@ -46,7 +46,7 @@ The test procedure takes slightly longer than dip strips, but the results are wo
 
 ### Red Sea Reef Foundation Pro Test Kit
 
-The [Red Sea Reef Foundation Pro Test Kit](https://www.amazon.com/dp/B004FUJ5NE) is designed for reefers who dose Red Sea's Foundation supplement line and want to test those exact parameters with matching calibration. The three-part kit covers calcium, alkalinity, and magnesium with clear visual endpoints and approximately 75 tests per parameter.
+The [Red Sea Reef Foundation Pro Test Kit](https://www.amazon.com/dp/B004FUJ5NE?tag=reefcraft-20) is designed for reefers who dose Red Sea's Foundation supplement line and want to test those exact parameters with matching calibration. The three-part kit covers calcium, alkalinity, and magnesium with clear visual endpoints and approximately 75 tests per parameter.
 
 Red Sea kits use a color change endpoint rather than a color comparison chart, which makes them less subject to lighting variation and individual color perception differences. That endpoint clarity is the biggest practical advantage over budget kits. If you are standing under blue reef lighting and trying to match a purple-to-pink gradient, color perception errors compound quickly. Red Sea's endpoint approach largely eliminates that problem.
 
