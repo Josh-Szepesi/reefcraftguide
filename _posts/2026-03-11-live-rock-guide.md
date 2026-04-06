@@ -108,9 +108,9 @@ Once your rock is placed and cured, start your cycle. See our [Aquarium Cycling 
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Live Rock Reef Aquarium](https://www.amazon.com/s?k=live+rock+reef+aquarium)**
-- **[Cured Base Rock](https://www.amazon.com/s?k=base+rock+reef+aquarium+cured)**
-- **[Reef Coralline Accelerator](https://www.amazon.com/s?k=reef+coralline+accelerator+purple+up)**
+- **[Live Rock Reef Aquarium](https://www.amazon.com/s?k=live+rock+reef+aquarium&tag=reefcraft-20)**
+- **[Cured Base Rock](https://www.amazon.com/s?k=base+rock+reef+aquarium+cured&tag=reefcraft-20)**
+- **[Reef Coralline Accelerator](https://www.amazon.com/s?k=reef+coralline+accelerator+purple+up&tag=reefcraft-20)**
 
 
 <div class="author-bio">
