@@ -70,7 +70,7 @@ For a full walkthrough on setting up and running a quarantine system, see our po
 
 The most effective pest management strategy is not letting pests in. Every coral frag and live rock addition is a potential vector. Making dipping a standard part of your acclimation process stops most hitchhikers before they establish.
 
-[Two Little Fishies ReVive Coral Cleaner](https://www.amazon.com/dp/B000I1Q4GK?tag=reefcraft-20) is a mild dip suitable for soft corals, LPS, and SPS. For SPS frags with potential AEFW exposure, use Coral RX Pro. Dip for the recommended time, gently agitate the coral, watch the runoff water in the dip container, and do a clean saltwater rinse before placing the coral in the tank. This takes about 15 minutes per coral and eliminates the vast majority of common surface pests.
+[Two Little Fishies ReVive Coral Cleaner](https://www.amazon.com/dp/B001EUG7Y8?tag=reefcraft-20) is a mild dip suitable for soft corals, LPS, and SPS. For SPS frags with potential AEFW exposure, use Coral RX Pro. Dip for the recommended time, gently agitate the coral, watch the runoff water in the dip container, and do a clean saltwater rinse before placing the coral in the tank. This takes about 15 minutes per coral and eliminates the vast majority of common surface pests.
 
 The Reef Builders community maintains a useful [coral dipping reference](https://reefbuilders.com/2010/06/09/coral-dipping-guide/) with species-specific guidance if you need detail on timing and solutions for specific coral types.
 
@@ -78,7 +78,7 @@ The Reef Builders community maintains a useful [coral dipping reference](https:/
 
 - **Red Sea Flatworm Exit** - [View on Amazon](https://www.amazon.com/dp/B000I1V89Q?tag=reefcraft-20) - Targeted flatworm treatment, safe for reef use when dosed correctly
 - **Coral RX Pro** - [View on Amazon](https://www.amazon.com/dp/B00BXAQV08?tag=reefcraft-20) - Broad-spectrum coral dip effective against AEFW, flatworms, and other surface pests
-- **Two Little Fishies ReVive Coral Cleaner** - [View on Amazon](https://www.amazon.com/dp/B000I1Q4GK?tag=reefcraft-20) - Gentle dip suitable for LPS and softies as part of a standard acclimation process
+- **Two Little Fishies ReVive Coral Cleaner** - [View on Amazon](https://www.amazon.com/dp/B001EUG7Y8?tag=reefcraft-20) - Gentle dip suitable for LPS and softies as part of a standard acclimation process
 - **Seachem Cupramine** - [View on Amazon](https://www.amazon.com/dp/B0002APAKO?tag=reefcraft-20) - Effective copper treatment for ich and velvet in quarantine tanks (never in the main reef)
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
