@@ -139,9 +139,9 @@ A sump pairs naturally with a refugium. Read our [Refugium Setup Guide](/2026/03
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Protein Skimmer Reef](https://www.amazon.com/s?k=protein+skimmer+reef+aquarium)**
-- **[Filter Sock Aquarium Sump](https://www.amazon.com/s?k=filter+sock+aquarium+sump)**
-- **[Activated Carbon Reef](https://www.amazon.com/s?k=activated+carbon+reef+aquarium+bag)**
+- **[Protein Skimmer Reef](https://www.amazon.com/s?k=protein+skimmer+reef+aquarium&tag=reefcraft-20)**
+- **[Filter Sock Aquarium Sump](https://www.amazon.com/s?k=filter+sock+aquarium+sump&tag=reefcraft-20)**
+- **[Activated Carbon Reef](https://www.amazon.com/s?k=activated+carbon+reef+aquarium+bag&tag=reefcraft-20)**
 
 
 <div class="author-bio">
