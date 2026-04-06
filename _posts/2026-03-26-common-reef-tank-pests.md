@@ -62,7 +62,7 @@ The practical guidance: small numbers of Asterinas in a healthy tank with no cor
 
 Saltwater ich (*Cryptocaryon irritans*) and Velvet (*Amyloodinium ocellatum*) are the two fish diseases reef keepers fear most. Both are common, both can kill fish quickly if untreated, and both require treatments that are incompatible with a reef environment.
 
-Copper-based medications like [Seachem Cupramine](https://www.amazon.com/dp/B0002APAKO?tag=reefcraft-20) are highly effective against ich and velvet, but they're fatal to invertebrates, corals, and beneficial bacteria. This is why a dedicated quarantine tank matters. If fish show signs of ich (white spots, scratching, labored breathing), they need to be moved to a bare-bottom quarantine tank for treatment.
+Copper-based medications like [Seachem Cupramine](https://www.amazon.com/dp/B00025K0QC?tag=reefcraft-20) are highly effective against ich and velvet, but they're fatal to invertebrates, corals, and beneficial bacteria. This is why a dedicated quarantine tank matters. If fish show signs of ich (white spots, scratching, labored breathing), they need to be moved to a bare-bottom quarantine tank for treatment.
 
 For a full walkthrough on setting up and running a quarantine system, see our post on [how to acclimate fish and corals safely](/how-to-acclimate-fish-and-corals-safely), which covers the QT basics.
 
@@ -79,7 +79,7 @@ The Reef Builders community maintains a useful [coral dipping reference](https:/
 - **Red Sea Flatworm Exit** - [View on Amazon](https://www.amazon.com/dp/B000I1V89Q?tag=reefcraft-20) - Targeted flatworm treatment, safe for reef use when dosed correctly
 - **Coral RX Pro** - [View on Amazon](https://www.amazon.com/dp/B00BXAQV08?tag=reefcraft-20) - Broad-spectrum coral dip effective against AEFW, flatworms, and other surface pests
 - **Two Little Fishies ReVive Coral Cleaner** - [View on Amazon](https://www.amazon.com/dp/B001EUG7Y8?tag=reefcraft-20) - Gentle dip suitable for LPS and softies as part of a standard acclimation process
-- **Seachem Cupramine** - [View on Amazon](https://www.amazon.com/dp/B0002APAKO?tag=reefcraft-20) - Effective copper treatment for ich and velvet in quarantine tanks (never in the main reef)
+- **Seachem Cupramine** - [View on Amazon](https://www.amazon.com/dp/B00025K0QC?tag=reefcraft-20) - Effective copper treatment for ich and velvet in quarantine tanks (never in the main reef)
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
