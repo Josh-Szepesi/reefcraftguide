@@ -42,9 +42,9 @@ The right frequency depends on your tank's bioload:
 
 The quality of your replacement water matters as much as how often you change it. Reef tanks need properly prepared saltwater - not tap water mixed with salt and added directly.
 
-**Start with RO/DI water.** Tap water contains chlorine, chloramines, silicates, nitrates, and phosphates that will undermine everything you are trying to accomplish with a water change. A good RO/DI unit is one of the best investments for a reef tank. If you do not have one, most fish stores sell RO water by the gallon, or you can use a product like [Seachem Prime](https://www.amazon.com/dp/B000255MZQ) to neutralize chlorine and chloramines in tap water as a short-term backup.
+**Start with RO/DI water.** Tap water contains chlorine, chloramines, silicates, nitrates, and phosphates that will undermine everything you are trying to accomplish with a water change. A good RO/DI unit is one of the best investments for a reef tank. If you do not have one, most fish stores sell RO water by the gallon, or you can use a product like [Seachem Prime](https://www.amazon.com/dp/B000255MZQ?tag=reefcraft-20) to neutralize chlorine and chloramines in tap water as a short-term backup.
 
-**Use a quality reef salt.** Not all salt mixes are equal. For reef tanks - especially those with corals - look for a salt that targets NSW (Natural Seawater) levels of calcium (around 400-420 ppm), alkalinity (8-9 dKH), and magnesium (1250-1350 ppm). [Seachem Reef Salt](https://www.amazon.com/dp/B0002563HM) is a widely used option that reliably mixes to NSW levels and dissolves cleanly.
+**Use a quality reef salt.** Not all salt mixes are equal. For reef tanks - especially those with corals - look for a salt that targets NSW (Natural Seawater) levels of calcium (around 400-420 ppm), alkalinity (8-9 dKH), and magnesium (1250-1350 ppm). [Seachem Reef Salt](https://www.amazon.com/dp/B0002563HM?tag=reefcraft-20) is a widely used option that reliably mixes to NSW levels and dissolves cleanly.
 
 **Match temperature and salinity before adding.** Mix your saltwater at least a few hours before your water change - overnight is better. Target 1.025-1.026 specific gravity (35-36 ppt salinity) for most reef systems. Use a quality refractometer to verify. Adding cold, warm, or off-salinity water creates chemistry swings that stress your animals even if the replacement water is otherwise pristine.
 
@@ -54,7 +54,7 @@ The quality of your replacement water matters as much as how often you change it
 
 One of the most overlooked aspects of reef water changes is alkalinity management. Alkalinity (carbonate hardness, measured in dKH) is consumed by corals and naturally drifts lower between changes. When you add fresh saltwater, you are topping it back up - but if your salt mix targets a different alkalinity than your tank is running, every water change creates a small swing.
 
-In our mixed reef, we target 8.5 dKH. We mix our replacement water to 8.5 dKH and confirm it before every change. If your salt is mixing higher than your target, you can use [Seachem Reef Buffer](https://www.amazon.com/dp/B0002563HC) to adjust the replacement water in the bucket before adding it. It is much easier to tweak new water in a mixing container than to react to a parameter swing in the display tank.
+In our mixed reef, we target 8.5 dKH. We mix our replacement water to 8.5 dKH and confirm it before every change. If your salt is mixing higher than your target, you can use [Seachem Reef Buffer](https://www.amazon.com/dp/B0002563HC?tag=reefcraft-20) to adjust the replacement water in the bucket before adding it. It is much easier to tweak new water in a mixing container than to react to a parameter swing in the display tank.
 
 For more detail on keeping alkalinity, calcium, and magnesium in range, see our guide on [dosing calcium and alkalinity: two-part vs. kalkwasser](/dosing-calcium-alkalinity-two-part-vs-kalkwasser).
 
@@ -96,9 +96,9 @@ Your tank will tell you if something is off - you just need to know what to look
 
 For a consistent water change routine, these are the three things that make the biggest practical difference:
 
-- [Seachem Reef Salt 4kg](https://www.amazon.com/dp/B0002563HM) - Mixes reliably to near-NSW parameters for calcium, alkalinity, and magnesium. A consistent, high-quality salt is the foundation of every water change.
-- [Seachem Prime 250ml](https://www.amazon.com/dp/B000255MZQ) - If you are using tap or well water as a backup source, Prime neutralizes chlorine and chloramines on contact and is reef-safe at proper dosing.
-- [Seachem Reef Buffer](https://www.amazon.com/dp/B0002563HC) - Useful for adjusting alkalinity in your freshly mixed replacement water before it goes into the tank, keeping your dKH stable across changes.
+- [Seachem Reef Salt 4kg](https://www.amazon.com/dp/B0002563HM?tag=reefcraft-20) - Mixes reliably to near-NSW parameters for calcium, alkalinity, and magnesium. A consistent, high-quality salt is the foundation of every water change.
+- [Seachem Prime 250ml](https://www.amazon.com/dp/B000255MZQ?tag=reefcraft-20) - If you are using tap or well water as a backup source, Prime neutralizes chlorine and chloramines on contact and is reef-safe at proper dosing.
+- [Seachem Reef Buffer](https://www.amazon.com/dp/B0002563HC?tag=reefcraft-20) - Useful for adjusting alkalinity in your freshly mixed replacement water before it goes into the tank, keeping your dKH stable across changes.
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
