@@ -28,9 +28,9 @@ The more serious threat is Acropora-Eating Flatworms (AEFW), which specifically 
 
 ### Treating Flatworms
 
-For rust-brown flatworms, targeted removal with a siphon tube works well for moderate infestations. Run the siphon over affected surfaces and collect worms in a fine mesh cup. This avoids the toxin die-off problem. For heavier infestations, [Red Sea Flatworm Exit](https://www.amazon.com/dp/B000I1V89Q) is a reliable treatment - dose carefully per the instructions, run carbon, and have your skimmer running full blast during treatment.
+For rust-brown flatworms, targeted removal with a siphon tube works well for moderate infestations. Run the siphon over affected surfaces and collect worms in a fine mesh cup. This avoids the toxin die-off problem. For heavier infestations, [Red Sea Flatworm Exit](https://www.amazon.com/dp/B000I1V89Q?tag=reefcraft-20) is a reliable treatment - dose carefully per the instructions, run carbon, and have your skimmer running full blast during treatment.
 
-For AEFW, the most effective approach is pulling affected corals and dipping them in a coral dip solution. We've had the best results with [Coral RX Pro](https://www.amazon.com/dp/B00BXAQV08), which is safe for most SPS when used at the recommended dilution. Dip for 10-15 minutes, rinse in clean saltwater, and inspect the runoff water for worms. Repeat every few days until you see no worms in the dip water.
+For AEFW, the most effective approach is pulling affected corals and dipping them in a coral dip solution. We've had the best results with [Coral RX Pro](https://www.amazon.com/dp/B00BXAQV08?tag=reefcraft-20), which is safe for most SPS when used at the recommended dilution. Dip for 10-15 minutes, rinse in clean saltwater, and inspect the runoff water for worms. Repeat every few days until you see no worms in the dip water.
 
 ## Aiptasia Anemones: Fast-Spreading and Hard to Kill
 
@@ -62,7 +62,7 @@ The practical guidance: small numbers of Asterinas in a healthy tank with no cor
 
 Saltwater ich (*Cryptocaryon irritans*) and Velvet (*Amyloodinium ocellatum*) are the two fish diseases reef keepers fear most. Both are common, both can kill fish quickly if untreated, and both require treatments that are incompatible with a reef environment.
 
-Copper-based medications like [Seachem Cupramine](https://www.amazon.com/dp/B0002APAKO) are highly effective against ich and velvet, but they're fatal to invertebrates, corals, and beneficial bacteria. This is why a dedicated quarantine tank matters. If fish show signs of ich (white spots, scratching, labored breathing), they need to be moved to a bare-bottom quarantine tank for treatment.
+Copper-based medications like [Seachem Cupramine](https://www.amazon.com/dp/B0002APAKO?tag=reefcraft-20) are highly effective against ich and velvet, but they're fatal to invertebrates, corals, and beneficial bacteria. This is why a dedicated quarantine tank matters. If fish show signs of ich (white spots, scratching, labored breathing), they need to be moved to a bare-bottom quarantine tank for treatment.
 
 For a full walkthrough on setting up and running a quarantine system, see our post on [how to acclimate fish and corals safely](/how-to-acclimate-fish-and-corals-safely), which covers the QT basics.
 
@@ -70,16 +70,16 @@ For a full walkthrough on setting up and running a quarantine system, see our po
 
 The most effective pest management strategy is not letting pests in. Every coral frag and live rock addition is a potential vector. Making dipping a standard part of your acclimation process stops most hitchhikers before they establish.
 
-[Two Little Fishies ReVive Coral Cleaner](https://www.amazon.com/dp/B000I1Q4GK) is a mild dip suitable for soft corals, LPS, and SPS. For SPS frags with potential AEFW exposure, use Coral RX Pro. Dip for the recommended time, gently agitate the coral, watch the runoff water in the dip container, and do a clean saltwater rinse before placing the coral in the tank. This takes about 15 minutes per coral and eliminates the vast majority of common surface pests.
+[Two Little Fishies ReVive Coral Cleaner](https://www.amazon.com/dp/B000I1Q4GK?tag=reefcraft-20) is a mild dip suitable for soft corals, LPS, and SPS. For SPS frags with potential AEFW exposure, use Coral RX Pro. Dip for the recommended time, gently agitate the coral, watch the runoff water in the dip container, and do a clean saltwater rinse before placing the coral in the tank. This takes about 15 minutes per coral and eliminates the vast majority of common surface pests.
 
 The Reef Builders community maintains a useful [coral dipping reference](https://reefbuilders.com/2010/06/09/coral-dipping-guide/) with species-specific guidance if you need detail on timing and solutions for specific coral types.
 
 ## Recommended Products
 
-- **Red Sea Flatworm Exit** - [View on Amazon](https://www.amazon.com/dp/B000I1V89Q) - Targeted flatworm treatment, safe for reef use when dosed correctly
-- **Coral RX Pro** - [View on Amazon](https://www.amazon.com/dp/B00BXAQV08) - Broad-spectrum coral dip effective against AEFW, flatworms, and other surface pests
-- **Two Little Fishies ReVive Coral Cleaner** - [View on Amazon](https://www.amazon.com/dp/B000I1Q4GK) - Gentle dip suitable for LPS and softies as part of a standard acclimation process
-- **Seachem Cupramine** - [View on Amazon](https://www.amazon.com/dp/B0002APAKO) - Effective copper treatment for ich and velvet in quarantine tanks (never in the main reef)
+- **Red Sea Flatworm Exit** - [View on Amazon](https://www.amazon.com/dp/B000I1V89Q?tag=reefcraft-20) - Targeted flatworm treatment, safe for reef use when dosed correctly
+- **Coral RX Pro** - [View on Amazon](https://www.amazon.com/dp/B00BXAQV08?tag=reefcraft-20) - Broad-spectrum coral dip effective against AEFW, flatworms, and other surface pests
+- **Two Little Fishies ReVive Coral Cleaner** - [View on Amazon](https://www.amazon.com/dp/B000I1Q4GK?tag=reefcraft-20) - Gentle dip suitable for LPS and softies as part of a standard acclimation process
+- **Seachem Cupramine** - [View on Amazon](https://www.amazon.com/dp/B0002APAKO?tag=reefcraft-20) - Effective copper treatment for ich and velvet in quarantine tanks (never in the main reef)
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
