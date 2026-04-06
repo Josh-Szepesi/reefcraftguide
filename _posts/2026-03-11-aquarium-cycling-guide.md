@@ -102,9 +102,9 @@ Once your tank is cycled, it's time to tackle water chemistry. Read our [Reef Ta
 
 Here are a few products to help with what we covered in this guide:
 
-- **[Beneficial Bacteria Reef](https://www.amazon.com/s?k=beneficial+bacteria+reef+cycling)**
-- **[CaribSea Live Sand](https://www.amazon.com/s?k=live+sand+caribsea+arag+alive)**
-- **[Seachem Prime Conditioner](https://www.amazon.com/s?k=seachem+prime+water+conditioner)**
+- **[Beneficial Bacteria Reef](https://www.amazon.com/s?k=beneficial+bacteria+reef+cycling&tag=reefcraft-20)**
+- **[CaribSea Live Sand](https://www.amazon.com/s?k=live+sand+caribsea+arag+alive&tag=reefcraft-20)**
+- **[Seachem Prime Conditioner](https://www.amazon.com/s?k=seachem+prime+water+conditioner&tag=reefcraft-20)**
 
 
 <div class="author-bio">
