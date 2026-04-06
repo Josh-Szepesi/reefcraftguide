@@ -71,11 +71,11 @@ The University of Florida IFAS extension maintains solid reference material on [
 
 These products complement your CUC and support the conditions they need to thrive.
 
-**Flipper Nano Aquarium Algae Cleaner Magnet** handles what the CUC misses - specifically the glass between waterline and substrate. It works on both glass and acrylic without scratching. Available on Amazon: [Flipper Nano Algae Cleaner](https://www.amazon.com/dp/B000255NCI)
+**Flipper Nano Aquarium Algae Cleaner Magnet** handles what the CUC misses - specifically the glass between waterline and substrate. It works on both glass and acrylic without scratching. Available on Amazon: [Flipper Nano Algae Cleaner](https://www.amazon.com/dp/B000255NCI?tag=reefcraft-20)
 
-**Seachem Stability** helps stabilize the biological filter when you add a large CUC batch at once. A few doses during the first week reduces the risk of ammonia spikes from any animals that don't acclimate well. Available on Amazon: [Seachem Stability](https://www.amazon.com/dp/B00025694Y)
+**Seachem Stability** helps stabilize the biological filter when you add a large CUC batch at once. A few doses during the first week reduces the risk of ammonia spikes from any animals that don't acclimate well. Available on Amazon: [Seachem Stability](https://www.amazon.com/dp/B00025694Y?tag=reefcraft-20)
 
-**Instant Ocean Reef Crystals** is the salt mix we use for water changes in reef tanks with active CUCs. It's formulated with elevated calcium and trace elements that support snail shell health over time. Available on Amazon: [Instant Ocean Reef Crystals](https://www.amazon.com/dp/B00004RA6R)
+**Instant Ocean Reef Crystals** is the salt mix we use for water changes in reef tanks with active CUCs. It's formulated with elevated calcium and trace elements that support snail shell health over time. Available on Amazon: [Instant Ocean Reef Crystals](https://www.amazon.com/dp/B00004RA6R?tag=reefcraft-20)
 
 *As an Amazon Associate we earn from qualifying purchases at no extra cost to you.*
 
