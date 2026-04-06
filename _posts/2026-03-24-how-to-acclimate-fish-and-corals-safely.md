@@ -38,7 +38,7 @@ Here is the process we use:
 
 **Net, don't pour.** When acclimation is complete, net the fish and transfer it directly to the tank. Do not pour the bag water into your display tank. It may carry disease, parasites, or low-quality water from the shipping process.
 
-**Treat the acclimation water.** We add a small dose of [Seachem Prime](https://www.amazon.com/dp/B001AEFM8A?tag=reefcraft-20) to the acclimation container water to neutralize any ammonia that may have built up during shipping. Prime is reef safe at normal doses and gives sensitive fish additional protection during the transfer.
+**Treat the acclimation water.** We add a small dose of [Seachem Prime](https://www.amazon.com/dp/B00025694O?tag=reefcraft-20) to the acclimation container water to neutralize any ammonia that may have built up during shipping. Prime is reef safe at normal doses and gives sensitive fish additional protection during the transfer.
 
 ## How to Acclimate Corals Safely
 
@@ -84,7 +84,7 @@ If you see early signs of ich - white spots that look like grains of salt scatte
 
 ## Recommended Products
 
-- [Seachem Prime 500mL](https://www.amazon.com/dp/B001AEFM8A?tag=reefcraft-20) - Reef-safe water conditioner and ammonia detoxifier for use in acclimation water
+- [Seachem Prime 500mL](https://www.amazon.com/dp/B00025694O?tag=reefcraft-20) - Reef-safe water conditioner and ammonia detoxifier for use in acclimation water
 - [Coral RX Pro Coral Dip](https://www.amazon.com/dp/B00CBY7EH0?tag=reefcraft-20) - Broad-spectrum coral dip for pest removal before tank introduction
 - [Kordon Breathing Bags](https://www.amazon.com/dp/B004LGH59A?tag=reefcraft-20) - Gas-permeable bags for local livestock transport that maintain oxygen levels during travel
 
