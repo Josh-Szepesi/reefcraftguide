@@ -32,7 +32,7 @@ These are starting points, not absolutes. A hammer coral that has been kept unde
 
 ### How to find your tank's PAR zones
 
-If you don't already own a PAR meter, this is one of the most useful diagnostic tools in the hobby. The [SICWEDIM PAR Meter for Reef Tank](https://www.amazon.com/dp/B0G2GP1WWM) includes an extension pole for reaching the sandbed without getting your arm wet, which makes mapping a full tank much faster. Take readings at the sandbed, mid-column, and near the surface at multiple horizontal positions - aim for at least 9 data points in a 36-inch tank.
+If you don't already own a PAR meter, this is one of the most useful diagnostic tools in the hobby. The [SICWEDIM PAR Meter for Reef Tank](https://www.amazon.com/dp/B0G2GP1WWM?tag=reefcraft-20) includes an extension pole for reaching the sandbed without getting your arm wet, which makes mapping a full tank much faster. Take readings at the sandbed, mid-column, and near the surface at multiple horizontal positions - aim for at least 9 data points in a 36-inch tank.
 
 Mark your zones with tape on the outside glass if needed. Knowing that your top-left corner runs 350 PAR and your bottom-right corner runs 80 PAR transforms placement from guesswork into an actual decision.
 
@@ -56,7 +56,7 @@ Flow requirements by category:
 - **SPS - montipora:** Moderate to high. They are more tolerant of direct flow than acropora.
 - **SPS - acropora:** High, turbulent, multidirectional. This is non-negotiable for long-term health.
 
-We've kept both the [AQQA Aquarium Wave Maker with Controller](https://www.amazon.com/dp/B0DFTL4QCB) and a dedicated tunze, and the wave maker's pulse mode does a noticeably better job of creating the random turbulence SPS need compared to a single constant-flow pump at the same GPH rating.
+We've kept both the [AQQA Aquarium Wave Maker with Controller](https://www.amazon.com/dp/B0DFTL4QCB?tag=reefcraft-20) and a dedicated tunze, and the wave maker's pulse mode does a noticeably better job of creating the random turbulence SPS need compared to a single constant-flow pump at the same GPH rating.
 
 For a detailed breakdown of positioning powerheads to eliminate dead spots, see our guide to [powerhead placement and flow in a reef aquarium](/powerhead-placement-and-flow-reef-aquarium/).
 
@@ -127,7 +127,7 @@ Montipora is a more accessible entry point to SPS - it tolerates mid-tank placem
 
 **How do I know if a coral is getting too much light?**
 
-Bleaching is the most obvious sign - the coral will lose color and begin to look white or pale. Before full bleaching, many corals will retract further than usual or take longer to open each day. Some LPS, particularly acans, will also puff with excess water to shield themselves from intense light. If you see these signs, reduce intensity or move the coral lower in the tank immediately. A [reef LED light with adjustable intensity](https://www.amazon.com/dp/B0G7HQFT5P) makes this easier than lights with fixed output.
+Bleaching is the most obvious sign - the coral will lose color and begin to look white or pale. Before full bleaching, many corals will retract further than usual or take longer to open each day. Some LPS, particularly acans, will also puff with excess water to shield themselves from intense light. If you see these signs, reduce intensity or move the coral lower in the tank immediately. A [reef LED light with adjustable intensity](https://www.amazon.com/dp/B0G7HQFT5P?tag=reefcraft-20) makes this easier than lights with fixed output.
 
 **Can I place different euphyllia species next to each other?**
 
@@ -145,9 +145,9 @@ LED lights degrade gradually, with output typically dropping 10-20% over two to 
 
 These are tools we use for coral placement and reef light management:
 
-- **[SICWEDIM PAR Meter for Reef Tank with Extension Pole](https://www.amazon.com/dp/B0G2GP1WWM)** - the most practical entry into PAR mapping; the extension pole is genuinely useful for reading the sandbed without draining half the tank
-- **[AQQA Aquarium Wave Maker with Controller](https://www.amazon.com/dp/B0DFTL4QCB)** - pulse mode creates the multidirectional turbulence SPS need; programmable day/night cycle lets you match flow to coral rest periods
-- **[AquaHorti MegaReef 100 Reef LED Aquarium Light](https://www.amazon.com/dp/B0G7HQFT5P)** - adjustable intensity and spectrum make acclimating new corals significantly easier than fixed-output lights
+- **[SICWEDIM PAR Meter for Reef Tank with Extension Pole](https://www.amazon.com/dp/B0G2GP1WWM?tag=reefcraft-20)** - the most practical entry into PAR mapping; the extension pole is genuinely useful for reading the sandbed without draining half the tank
+- **[AQQA Aquarium Wave Maker with Controller](https://www.amazon.com/dp/B0DFTL4QCB?tag=reefcraft-20)** - pulse mode creates the multidirectional turbulence SPS need; programmable day/night cycle lets you match flow to coral rest periods
+- **[AquaHorti MegaReef 100 Reef LED Aquarium Light](https://www.amazon.com/dp/B0G7HQFT5P?tag=reefcraft-20)** - adjustable intensity and spectrum make acclimating new corals significantly easier than fixed-output lights
 
 ---
 
