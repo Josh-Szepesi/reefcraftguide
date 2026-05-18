@@ -86,4 +86,4 @@ Bookmark this guide for your next tank build and share your sump layout photos i
 - [2026 05 01 Macroalgae In The Reef Refugium Species And Displa](/2026-05-01-2026-05-01-macroalgae-in-the-reef-refugium-species-and-displa)
 - [2026 05 04 Reef Tank Plumbing And Overflow Basics For Beginne](/2026-05-04-2026-05-04-reef-tank-plumbing-and-overflow-basics-for-beginne)
 
-<div class="author-bio"><p><strong>About the Author</strong></p><p>The ReefCraft Guide team writes about saltwater aquarium keeping from hands-on tank experience. From water chemistry to coral placement, our guides reflect what actually works in a home reef setup - not just what the textbook says.</p></div>
+<div class="author-bio"><p><strong>About the Author</strong></p><p>The ReefCraft Guide team researches saltwater aquarium keeping, drawing on community-tested methods, manufacturer data, and published marine biology literature. Our guides explain why something works - not just what to do.</p></div>
