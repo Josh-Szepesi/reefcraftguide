@@ -108,7 +108,4 @@ Bookmark this guide for your next equipment upgrade and stay consistent with you
 - [Dosing Calcium Alkalinity Two Part Vs Kalkwasser](/dosing-calcium-alkalinity-two-part-vs-kalkwasser/)
 - [Powerhead Placement And Flow Reef Aquarium](/powerhead-placement-and-flow-reef-aquarium/)
 
-<div class="author-bio">
-  <p><strong>About the Author</strong></p>
-  <p>The ReefCraft Guide team writes about saltwater aquarium keeping from hands-on tank experience. From water chemistry to coral placement, our guides reflect what actually works in a home reef setup - not just what the textbook says.</p>
-</div>
+<div class="author-bio"><p><strong>About the Author</strong></p><p>The ReefCraft Guide team researches saltwater aquarium keeping, drawing on community-tested methods, manufacturer data, and published marine biology literature. Our guides explain why something works - not just what to do.</p></div>
