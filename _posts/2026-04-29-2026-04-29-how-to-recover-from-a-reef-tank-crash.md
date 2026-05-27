@@ -35,7 +35,7 @@ You cannot manage what you do not measure. During a crash recovery, your testing
 
 For basic monitoring of the nitrogen cycle during the initial recovery phase, the [API Reef Master Test Kit](https://www.amazon.com/dp/B001D6Z7QW?tag=reefcraft-20?tag=reefcraft-20) is a reliable way to get quick, color-coded results for ammonia and nitrate. It is perfect for those high-stress moments when you just need to know if the water is toxic. However, as you move into the stabilization phase where you need to precisely dial in your alkalinity and calcium to prevent further stress to sensitive species like *Seriatopora* or *Montipora*, you need higher resolution.
 
-For that level of precision, we prefer the [Salifert Master Reef Testing Combo Kit](https://www.amazon.com/dp/B001D6Z7QW?tag=reefcraft-20?tag=reefcraft-20). The titration-based tests for alkalinity and magnesium are far more accurate than cheaper alternatives, allowing you to see if your alkalinity is drifting by 0.1 dKH increments. This precision is vital because a fluctuating alkalinity is often what causes "slow tissue necrosis" (STN) weeks after the initial crash event. If you are struggling with these concepts, refer to our [Best Affordable Test Kits Reef Tank](/2026-04-05-best-affordable-test-kits-reef-tank/) guide for a deeper dive into which kits offer the best value for long-term stability.
+For that level of precision, we prefer the [Salifert Master Reef Testing Combo Kit](https://www.amazon.com/dp/B001D6Z7QW?tag=reefcraft-20?tag=reefcraft-20). The titration-based tests for alkalinity and magnesium are far more accurate than cheaper alternatives, allowing you to see if your alkalinity is drifting by 0.1 dKH increments. This precision is vital because a fluctuating alkalinity is often what causes "slow tissue necrosis" (STN) weeks after the initial crash event. If you are struggling with these concepts, refer to our [Best Affordable Test Kits Reef Tank](/2026/04/05/best-affordable-test-kits-reef-tank//) guide for a deeper dive into which kits offer the best value for long-term stability.
 
 ## Re-establishing the Microbiome
 
@@ -51,7 +51,7 @@ The corals that survive the initial 48 hours are still in a state of extreme str
 
 If you have corals showing signs of STN, such as a slow recession from the base, do not be afraid to use a coral dip. However, avoid harsh medicinal dips that can further stress a weakened animal. A gentle iodine-based dip can help disinfect the area and prevent secondary bacterial infections from taking hold. For species like *Euphyllia glabrescens* (Gold Torch) or *Catalaphyllia jardinei* (Elegance Coral), watch for "brown jelly disease," which can spread rapidly in a post-crash tank. If you see a brown, snot-like substance on a coral, remove it immediately and dip it outside the tank.
 
-Check your flow patterns as well. While corals need flow to bring in nutrients and carry away waste, a crashing tank often has high levels of particulate matter that can irritate polyps. Ensure your wavemakers are providing turbulent, indirect flow rather than a direct blast. If you are unsure about where to place your recovering corals, our [2026 04 03 Coral Placement Guide Light And Flow](/2026-04-03-coral-placement-guide-light-and-flow/) provides specific details on the requirements for various species that might be struggling.
+Check your flow patterns as well. While corals need flow to bring in nutrients and carry away waste, a crashing tank often has high levels of particulate matter that can irritate polyps. Ensure your wavemakers are providing turbulent, indirect flow rather than a direct blast. If you are unsure about where to place your recovering corals, our [2026 04 03 Coral Placement Guide Light And Flow](/2026/04/03/coral-placement-guide-light-and-flow//) provides specific details on the requirements for various species that might be struggling.
 
 ### The 72-Hour Recovery Protocol
 
@@ -66,7 +66,7 @@ This decision framework is designed to give you a clear path forward when the ch
 | **Evaluate** | Day 3 | Observe polyp extension, check for STN/RTN, re-test everything. | Medium |
 | **Restore** | Day 7+ | Slowly ramp lights, resume light feeding, check ATO/Doser. | Low |
 
-This framework assumes you have already addressed the root cause of the crash. If you are dealing with a recurring issue, such as a failing chiller, your first priority must be the hardware repair. For more details on managing temperature-related crashes, see our comparison on [Chiller Vs Fan Cooling Reef Tank](/2026-04-13-chiller-vs-fan-cooling-reef-tank/).
+This framework assumes you have already addressed the root cause of the crash. If you are dealing with a recurring issue, such as a failing chiller, your first priority must be the hardware repair. For more details on managing temperature-related crashes, see our comparison on [Chiller Vs Fan Cooling Reef Tank](/2026/04/13/chiller-vs-fan-cooling-reef-tank//).
 
 ## Common Mistakes and Troubleshooting
 
@@ -96,8 +96,8 @@ Recovering from a reef tank crash is a test of patience as much as a test of che
 Stay diligent with your testing and keep a close eye on your survivors for the next few weeks.
 
 **Related reading:**
-- [Best Affordable Test Kits Reef Tank](/2026-04-05-best-affordable-test-kits-reef-tank/)
-- [Sps Coral Basics Water Quality Flow](/2026-04-09-sps-coral-basics-water-quality-flow/)
+- [Best Affordable Test Kits Reef Tank](/2026/04/05/best-affordable-test-kits-reef-tank//)
+- [Sps Coral Basics Water Quality Flow](/2026/04/09/sps-coral-basics-water-quality-flow//)
 
 <div class="author-bio">
   <p><strong>About the Author</strong></p>
