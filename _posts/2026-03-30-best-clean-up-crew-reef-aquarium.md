@@ -49,13 +49,13 @@ A rough starting guideline used widely in the reef hobby is 1-2 CUC members per 
 
 For a 50-gallon reef, a reasonable starting CUC might look like: 20 Nassarius snails, 15 Astrea snails, 10 Cerith snails, 10 blue-legged hermit crabs, 2 emerald crabs, and 2 cleaner shrimp. Adjust based on what you actually see - if algae is getting ahead of the snails, add more before reaching for chemical interventions.
 
-Avoid overstocking the CUC. Too many snails consuming too little algae leads to starvation and die-offs, which create the exact nutrient spike you were trying to prevent. See our article on [reef tank water changes](/2026-03-28-reef-tank-water-changes) for how to respond if a die-off causes an ammonia spike.
+Avoid overstocking the CUC. Too many snails consuming too little algae leads to starvation and die-offs, which create the exact nutrient spike you were trying to prevent. See our article on [reef tank water changes](/2026/03/28/reef-tank-water-changes/) for how to respond if a die-off causes an ammonia spike.
 
 ## When to Add Your Clean-Up Crew
 
 Add your CUC only after the tank has fully cycled and nitrite has returned to zero. Most hobbyists add CUC before fish, since the CUC helps clean up the algae bloom that typically follows the cycling phase.
 
-Acclimate all CUC arrivals carefully. For snails and hermit crabs, we use a slow drip acclimation over 45-60 minutes. Shrimp are more sensitive to salinity differentials, so drip acclimation is especially important for them. For a full walkthrough, see our guide on [how to acclimate fish and corals safely](/2026-03-24-how-to-acclimate-fish-and-corals-safely).
+Acclimate all CUC arrivals carefully. For snails and hermit crabs, we use a slow drip acclimation over 45-60 minutes. Shrimp are more sensitive to salinity differentials, so drip acclimation is especially important for them. For a full walkthrough, see our guide on [how to acclimate fish and corals safely](/2026/03/24/how-to-acclimate-fish-and-corals-safely/).
 
 Watch for hitchhikers when adding CUC. Mantis shrimp can arrive inside rock or shells. Gorilla crabs - dark-shelled, hairy-clawed - are predatory and will hunt snails and small fish. If you notice mysterious CUC losses, set a simple bottle trap overnight to catch what's hiding in the rock.
 
@@ -63,7 +63,7 @@ Watch for hitchhikers when adding CUC. Mantis shrimp can arrive inside rock or s
 
 The biggest threats to a CUC are copper medication (fatal to all invertebrates), sudden salinity drops, and low alkalinity affecting shell formation in snails. Maintain your salinity at 1.025-1.026 specific gravity and run regular parameter checks.
 
-Never dose copper in a display tank that houses CUC. If you need to treat for ich or other fish disease, a dedicated quarantine tank is the only safe option. We cover reef-safe treatment strategies more in our post on [common reef tank pests and how to remove them](/2026-03-26-common-reef-tank-pests).
+Never dose copper in a display tank that houses CUC. If you need to treat for ich or other fish disease, a dedicated quarantine tank is the only safe option. We cover reef-safe treatment strategies more in our post on [common reef tank pests and how to remove them](/2026/03/26/common-reef-tank-pests/).
 
 The University of Florida IFAS extension maintains solid reference material on [marine invertebrate care and biology](https://edis.ifas.ufl.edu/) that's worth bookmarking if you're new to keeping reef inverts.
 
