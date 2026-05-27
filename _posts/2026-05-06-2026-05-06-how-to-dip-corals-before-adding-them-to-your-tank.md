@@ -43,7 +43,7 @@ The duration of the dip should typically be between 5 and 15 minutes, depending 
 
 It is a common misconception that dipping kills everything. Most commercially available dips do absolutely nothing to the eggs of flatworms or nudibranchs. These eggs are protected by a tough, leathery casing that is impervious to the chemicals. This is why physical inspection and removal are the most important parts of the process. AEFW eggs are usually found at the base of the coral, where the live tissue meets the dead skeleton. They look like tiny, brownish or golden clusters. If you see them, you have two choices: scrape them off with a scalpel and then scrub the area with a toothbrush, or better yet, cut the coral off its original plug and discard the base entirely.
 
-In fact, I recommend always removing corals from their original shipping plugs. Pests and their eggs love to hide in the porous ceramic or rock of the plug. By cutting the coral just above the base using a pair of bone cutters and mounting it to a fresh, clean plug, you eliminate about 90% of the risk. This is especially true for *Zoanthus* colonies, which often arrive on plugs covered in algae that can hide sundial snails or *Aiptasia*. If you are uncomfortable cutting the coral, you must be extremely diligent with a toothbrush, scrubbing every millimeter of the plug and the exposed skeleton. If you find eggs and cannot remove them entirely, that coral should never go into your display tank; it must go into a dedicated quarantine system for observation. For more on setting up such a system, see our guide on [Reef Tank Quarantine Setup](/2026-04-17-reef-tank-quarantine-setup/).
+In fact, I recommend always removing corals from their original shipping plugs. Pests and their eggs love to hide in the porous ceramic or rock of the plug. By cutting the coral just above the base using a pair of bone cutters and mounting it to a fresh, clean plug, you eliminate about 90% of the risk. This is especially true for *Zoanthus* colonies, which often arrive on plugs covered in algae that can hide sundial snails or *Aiptasia*. If you are uncomfortable cutting the coral, you must be extremely diligent with a toothbrush, scrubbing every millimeter of the plug and the exposed skeleton. If you find eggs and cannot remove them entirely, that coral should never go into your display tank; it must go into a dedicated quarantine system for observation. For more on setting up such a system, see our guide on [Reef Tank Quarantine Setup](/2026/04/17/reef-tank-quarantine-setup//).
 
 | Coral Type | Sensitivity Level | Recommended Dip Type | Key Pests to Watch For |
 | :--- | :--- | :--- | :--- |
@@ -74,11 +74,11 @@ The proof is in the bottom of the bucket. After you remove the coral and the agi
 
 Dipping your corals is the single most effective habit you can develop to ensure the long term success of your reef tank. It requires patience, the right tools, and a disciplined approach to water chemistry, but the payoff is a pest free environment where your corals can thrive. By matching your parameters, choosing the right chemical agent, and performing a rigorous physical inspection, you remove the variables that lead to tank crashes. Never trust a "clean" look; always assume there is a hitchhiker waiting to move in. Once you have finished the dip and rinse process, your next step is ensuring the coral is placed in the optimal environment for recovery.
 
-Check out our guide on [2026 04 03 Coral Placement Guide Light And Flow](/2026-04-03-coral-placement-guide-light-and-flow/) to make sure your newly dipped corals have the best start possible.
+Check out our guide on [2026 04 03 Coral Placement Guide Light And Flow](/2026/04/03/coral-placement-guide-light-and-flow//) to make sure your newly dipped corals have the best start possible.
 
 **Related reading:**
-- [2026 04 17 Reef Tank Quarantine Setup](/2026-04-17-reef-tank-quarantine-setup/)
-- [2026 04 03 Coral Placement Guide Light And Flow](/2026-04-03-coral-placement-guide-light-and-flow/)
+- [2026 04 17 Reef Tank Quarantine Setup](/2026/04/17/reef-tank-quarantine-setup//)
+- [2026 04 03 Coral Placement Guide Light And Flow](/2026/04/03/coral-placement-guide-light-and-flow//)
 
 <div class="author-bio">
   <p><strong>About the Author</strong></p>
