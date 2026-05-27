@@ -66,7 +66,7 @@ The return line is the part of the plumbing that brings clean, filtered water ba
 
 To prevent this, you must use a combination of shallow nozzle placement and "siphon breaks." A siphon break is a small hole drilled in the return plumbing just below the water line. When the water level drops during a power outage, air enters the hole and breaks the siphon immediately. However, you cannot rely on a siphon break alone, as salt creep or a stray snail can clog that tiny hole. Your sump must be sized to hold the "drain down" volume of your display tank. Calculate the volume of the top inch of your tank and ensure your sump has at least that much empty space during normal operation.
 
-You should also consider the use of a manifold on your return line. A manifold is a series of T-junctions with valves that allow you to divert some of the return pump's flow to other equipment, such as a UV sterilizer or a carbon reactor. This eliminates the need for multiple small pumps in your sump, which reduces heat transfer and simplifies your electrical setup. For more on managing the water quality that these reactors provide, check out our post on [2026 04 05 Best Affordable Test Kits Reef Tank](/2026-04-05-best-affordable-test-kits-reef-tank/). A well-organized manifold is the hallmark of an advanced reef keeper and makes maintenance significantly easier.
+You should also consider the use of a manifold on your return line. A manifold is a series of T-junctions with valves that allow you to divert some of the return pump's flow to other equipment, such as a UV sterilizer or a carbon reactor. This eliminates the need for multiple small pumps in your sump, which reduces heat transfer and simplifies your electrical setup. For more on managing the water quality that these reactors provide, check out our post on [2026 04 05 Best Affordable Test Kits Reef Tank](/2026/04/05/best-affordable-test-kits-reef-tank//). A well-organized manifold is the hallmark of an advanced reef keeper and makes maintenance significantly easier.
 
 ## Troubleshooting Common Plumbing Issues
 
@@ -94,7 +94,7 @@ Plumbing is the backbone of your reef tank's success. By moving away from noisy,
 Bookmark this guide for your next build and leave a comment below if you have questions about your specific bulkhead sizes.
 
 **Related Reading:**
-- [2026 04 05 Best Affordable Test Kits Reef Tank](/2026-04-05-best-affordable-test-kits-reef-tank/)
+- [2026 04 05 Best Affordable Test Kits Reef Tank](/2026/04/05/best-affordable-test-kits-reef-tank//)
 - [Reef Tank Automation Dosing Pumps Controllers And Monitoring](/reef-tank-automation-dosing-pumps-controllers-and-monitoring/)
 
 <div class="author-bio">
