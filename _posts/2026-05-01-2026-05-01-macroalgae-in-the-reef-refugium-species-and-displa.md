@@ -88,7 +88,7 @@ Macroalgae is far more than just a tool for nutrient export; it is a vital compo
 Bookmark this guide for your next refugium overhaul or display tank expansion.
 
 ### Related reading
-- [2026 04 05 Best Affordable Test Kits Reef Tank](/2026-04-05-best-affordable-test-kits-reef-tank/)
+- [2026 04 05 Best Affordable Test Kits Reef Tank](/2026/04/05/best-affordable-test-kits-reef-tank//)
 - [Reef Tank Automation Dosing Pumps Controllers And Monitoring](/reef-tank-automation-dosing-pumps-controllers-and-monitoring/)
 
 <div class="author-bio">
