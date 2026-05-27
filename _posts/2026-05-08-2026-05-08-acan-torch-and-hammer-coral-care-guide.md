@@ -35,7 +35,7 @@ Lighting and flow are the two environmental factors that you will spend the most
 
 Torches and Hammers prefer moderate light, typically in the 150 to 250 PAR range. They rely heavily on their symbiotic zooxanthellae for energy, so adequate lighting is necessary for growth. However, high end "Holy Grail" or "Gold" torches are particularly sensitive to light changes. It is always better to start these corals lower in the tank and slowly move them upward over several weeks to acclimate them to your lighting schedule.
 
-Flow is equally important but often misunderstood. For Euphyllia (Torches and Hammers), the goal is "moderate, chaotic flow." You want the tentacles to sway gently in the breeze, not be blasted in one direction. Direct flow from a powerhead can tear the delicate flesh of a Torch or Hammer against its own sharp skeleton, leading to infection and death. If the tentacles are retracted or flattened against the skeleton, the flow is likely too strong. Acans, on the other hand, prefer lower flow. They need just enough movement to keep detritus from settling on their fleshy polyps, but not so much that they cannot expand. When an Acan is happy, it will look like a puffed up marshmallow. For more detailed strategies on where to put these corals, check out our [Coral Placement Guide](/2026-04-03-coral-placement-guide-light-and-flow/).
+Flow is equally important but often misunderstood. For Euphyllia (Torches and Hammers), the goal is "moderate, chaotic flow." You want the tentacles to sway gently in the breeze, not be blasted in one direction. Direct flow from a powerhead can tear the delicate flesh of a Torch or Hammer against its own sharp skeleton, leading to infection and death. If the tentacles are retracted or flattened against the skeleton, the flow is likely too strong. Acans, on the other hand, prefer lower flow. They need just enough movement to keep detritus from settling on their fleshy polyps, but not so much that they cannot expand. When an Acan is happy, it will look like a puffed up marshmallow. For more detailed strategies on where to put these corals, check out our [Coral Placement Guide](/2026/04/03/coral-placement-guide-light-and-flow//).
 
 ## Feeding and Nutritional Needs
 
@@ -43,7 +43,7 @@ While these corals get a significant portion of their energy from light, they ar
 
 Torches and Hammers also benefit from feeding, though they can be a bit more finicky. They have a central mouth in each head. You can offer them small pieces of seafood or liquid coral foods. Many reefers use amino acid supplements, which are absorbed directly from the water column and can help with tissue repair and vibrancy. When feeding, it is important to turn off your powerheads for 10 to 15 minutes to allow the corals to grasp the food and move it toward their mouths without it being washed away.
 
-Be careful not to overfeed. Any uneaten food will rot and contribute to nitrate and phosphate spikes, which can lead to nuisance algae growth. A balanced approach of broadcast feeding the whole tank with powdered foods and target feeding specific colonies with meaty bits is usually the most effective strategy. If you are new to this, our guide on [LPS Corals for Beginners](/2026-04-07-lps-corals-for-beginners/) covers some of the easiest feeding methods to get you started.
+Be careful not to overfeed. Any uneaten food will rot and contribute to nitrate and phosphate spikes, which can lead to nuisance algae growth. A balanced approach of broadcast feeding the whole tank with powdered foods and target feeding specific colonies with meaty bits is usually the most effective strategy. If you are new to this, our guide on [LPS Corals for Beginners](/2026/04/07/lps-corals-for-beginners//) covers some of the easiest feeding methods to get you started.
 
 ## Managing Aggression, Pests, and Diseases
 
@@ -79,8 +79,8 @@ As you become more comfortable with these species, you will start to recognize t
 The key to long term success with LPS corals is precision. If you haven't already, invest in high quality testing equipment to ensure your parameters stay within the ranges discussed today. Monitoring your alkalinity and calcium daily when first adding these corals will help you understand their consumption rates and keep your tank stable.
 
 ### Related Reading
-- [Coral Placement Guide: Light and Flow Strategies](/2026-04-03-coral-placement-guide-light-and-flow/)
-- [LPS Corals for Beginners: Top Species and Tips](/2026-04-07-lps-corals-for-beginners/)
+- [Coral Placement Guide: Light and Flow Strategies](/2026/04/03/coral-placement-guide-light-and-flow//)
+- [LPS Corals for Beginners: Top Species and Tips](/2026/04/07/lps-corals-for-beginners//)
 
 <div class="author-bio"><p><strong>About the Author</strong></p><p>The ReefCraft Guide team writes about saltwater aquarium keeping from hands-on tank experience.</p></div>
 
