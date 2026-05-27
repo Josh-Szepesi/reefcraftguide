@@ -73,7 +73,7 @@ While your fish are in quarantine treatment, the display tank must run with no f
 
 During the fallow period, your corals, invertebrates, and clean-up crew stay in the display. The ich parasites hatch, fail to find a host, and die. After 6-8 weeks, the parasite population in the display should be at or near zero.
 
-When reintroducing fish, do it slowly. Acclimate properly and monitor for any signs of reinfection. See our guide on [how to acclimate fish and corals safely](/2026-03-24-how-to-acclimate-fish-and-corals-safely) for a step-by-step process.
+When reintroducing fish, do it slowly. Acclimate properly and monitor for any signs of reinfection. See our guide on [how to acclimate fish and corals safely](/2026/03/24/how-to-acclimate-fish-and-corals-safely/) for a step-by-step process.
 
 ## Hyposalinity: What It Is and When It Works
 
@@ -111,7 +111,7 @@ UV sterilizers are a reasonable addition to a reef tank as a preventive tool, no
 
 **Not completing the full quarantine duration.** Ich symptoms disappear when trophonts drop off the fish. Fish will look completely healthy a few days into quarantine treatment, often before theronts have finished hatching and dying. Ending treatment at the first sign of recovery guarantees reinfection. Complete the full 30+ days in QT and the full 6-8 week fallow in the display.
 
-**Skipping the quarantine tank altogether.** Introducing new fish directly into a reef display without quarantine is one of the leading causes of ich introductions. Even fish that look healthy can be carrying a subclinical parasite burden. Our guide on [common reef tank pests and how to handle them](/2026-03-26-common-reef-tank-pests) covers the quarantine protocol as a preventive measure.
+**Skipping the quarantine tank altogether.** Introducing new fish directly into a reef display without quarantine is one of the leading causes of ich introductions. Even fish that look healthy can be carrying a subclinical parasite burden. Our guide on [common reef tank pests and how to handle them](/2026/03/26/common-reef-tank-pests/) covers the quarantine protocol as a preventive measure.
 
 **Inconsistent copper levels.** Copper treatment requires holding levels in a precise therapeutic range. Below that range, it does not kill the parasite. Above it, it becomes toxic to fish. Test copper levels daily during treatment.
 
@@ -149,9 +149,9 @@ At 78-80 degrees F, the consensus from reef keeping research and experience is t
 
 Ich in a reef tank is one of those problems that gets worse the faster you try to fix it with shortcuts. The only approach that actually works is also the slowest one: remove the fish, treat them in a dedicated quarantine tank for 30+ days, and let the display run without fish for 6-8 weeks. Done correctly, you will have an ich-free reef and healthy, fully recovered fish to reintroduce.
 
-Bookmark this guide and refer back to it when you are setting up your quarantine protocol. If you are new to reef keeping and want to build a strong foundation, start with our [best affordable test kits for reef tank water chemistry](/2026-04-05-best-affordable-test-kits-reef-tank) guide, because maintaining stable water quality is the best defense against ich-related losses.
+Bookmark this guide and refer back to it when you are setting up your quarantine protocol. If you are new to reef keeping and want to build a strong foundation, start with our [best affordable test kits for reef tank water chemistry](/2026/04/05/best-affordable-test-kits-reef-tank/) guide, because maintaining stable water quality is the best defense against ich-related losses.
 
-**Related reading:** [How to Acclimate Fish and Corals Safely](/2026-03-24-how-to-acclimate-fish-and-corals-safely)
+**Related reading:** [How to Acclimate Fish and Corals Safely](/2026/03/24/how-to-acclimate-fish-and-corals-safely/)
 
 ---
 
