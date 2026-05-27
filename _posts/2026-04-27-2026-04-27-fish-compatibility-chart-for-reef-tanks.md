@@ -51,7 +51,7 @@ The order in which you add fish to your reef is just as important as the species
 
 When you are ready to introduce a new fish, do it at night or during a "lights out" period. Turning off the reef lights reduces the activity level of the resident fish and gives the newcomer a few hours to explore the rockwork in relative peace. Another pro tip is to heavily feed the tank right before you release the new fish. Distracting the residents with a feast makes them less likely to notice the new guy immediately. 
 
-For those keeping more aggressive species, you might even consider rearranging a few pieces of rockwork right before an introduction. This "resets" the territories in the tank, making everyone feel like they are in a new environment. This levels the playing field. However, never forget the importance of quarantine. Introducing a "compatible" fish that brings Ich or Velvet into your system will ruin your tank faster than any fight. You can read more about setting up a proper [Reef Tank Quarantine Setup](/2026-04-17-reef-tank-quarantine-setup/) to ensure your new additions are healthy before they join the display.
+For those keeping more aggressive species, you might even consider rearranging a few pieces of rockwork right before an introduction. This "resets" the territories in the tank, making everyone feel like they are in a new environment. This levels the playing field. However, never forget the importance of quarantine. Introducing a "compatible" fish that brings Ich or Velvet into your system will ruin your tank faster than any fight. You can read more about setting up a proper [Reef Tank Quarantine Setup](/2026/04/17/reef-tank-quarantine-setup//) to ensure your new additions are healthy before they join the display.
 
 ## Environmental Compatibility and Water Chemistry Stability
 
@@ -61,7 +61,7 @@ When fish are stressed by poor water chemistry, their behavior changes. A fish t
 
 **Safety Warning:** When working with your tank's electrical components - such as heaters, pumps, and lighting - always use a GFCI outlet and a drip loop. Saltwater is highly conductive, and a stray current can not only kill your fish but also pose a serious risk to you. Additionally, if you use a CO2 scrubber or have a tightly sealed house, monitor your pH levels closely to avoid swings that can stress your livestock. If you ever notice your fish gasping at the surface, check your aeration and ensure your CO2 levels are not dangerously high in the room.
 
-Environmental compatibility also extends to coral choices. If you have a tank full of stinging corals like *Galaxea* or certain *Euphyllia*, your fish need enough open swimming space to avoid being stung. A fish that is constantly being nipped by coral polyps will be stressed and more likely to develop diseases like Marine Ich. If you do encounter disease, you need to know [How To Treat Ich Reef Tank](/2026-04-11-how-to-treat-ich-reef-tank/) without destroying your biological filter or killing your invertebrates.
+Environmental compatibility also extends to coral choices. If you have a tank full of stinging corals like *Galaxea* or certain *Euphyllia*, your fish need enough open swimming space to avoid being stung. A fish that is constantly being nipped by coral polyps will be stressed and more likely to develop diseases like Marine Ich. If you do encounter disease, you need to know [How To Treat Ich Reef Tank](/2026/04/11/how-to-treat-ich-reef-tank//) without destroying your biological filter or killing your invertebrates.
 
 ### The Reef Stocking Decision Framework
 
@@ -103,8 +103,8 @@ Success with a fish compatibility chart for reef tanks requires moving beyond th
 **Next Action:** Bookmark this guide and cross reference your current "wish list" against the decision framework table above.
 
 ### Related Reading
-- [2026 04 17 Reef Tank Quarantine Setup](/2026-04-17-reef-tank-quarantine-setup/)
-- [2026 04 11 How To Treat Ich Reef Tank](/2026-04-11-how-to-treat-ich-reef-tank/)
+- [2026 04 17 Reef Tank Quarantine Setup](/2026/04/17/reef-tank-quarantine-setup//)
+- [2026 04 11 How To Treat Ich Reef Tank](/2026/04/11/how-to-treat-ich-reef-tank//)
 
 <div class="author-bio">
   <p><strong>About the Author</strong></p>
