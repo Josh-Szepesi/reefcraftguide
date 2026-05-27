@@ -23,7 +23,7 @@ The goal is not to reach zero. A reef tank with absolute zero nitrates and phosp
 
 ## Biological Export via Refugiums and Carbon Dosing
 
-The most sustainable way to manage nutrients is to mimic the natural processes of the ocean. A dedicated refugium is the premier biological tool for this task. By growing fast growing macroalgae, such as *Chaetomorpha linum* or *Caulerpa*, you are effectively "locking" nitrates and phosphates into plant biomass. As the algae grows, it consumes these nutrients. When you harvest a handful of the algae and throw it away, you are physically removing those nutrients from the system. For a deep dive on which species to use, you should read about [macroalgae in the reef refugium](/2026-05-01-2026-05-01-macroalgae-in-the-reef-refugium-species-and-displa).
+The most sustainable way to manage nutrients is to mimic the natural processes of the ocean. A dedicated refugium is the premier biological tool for this task. By growing fast growing macroalgae, such as *Chaetomorpha linum* or *Caulerpa*, you are effectively "locking" nitrates and phosphates into plant biomass. As the algae grows, it consumes these nutrients. When you harvest a handful of the algae and throw it away, you are physically removing those nutrients from the system. For a deep dive on which species to use, you should read about [macroalgae in the reef refugium](/2026/05/01/2026-05-01-macroalgae-in-the-reef-refugium-species-and-displa/).
 
 Carbon dosing is another biological lever you can pull. This involves adding a complex carbon source, such as ethanol (vodka), acetic acid (vinegar), or specialized biodegradable polymers (biopellets), to stimulate the growth of heterotrophic bacteria. These bacteria consume both the carbon source and the nitrates and phosphates in the water. As the bacterial population explodes, they are eventually removed from the system via the protein skimmer. This method is incredibly effective but requires a high quality protein skimmer to ensure the tank remains oxygenated. Without a skimmer, the bacterial bloom can deplete dissolved oxygen levels, leading to livestock suffocation.
 
@@ -82,7 +82,7 @@ The general rule of thumb is to never lower your phosphate by more than 0.02 ppm
 Controlling nitrates and phosphates in a reef tank is a continuous process of balancing inputs and exports. By utilizing a combination of biological growth, chemical media, and rigorous mechanical maintenance, you can create a stable environment where both soft corals and demanding SPS can thrive. Remember that stability is always more important than hitting a specific numerical target. Focus on gradual changes, regular testing, and physical waste removal to ensure your reef remains healthy for the long term. If you found this guide helpful, consider bookmarking this page for future reference as your tank matures.
 
 ### Related reading
-- [How To Recover From A Reef Tank Crash](/2026-04-29-2026-04-29-how-to-recover-from-a-reef-tank-crash)
-- [Macroalgae In The Reef Refugium Species And Displa](/2026-05-01-2026-05-01-macroalgae-in-the-reef-refugium-species-and-displa)
+- [How To Recover From A Reef Tank Crash](/2026/04/29/2026-04-29-how-to-recover-from-a-reef-tank-crash/)
+- [Macroalgae In The Reef Refugium Species And Displa](/2026/05/01/2026-05-01-macroalgae-in-the-reef-refugium-species-and-displa/)
 
 <div class="author-bio"><p><strong>About the Author</strong></p><p>The ReefCraft Guide team writes about saltwater aquarium keeping from hands-on tank experience. From water chemistry to coral placement, our guides reflect what actually works in a home reef setup - not just what the textbook says.</p></div>
