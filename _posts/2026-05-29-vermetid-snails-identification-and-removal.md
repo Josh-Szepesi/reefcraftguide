@@ -3,7 +3,7 @@ layout: post
 title: "Vermetid snails: identification and removal"
 description: "Learn how to identify and eliminate vermetid snails in your reef tank. This guide covers manual removal, biological controls, and coral safety protocols."
 date: 2026-05-29
-image: /assets/images/reef-aquarium-default-hero.jpg
+image: /assets/images/2026-05-29-vermetid-snails-identification-and-removal-hero.jpg
 ---
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
