@@ -3,7 +3,7 @@ layout: post
 title: "How to set up a refugium in a reef system"
 description: "Master the art of natural nutrient export. Learn how to set up a refugium in a reef system to control nitrates, phosphates, and grow live coral food."
 date: 2026-05-27
-image: /assets/images/reef-aquarium-default-hero.jpg
+image: /assets/images/2026-05-27-how-to-set-up-a-refugium-in-a-reef-system-hero.jpg
 ---
 
 *This post contains affiliate links. As an Amazon Associate, I earn from qualifying purchases at no extra cost to you.*
