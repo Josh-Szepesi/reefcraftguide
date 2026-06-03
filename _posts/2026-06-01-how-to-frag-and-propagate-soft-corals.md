@@ -10,7 +10,7 @@ image: assets/images/2026-06-01-how-to-frag-and-propagate-soft-corals-hero.jpg
 
 Soft coral propagation is the most effective way to manage the growth of a reef tank while simultaneously building a sustainable ecosystem that does not rely on wild-harvested specimens. When a *Sarcophyton* leather coral or a colony of *Zoanthus* begins to crowd its neighbors, the health of the entire aquarium is at risk due to chemical warfare and shading. Fragging is the proactive solution to these space constraints. By mastering the techniques required to divide and mount these organisms, you can create new colonies for trade, sale, or placement in other areas of your display. To get started with the mounting process, you'll need to pick up a high-quality adhesive like [IC-Gel Coral Frag Glue for Reef Aquariums](https://www.amazon.com/dp/B07ZMHKZQT?tag=reefcraft-20), which is essential for securing slippery soft tissues to stable substrates. Successful propagation requires more than just a sharp blade; it demands an understanding of coral biology, proper safety protocols, and a commitment to maintaining stable water chemistry during the recovery phase.
 
-![How to frag and propagate soft corals hero image showing related product](assets/images/2026-06-01-how-to-frag-and-propagate-soft-corals-hero.jpg)
+![How to frag and propagate soft corals hero image showing related product](/assets/images/2026-06-01-how-to-frag-and-propagate-soft-corals-hero.jpg)
 <p class="image-credit">Photo by <a href="https://unsplash.com/@quinguyen?utm_source=artlines_blog&utm_medium=referral">qui nguyen</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
 
 ## Practical Tools for How to Frag and Propagate Soft Corals
