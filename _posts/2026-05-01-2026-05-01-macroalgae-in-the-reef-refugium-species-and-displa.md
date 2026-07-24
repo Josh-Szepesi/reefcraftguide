@@ -89,7 +89,7 @@ Bookmark this guide for your next refugium overhaul or display tank expansion.
 
 ### Related reading
 - [2026 04 05 Best Affordable Test Kits Reef Tank](/2026/04/05/best-affordable-test-kits-reef-tank//)
-- [Reef Tank Automation Dosing Pumps Controllers And Monitoring](/reef-tank-automation-dosing-pumps-controllers-and-monitoring/)
+- [Reef Tank Automation Dosing Pumps Controllers And Monitoring](/2026/04/23/reef-tank-automation-dosing-pumps-controllers-and-monitoring/)
 
 <div class="author-bio">
   <p><strong>About the Author</strong></p>

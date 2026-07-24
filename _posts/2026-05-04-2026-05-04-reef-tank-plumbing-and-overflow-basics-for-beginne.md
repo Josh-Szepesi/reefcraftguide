@@ -35,7 +35,7 @@ The biggest complaint among new reefers is the sound of their plumbing. A poorly
 
 The Herbie system uses two pipes. The main drain is restricted by a high-quality gate valve until the pipe is completely submerged and running as a full siphon. This pipe handles 95 percent of the flow. The second pipe is the "emergency" drain, which sits slightly higher. A tiny trickle of water should go down the emergency drain to indicate the system is balanced. If the main drain gets clogged by a wandering *Stomatella* snail, the emergency pipe is large enough to handle the full flow of the pump, preventing a flood. 
 
-The BeanAnimal system is the gold standard of reef tank plumbing, often cited by experts at [Reef2Reef](https://www.reef2reef.com/) for its reliability. It uses three pipes: a full siphon, an open channel, and a dry emergency. This system is truly fail-safe and self-adjusting. The open channel handles the slight fluctuations in pump flow, while the dry emergency remains completely dry unless there is a major problem. For a detailed look at how these systems integrate with overall tank management, you should read our guide on [Reef Tank Automation Dosing Pumps Controllers And Monitoring](/reef-tank-automation-dosing-pumps-controllers-and-monitoring/). The BeanAnimal is more complex to plumb, but it provides a level of security that allows you to sleep soundly. You should never build a reef tank today using a single drain pipe. It is an unnecessary risk that has ended many hobbies prematurely.
+The BeanAnimal system is the gold standard of reef tank plumbing, often cited by experts at [Reef2Reef](https://www.reef2reef.com/) for its reliability. It uses three pipes: a full siphon, an open channel, and a dry emergency. This system is truly fail-safe and self-adjusting. The open channel handles the slight fluctuations in pump flow, while the dry emergency remains completely dry unless there is a major problem. For a detailed look at how these systems integrate with overall tank management, you should read our guide on [Reef Tank Automation Dosing Pumps Controllers And Monitoring](/2026/04/23/reef-tank-automation-dosing-pumps-controllers-and-monitoring/). The BeanAnimal is more complex to plumb, but it provides a level of security that allows you to sleep soundly. You should never build a reef tank today using a single drain pipe. It is an unnecessary risk that has ended many hobbies prematurely.
 
 **SAFETY WARNING:** When working with reef tank plumbing, you are dealing with large volumes of water in close proximity to high-voltage electricity. Always use GFCI (Ground Fault Circuit Interrupter) outlets for all aquarium equipment. Ensure all power strips are mounted high and utilize "drip loops" on every single power cord. A drip loop is a simple U-shape in the cord that prevents water from running down the wire directly into the outlet. Additionally, keep a dedicated mopping kit and leak detectors near your sump at all times.
 
@@ -95,7 +95,7 @@ Bookmark this guide for your next build and leave a comment below if you have qu
 
 **Related Reading:**
 - [2026 04 05 Best Affordable Test Kits Reef Tank](/2026/04/05/best-affordable-test-kits-reef-tank//)
-- [Reef Tank Automation Dosing Pumps Controllers And Monitoring](/reef-tank-automation-dosing-pumps-controllers-and-monitoring/)
+- [Reef Tank Automation Dosing Pumps Controllers And Monitoring](/2026/04/23/reef-tank-automation-dosing-pumps-controllers-and-monitoring/)
 
 <div class="author-bio">
   <p><strong>About the Author</strong></p>
