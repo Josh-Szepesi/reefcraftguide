@@ -18,7 +18,7 @@ Reef tank pests are not the result of poor husbandry - they arrive in coral ship
 This guide covers the eight most destructive reef tank pests, how to identify each one, and the removal methods that actually work without wrecking your tank's balance. You'll also learn which prevention steps pay off and which common removal tactics will backfire. If you're managing a reef tank, an alkalinity test kit and routine water testing (checking calcium, alkalinity, and salinity weekly) form the foundation for healthy corals that can resist pest damage. A tool like the [Seachem Reef Kalkwasser](https://www.amazon.com/dp/B0002A5WOW?tag=reefcraft-20) helps maintain the calcium and alkalinity levels that stressed corals need to recover from pest damage.
 
 ![Common reef tank pests and how to remove them](/assets/images/2026-06-17-common-reef-tank-pests-and-how-to-remove-them-hero.jpg)
-<p class="image-credit">Photo by <a href="https://unsplash.com?utm_source=artlines_blog&utm_medium=referral">Unsplash</a> on <a href="https://unsplash.com/?utm_source=artlines_blog&utm_medium=referral">Unsplash</a></p>
+<p class="image-credit">Photo by <a href="https://unsplash.com/@davidclode?utm_source=reefcraftguide&utm_medium=referral">David Clode</a> on <a href="https://unsplash.com/?utm_source=reefcraftguide&utm_medium=referral">Unsplash</a></p>
 
 ## Why Reef Tank Pests Damage Corals Faster Than You Think
 
