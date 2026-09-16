@@ -36,7 +36,7 @@ If you don't already own a PAR meter, this is one of the most useful diagnostic 
 
 Mark your zones with tape on the outside glass if needed. Knowing that your top-left corner runs 350 PAR and your bottom-right corner runs 80 PAR transforms placement from guesswork into an actual decision.
 
-For more detail on dialing in your reef lighting setup, see our guide to [aquarium lighting for reef tanks](/aquarium-lighting-for-reef-tanks/).
+For more detail on dialing in your reef lighting setup, see our guide to [aquarium lighting for reef tanks](/2026/03/11/aquarium-lighting-for-reef-tanks/).
 
 ## Understanding Flow: Laminar vs. Turbulent and Low vs. High
 
@@ -58,7 +58,7 @@ Flow requirements by category:
 
 We've kept both the [AQQA Aquarium Wave Maker with Controller](https://www.amazon.com/dp/B0DFTL4QCB?tag=reefcraft-20) and a dedicated tunze, and the wave maker's pulse mode does a noticeably better job of creating the random turbulence SPS need compared to a single constant-flow pump at the same GPH rating.
 
-For a detailed breakdown of positioning powerheads to eliminate dead spots, see our guide to [powerhead placement and flow in a reef aquarium](/powerhead-placement-and-flow-reef-aquarium/).
+For a detailed breakdown of positioning powerheads to eliminate dead spots, see our guide to [powerhead placement and flow in a reef aquarium](/2026/03/22/powerhead-placement-and-flow-reef-aquarium/).
 
 ## Coral Placement by Type: Where in the Tank to Put Them
 
@@ -153,7 +153,7 @@ These are tools we use for coral placement and reef light management:
 
 For a deeper look at how water chemistry interacts with coral health, the [NOAA Coral Reef Conservation Program](https://coralreef.noaa.gov/) is a solid reference for understanding why stable parameters matter alongside placement decisions.
 
-Bookmark this guide and check out our [coral care guide for beginners](/coral-care-for-beginners/) next - it covers the fundamentals of feeding, fragging, and long-term coral health that work alongside good placement practices.
+Bookmark this guide and check out our [coral care guide for beginners](/2026/03/11/coral-care-for-beginners/) next - it covers the fundamentals of feeding, fragging, and long-term coral health that work alongside good placement practices.
 
 <div class="author-bio">
   <p><strong>About the Author</strong></p>
